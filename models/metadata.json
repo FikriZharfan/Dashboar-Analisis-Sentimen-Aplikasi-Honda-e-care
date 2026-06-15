@@ -1,0 +1,11 @@
+{
+  "total_data_before_cleaning": 5148,
+  "total_data_after_cleaning": 1052,
+  "train_size": 830,
+  "test_size": 208,
+  "best_model_by_accuracy": "SVM (LinearSVC)",
+  "best_model_by_f1": "SVM (LinearSVC)",
+  "conclusion": "Model terbaik berdasarkan akurasi adalah SVM (LinearSVC), dan berdasarkan F1-score adalah SVM (LinearSVC).",
+  "source_csv_mtime": 1778051729.3184586,
+  "dashboard_corpus_path": "dashboard_corpus.csv"
+}
