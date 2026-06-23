@@ -10,3 +10,4 @@ joblib
 streamlit
 plotly
 pyarrow
+nltk
