@@ -114,7 +114,22 @@ def ensure_nltk_resources() -> None:
         try:
             nltk.data.find(resource_path)
         except (LookupError, OSError):
-            nltk.download(resource_name, quiet=True)
+            try:
+                nltk.download(resource_name, quiet=True)
+            except Exception:
+                try:
+                    nltk.download("punkt", quiet=True)
+                except Exception:
+                    pass
+
+    # Extra fallback for 'punkt_tab' if referenced by environment/code
+    try:
+        nltk.data.find("tokenizers/punkt_tab")
+    except Exception:
+        try:
+            nltk.download("punkt_tab", quiet=True)
+        except Exception:
+            pass
 
 
 ensure_nltk_resources()
