@@ -8,10 +8,6 @@ from typing import Dict, List
 
 import nltk
 
-nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('stopwords')
-
 import joblib
 import matplotlib.pyplot as plt
 import numpy as np
