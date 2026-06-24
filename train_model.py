@@ -424,11 +424,7 @@ def main() -> None:
     print(df.isnull().sum())
 
     df = df.dropna(subset=["content", "label"]).reset_index(drop=True)
-
-    before_dedup = len(df)
-    df = df.drop_duplicates(subset=["content"]).reset_index(drop=True)
     total_after = len(df)
-    print(f"Duplikat dihapus: {before_dedup - total_after}")
     print(f"Jumlah Data Sesudah Cleaning: {total_after}")
 
     # =====================================================

@@ -19,7 +19,6 @@ from train_model import DATA_PATH, MODELS_DIR, preprocess_text, read_dataset
 def main() -> None:
     df = read_dataset(DATA_PATH)
     df = df.dropna(subset=["content", "label"]).reset_index(drop=True)
-    df = df.drop_duplicates(subset=["content"]).reset_index(drop=True)
     print(f"Memproses {len(df)} baris (bisa beberapa menit)...")
     df["cleaned_text"] = df["content"].astype(str).apply(preprocess_text)
     df = df[df["cleaned_text"].str.strip() != ""].reset_index(drop=True)
