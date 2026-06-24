@@ -705,7 +705,12 @@ def read_dataset(path: str) -> pd.DataFrame:
 
 @st.cache_data
 def load_dataset() -> pd.DataFrame:
-    return read_dataset(DATA_PATH).dropna(subset=["content", "label"]).reset_index(drop=True)
+    return (
+        read_dataset(DATA_PATH)
+        .dropna(subset=["content", "label"])
+        .drop_duplicates(subset=["content"])
+        .reset_index(drop=True)
+    )
 
 
 @st.cache_resource
