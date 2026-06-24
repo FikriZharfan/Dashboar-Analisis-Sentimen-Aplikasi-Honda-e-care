@@ -166,14 +166,14 @@ button[data-testid="baseButton-header"] {
     background: rgba(255,255,255,0.04) !important;
     border: 1px solid transparent !important;
     border-radius: 8px !important;
-    padding: 0.5rem 0.75rem !important;
-    margin: 2px 0 !important;
+    padding: 0.42rem 0.65rem !important;
+    margin: 0.2rem 0 !important;
     width: 100%;
     transition: background 0.2s, border-color 0.2s;
 }
 
 [data-testid="stSidebar"] [data-testid="stRadio"] label[data-baseweb="radio"]:hover {
-    background: rgba(255,255,255,0.1) !important;
+    background: rgba(255,255,255,0.12) !important;
     border-color: #5A5A5A !important;
 }
 
@@ -190,6 +190,7 @@ button[data-testid="baseButton-header"] {
 [data-testid="stSidebar"] [data-testid="stRadio"] label[data-baseweb="radio"]:has(input:checked) {
     background: __C_ACCENT__ !important;
     border-color: __C_ACCENT__ !important;
+    margin: 0.2rem 0 !important;
 }
 
 [data-testid="stSidebar"] [data-testid="stRadio"] label[data-baseweb="radio"]:has(input:checked) p {
