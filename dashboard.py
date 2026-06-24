@@ -919,9 +919,9 @@ def page_home(df: pd.DataFrame, metadata: Dict) -> None:
                 key="home_dist_chart",
             )
     with col_table:
-        section_title("Contoh Dataset")
+        section_title("Contoh Dataset — Sudah Dipreprocessing")
         with st.container(border=True, key="honda_home_table"):
-            styled_dataframe(df[["content", "label"]].head(12), height=360)
+            styled_dataframe(df[["content", "cleaned_text", "label"]].head(12), height=420)
 
 
 def page_visualization(
