@@ -197,6 +197,66 @@ button[data-testid="baseButton-header"] {
     font-weight: 600 !important;
 }
 
+.honda-sidebar-brand {
+    padding: 1.2rem 1rem 1rem 1rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(180deg, rgba(213,0,0,0.95), rgba(229,57,53,0.9));
+    border-radius: 18px;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.24);
+}
+
+.honda-sidebar-title {
+    color: __C_WHITE__;
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: 0.22em;
+    margin-bottom: 0.35rem;
+}
+
+.honda-sidebar-subtitle {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.85rem;
+}
+
+.honda-sidebar-divider {
+    width: 52px;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 999px;
+}
+
+.honda-sidebar-section {
+    color: #BDBDBD !important;
+    font-size: 0.76rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin: 1.2rem 0 0.55rem 0;
+    padding-left: 0.1rem;
+}
+
+.honda-sidebar-meta {
+    margin-top: 1rem;
+    padding: 0.95rem 0.95rem 1rem 0.95rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.honda-sidebar-meta-row {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 0.84rem;
+    line-height: 1.7;
+    margin-bottom: 0.35rem;
+}
+
+.honda-sidebar-meta-row:last-child {
+    margin-bottom: 0;
+}
+
 .honda-header {
     background: linear-gradient(135deg, __C_DARK__ 0%, __C_METAL__ 55%, #3A3A3A 100%);
     border-radius: 16px;
