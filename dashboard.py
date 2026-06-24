@@ -970,14 +970,23 @@ def page_visualization(
             show_plotly_chart(apply_plotly_theme(fig, f"Perbandingan {metric}"))
 
 
-def page_predict_text(model, tfidf, label_encoder, model_name: str) -> None:
+def page_predict_text(nb_model, svm_model, tfidf, label_encoder) -> None:
     section_title("Prediksi Sentimen Kalimat Baru")
     st.markdown(
         '<div class="panel-white"><p style="color:#4F4F4F;margin:0;">'
-        "Masukkan ulasan pengguna aplikasi Honda e-Care. Teks akan diproses "
-        "(cleaning, normalisasi, stemming) lalu diklasifikasi.</p></div>",
+        "Pilih model di bawah lalu masukkan teks ulasan. Teks akan diproses "
+        "(cleaning, normalisasi, stemming) dan diklasifikasikan.</p></div>",
         unsafe_allow_html=True,
     )
+
+    model_name = st.selectbox(
+        "Model Prediksi",
+        ["Naive Bayes", "SVM"],
+        index=1,
+        label_visibility="collapsed",
+        key="prediction_model_text",
+    )
+    model = nb_model if model_name == "Naive Bayes" else svm_model
 
     user_input = st.text_area(
         "Teks ulasan", height=140, placeholder="Contoh: Aplikasi sangat membantu dan mudah digunakan…",
@@ -1008,12 +1017,28 @@ def page_predict_text(model, tfidf, label_encoder, model_name: str) -> None:
     styled_dataframe(ex_df)
 
 
-def page_predict_csv(model, tfidf, label_encoder, uploaded_csv) -> None:
+def page_predict_csv(nb_model, svm_model, tfidf, label_encoder) -> None:
     section_title("Prediksi Sentimen Massal (CSV)")
     st.caption("File wajib memiliki kolom `content`.")
 
+    model_name = st.selectbox(
+        "Model Prediksi",
+        ["Naive Bayes", "SVM"],
+        index=1,
+        label_visibility="collapsed",
+        key="prediction_model_csv",
+    )
+    model = nb_model if model_name == "Naive Bayes" else svm_model
+
+    uploaded_csv = st.file_uploader(
+        "Upload CSV untuk prediksi massal",
+        type=["csv"],
+        label_visibility="collapsed",
+        key="csv_prediction_upload",
+    )
+
     if uploaded_csv is None:
-        st.info("Upload file CSV melalui sidebar untuk memulai prediksi massal.")
+        st.info("Upload file CSV di sini untuk memulai prediksi massal.")
         return
 
     try:
@@ -1113,7 +1138,7 @@ def load_all_data():
     return df, models, metrics_df, cv_df, metadata
 
 
-def render_sidebar() -> Tuple[str, str, Optional[object]]:
+def render_sidebar() -> str:
     with st.sidebar:
         # Make sidebar content breathe a bit more and feel premium
         st.markdown(
@@ -1140,17 +1165,6 @@ def render_sidebar() -> Tuple[str, str, Optional[object]]:
 
         st.markdown('<div class="honda-soft-divider"></div>', unsafe_allow_html=True)
 
-        # Model dropdown (modern rounded + dark)
-        st.markdown('<div class="honda-sidebar-section">PREDICTION MODEL</div>', unsafe_allow_html=True)
-        model_name = st.selectbox(
-            "Model Prediksi",
-            ["Naive Bayes", "SVM"],
-            index=1,
-            label_visibility="collapsed",
-        )
-
-        st.markdown('<div class="honda-soft-divider"></div>', unsafe_allow_html=True)
-
         st.markdown(
             f"""
             <div class="honda-sidebar-meta">
@@ -1161,14 +1175,14 @@ def render_sidebar() -> Tuple[str, str, Optional[object]]:
             unsafe_allow_html=True,
         )
 
-    return menu, model_name, None
+    return menu
 
 
 
 def main() -> None:
 
     inject_custom_css()
-    menu, selected_model_name, uploaded_csv = render_sidebar()
+    menu = render_sidebar()
     render_header()
 
     try:
@@ -1182,7 +1196,6 @@ def main() -> None:
         )
         st.stop()
 
-    model = nb_model if selected_model_name == "Naive Bayes" else svm_model
     class_names = list(label_encoder.classes_)
 
     y = label_encoder.transform(df["label"])
@@ -1197,7 +1210,8 @@ def main() -> None:
     elif menu == "Visualisasi":
         page_visualization(df, cm_nb, cm_svm, class_names, metrics_df)
     elif menu == "Prediksi Sentimen":
-        page_predict_text(model, tfidf, label_encoder, selected_model_name)
+        page_predict_text(nb_model, svm_model, tfidf, label_encoder)
+        page_predict_csv(nb_model, svm_model, tfidf, label_encoder)
     elif menu == "Hasil Evaluasi":
         page_evaluation(metrics_df, cv_df, metadata)
 
