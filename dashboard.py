@@ -198,8 +198,8 @@ button[data-testid="baseButton-header"] {
 }
 
 .honda-sidebar-brand {
-    padding: 1.2rem 1rem 1rem 1rem;
-    margin-bottom: 1rem;
+    padding: 1.1rem 1rem 0.9rem 1rem;
+    margin-bottom: 0.75rem;
     background: linear-gradient(180deg, rgba(213,0,0,0.95), rgba(229,57,53,0.9));
     border-radius: 18px;
     box-shadow: 0 16px 40px rgba(0, 0, 0, 0.24);
@@ -234,8 +234,12 @@ button[data-testid="baseButton-header"] {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.12em;
-    margin: 1.2rem 0 0.55rem 0;
+    margin: 0.5rem 0 0.35rem 0;
     padding-left: 0.1rem;
+}
+
+.honda-sidebar-spacer {
+    height: 0.4rem;
 }
 
 .honda-sidebar-meta {
@@ -1223,6 +1227,7 @@ def render_sidebar() -> str:
         )
         menu = MENU_OPTIONS[NAV_LABELS.index(nav_choice)]
 
+        st.markdown('<div class="honda-sidebar-spacer"></div>', unsafe_allow_html=True)
         st.markdown('<div class="honda-soft-divider"></div>', unsafe_allow_html=True)
 
         st.markdown(
