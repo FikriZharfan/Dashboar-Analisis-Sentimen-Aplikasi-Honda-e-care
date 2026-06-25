@@ -427,6 +427,11 @@ def main() -> None:
     total_after = len(df)
     print(f"Jumlah Data Sesudah Cleaning: {total_after}")
 
+    unique_content_before_preprocessing = len(df.drop_duplicates(subset=["content"]))
+    df = df.drop_duplicates(subset=["content"]).reset_index(drop=True)
+    print(f"Jumlah Data Unik setelah menghapus duplikat konten: {len(df)}")
+    print(f"Jumlah Data Unik sebelum preprocessing: {unique_content_before_preprocessing}")
+
     # =====================================================
     # 2. EXPLORATORY DATA ANALYSIS (EDA)
     # =====================================================

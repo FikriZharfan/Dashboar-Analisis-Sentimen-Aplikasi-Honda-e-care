@@ -843,7 +843,9 @@ def load_dataset_with_cleaned_text(_csv_mtime: float) -> pd.DataFrame:
     if snap is not None:
         return snap
     df = load_dataset().copy()
+    df = df.drop_duplicates(subset=["content"]).reset_index(drop=True)
     df["cleaned_text"] = df["content"].astype(str).apply(preprocess_text)
+    df = df[df["cleaned_text"].str.strip() != ""].reset_index(drop=True)
     return df
 
 
@@ -958,18 +960,23 @@ def styled_dataframe(df: pd.DataFrame, height: int = 360) -> None:
 # =====================================================
 # HALAMAN DASHBOARD
 # =====================================================
-def page_home(df: pd.DataFrame, metadata: Dict) -> None:
-    n_pos = int((df["label"] == "positif").sum())
-    n_neg = int((df["label"] == "negatif").sum())
+def page_home(raw_df: pd.DataFrame, df: pd.DataFrame, metadata: Dict) -> None:
+    n_pos = int((raw_df["label"] == "positif").sum())
+    n_neg = int((raw_df["label"] == "negatif").sum())
     best = metadata.get("best_model_by_accuracy", "SVM (LinearSVC)") if metadata else "—"
-    pct_pos = (n_pos / len(df) * 100) if len(df) else 0
+    pct_pos = (n_pos / len(raw_df) * 100) if len(raw_df) else 0
+    n_cleaned = len(df)
 
     render_metric_row([
-        ("Total Dataset", f"{len(df):,}", "Ulasan terlabel", False),
+        ("Total Dataset", f"{len(raw_df):,}", "Ulasan terlabel", False),
+        ("Data Unik Setelah Preprocessing", f"{n_cleaned:,}", "Deduplikasi konten + cleaning", False),
         ("Sentimen Positif", f"{n_pos:,}", f"{pct_pos:.1f}% dari total", False),
-        ("Sentimen Negatif", f"{n_neg:,}", f"{100-pct_pos:.1f}% dari total", False),
-        ("Model Terbaik", best.replace(" (LinearSVC)", ""), "Berdasarkan akurasi", True),
+        ("Sentimen Negatif", f"{n_neg:,}", f"{100-pct_pos:.1f}% dari total", True),
     ])
+
+    st.caption(
+        f"Pipeline training menggunakan {n_cleaned:,} data unik setelah deduplikasi konten dan preprocessing."
+    )
 
     if metadata:
         render_insight_card(
@@ -1184,6 +1191,7 @@ def load_all_data():
     data_mtime = os.path.getmtime(DATA_PATH) if os.path.exists(DATA_PATH) else 0.0
     bar = st.progress(0, text="Inisialisasi dashboard…")
     bar.progress(10, text="Memuat dataset…")
+    raw_df = load_dataset()
     df = load_dataset_with_cleaned_text(data_mtime)
     bar.progress(55, text="Memuat model ML…")
     models = load_models()
@@ -1199,7 +1207,7 @@ def load_all_data():
     bar.progress(100, text="Siap!")
     time.sleep(0.2)
     bar.empty()
-    return df, models, metrics_df, cv_df, metadata
+    return raw_df, df, models, metrics_df, cv_df, metadata
 
 
 def render_sidebar() -> str:
@@ -1252,7 +1260,7 @@ def main() -> None:
 
     try:
         with st.spinner("Menghubungkan ke pipeline analisis sentimen…"):
-            df, (nb_model, svm_model, tfidf, label_encoder), metrics_df, cv_df, metadata = load_all_data()
+            raw_df, df, (nb_model, svm_model, tfidf, label_encoder), metrics_df, cv_df, metadata = load_all_data()
     except Exception as exc:
         st.error(
             "Model belum tersedia. Jalankan perintah berikut dari folder `sentiment-analysis`:\n\n"
@@ -1271,7 +1279,7 @@ def main() -> None:
 
     # Routing halaman
     if menu == "Halaman Utama":
-        page_home(df, metadata)
+        page_home(raw_df, df, metadata)
     elif menu == "Visualisasi":
         page_visualization(df, cm_nb, cm_svm, class_names, metrics_df)
     elif menu == "Prediksi Sentimen":

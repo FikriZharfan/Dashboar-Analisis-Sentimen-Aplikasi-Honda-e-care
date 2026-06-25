@@ -1,7 +1,7 @@
 {
   "total_data_before_cleaning": 5148,
-  "total_data_after_cleaning": 1052,
-  "train_size": 830,
+  "total_data_after_cleaning": 1050,
+  "train_size": 828,
   "test_size": 208,
   "best_model_by_accuracy": "SVM (LinearSVC)",
   "best_model_by_f1": "SVM (LinearSVC)",
