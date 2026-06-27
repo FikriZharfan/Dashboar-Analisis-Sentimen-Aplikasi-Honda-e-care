@@ -821,20 +821,12 @@ def _finalize_labeled_df(df: pd.DataFrame) -> pd.DataFrame:
 def _try_load_training_corpus_snapshot(raw_csv_mtime: float) -> Optional[pd.DataFrame]:
     if not os.path.isfile(DASHBOARD_CORPUS_PATH):
         return None
-    try:
-        with open(METADATA_PATH, "r", encoding="utf-8") as f:
-            meta = json.load(f)
-    except (OSError, json.JSONDecodeError):
-        return None
+    
     snap = pd.read_csv(DASHBOARD_CORPUS_PATH, on_bad_lines="skip")
     if not {"content", "label", "cleaned_text"}.issubset(snap.columns):
         return None
-    stored_mtime = meta.get("source_csv_mtime")
-    if stored_mtime is None:
-        return None
-    if abs(float(stored_mtime) - float(raw_csv_mtime)) < 1e-6:
-        return _finalize_labeled_df(snap)
-    return None
+        
+    return _finalize_labeled_df(snap)
 
 
 @st.cache_data
