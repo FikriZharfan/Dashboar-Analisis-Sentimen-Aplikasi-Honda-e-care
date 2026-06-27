@@ -1191,8 +1191,13 @@ def load_all_data():
     bar.progress(85, text="Menyiapkan evaluasi…")
     metrics_path = os.path.join(MODELS_DIR, "evaluation_metrics.csv")
     cv_path = os.path.join(MODELS_DIR, "cv_results.csv")
+    cm_path = os.path.join(MODELS_DIR, "confusion_matrices.json")
     metrics_df = pd.read_csv(metrics_path) if os.path.exists(metrics_path) else pd.DataFrame()
     cv_df = pd.read_csv(cv_path) if os.path.exists(cv_path) else pd.DataFrame()
+    cm_data: Dict = {}
+    if os.path.exists(cm_path):
+        with open(cm_path, "r", encoding="utf-8") as f:
+            cm_data = json.load(f)
     metadata = {}
     if os.path.exists(METADATA_PATH):
         with open(METADATA_PATH, "r", encoding="utf-8") as f:
@@ -1200,7 +1205,7 @@ def load_all_data():
     bar.progress(100, text="Siap!")
     time.sleep(0.2)
     bar.empty()
-    return raw_df, df, models, metrics_df, cv_df, metadata
+    return raw_df, df, models, metrics_df, cv_df, cm_data, metadata
 
 
 def render_sidebar() -> str:
@@ -1253,7 +1258,7 @@ def main() -> None:
 
     try:
         with st.spinner("Menghubungkan ke pipeline analisis sentimen…"):
-            raw_df, df, (nb_model, svm_model, tfidf, label_encoder), metrics_df, cv_df, metadata = load_all_data()
+            raw_df, df, (nb_model, svm_model, tfidf, label_encoder), metrics_df, cv_df, cm_data, metadata = load_all_data()
     except Exception as exc:
         st.error(
             "Model belum tersedia. Jalankan perintah berikut dari folder `sentiment-analysis`:\n\n"
@@ -1262,13 +1267,21 @@ def main() -> None:
         )
         st.stop()
 
-    class_names = list(label_encoder.classes_)
-
-    y = label_encoder.transform(df["label"])
-    X = tfidf.transform(df["cleaned_text"])
-    _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
-    cm_nb = confusion_matrix(y_test, nb_model.predict(X_test))
-    cm_svm = confusion_matrix(y_test, svm_model.predict(X_test))
+    # Gunakan confusion matrix yang disimpan saat training (bukan recompute)
+    # agar nilai di dashboard selalu cocok dengan reports/
+    import numpy as np
+    if cm_data:
+        class_names = cm_data["class_names"]
+        cm_nb = np.array(cm_data["cm_nb"])
+        cm_svm = np.array(cm_data["cm_svm"])
+    else:
+        # Fallback: recompute jika file JSON belum ada (jalankan train_model.py dulu)
+        class_names = list(label_encoder.classes_)
+        y = label_encoder.transform(df["label"])
+        X = tfidf.transform(df["cleaned_text"])
+        _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+        cm_nb = confusion_matrix(y_test, nb_model.predict(X_test))
+        cm_svm = confusion_matrix(y_test, svm_model.predict(X_test))
 
     # Routing halaman
     if menu == "Halaman Utama":

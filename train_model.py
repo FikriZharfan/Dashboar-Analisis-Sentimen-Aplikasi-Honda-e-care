@@ -711,6 +711,16 @@ def main() -> None:
     )
     cv_results.to_csv(os.path.join(MODELS_DIR, "cv_results.csv"), index=False)
 
+    # Simpan confusion matrix ke JSON agar dashboard bisa load langsung (bukan recompute)
+    cm_data = {
+        "class_names": list(le.classes_),
+        "cm_nb": cm_nb.tolist(),
+        "cm_svm": cm_svm.tolist(),
+    }
+    with open(os.path.join(MODELS_DIR, "confusion_matrices.json"), "w", encoding="utf-8") as f:
+        json.dump(cm_data, f, ensure_ascii=False, indent=2)
+
+
     source_csv_mtime = os.path.getmtime(DATA_PATH) if os.path.exists(DATA_PATH) else 0.0
     corpus_path = os.path.join(MODELS_DIR, "dashboard_corpus.csv")
     df[["content", "label", "cleaned_text"]].to_csv(
