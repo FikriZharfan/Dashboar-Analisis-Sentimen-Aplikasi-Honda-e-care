@@ -898,8 +898,8 @@ def plot_confusion_matrix(cm, class_names: List[str], title: str) -> go.Figure:
 def plot_metrics_comparison(metrics_df: pd.DataFrame) -> go.Figure:
     melted = metrics_df.melt(id_vars="Model", var_name="Metric", value_name="Score")
     fig = px.bar(
-        melted, x="Model", y="Score", color="Metric", barmode="group",
-        color_discrete_sequence=[C_ACCENT, C_METAL, "#9E9E9E", C_LIGHT],
+        melted, x="Metric", y="Score", color="Model", barmode="group",
+        color_discrete_sequence=[C_METAL, C_ACCENT],
     )
     fig.update_layout(yaxis=dict(range=[0, 1.05], tickformat=".0%"))
     fig.update_traces(marker_line_color=C_DARK, marker_line_width=0.5)

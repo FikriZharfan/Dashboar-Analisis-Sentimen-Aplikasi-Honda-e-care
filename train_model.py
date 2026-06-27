@@ -447,12 +447,7 @@ def main() -> None:
     print("\nStatistik Panjang Teks:")
     print(df["text_length"].describe())
 
-    plt.figure(figsize=(8, 5))
-    sns.countplot(data=df, x="label", palette="viridis")
-    plt.title("Distribusi Label Sentimen")
-    plt.xlabel("Label")
-    plt.ylabel("Jumlah")
-    save_plot("countplot_label.png")
+    # Plot Distribusi Label akan dilakukan di bagian Evaluasi / setelah preprocessing
 
     plt.figure(figsize=(10, 5))
     sns.histplot(df["text_length"], bins=30, kde=True, color="steelblue")
@@ -477,6 +472,13 @@ def main() -> None:
     comparison_df = df[["content", "cleaned_text"]].head()
     print("\nPerbandingan Sebelum vs Sesudah:")
     print(comparison_df)
+
+    plt.figure(figsize=(8, 5))
+    sns.countplot(data=df, x="label", palette="viridis")
+    plt.title("Distribusi Label Sentimen")
+    plt.xlabel("Label")
+    plt.ylabel("Jumlah")
+    save_plot("countplot_label.png")
 
     # =====================================================
     # 4. WORDCLOUD
@@ -598,14 +600,16 @@ def main() -> None:
     # =====================================================
     print("\n=== 10. VISUALISASI EVALUASI ===")
     plt.figure(figsize=(6, 5))
-    sns.heatmap(cm_nb, annot=True, fmt="d", cmap="Blues", cbar=False)
+    sns.heatmap(cm_nb, annot=True, fmt="d", cmap="Blues", cbar=False, 
+                xticklabels=le.classes_, yticklabels=le.classes_)
     plt.title("Confusion Matrix Naive Bayes")
     plt.xlabel("Predicted")
     plt.ylabel("Actual")
     save_plot("confusion_matrix_nb.png")
 
     plt.figure(figsize=(6, 5))
-    sns.heatmap(cm_svm, annot=True, fmt="d", cmap="Greens", cbar=False)
+    sns.heatmap(cm_svm, annot=True, fmt="d", cmap="Greens", cbar=False,
+                xticklabels=le.classes_, yticklabels=le.classes_)
     plt.title("Confusion Matrix SVM (LinearSVC)")
     plt.xlabel("Predicted")
     plt.ylabel("Actual")
