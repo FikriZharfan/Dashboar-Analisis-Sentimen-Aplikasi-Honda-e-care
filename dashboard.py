@@ -778,7 +778,7 @@ def load_dataset() -> pd.DataFrame:
 
 
 @st.cache_resource
-def load_models():
+def load_models(_mtime: float = 0.0):
     return (
         joblib.load(os.path.join(MODELS_DIR, "nb_model.pkl")),
         joblib.load(os.path.join(MODELS_DIR, "svm_model.pkl")),
@@ -1194,7 +1194,8 @@ def load_all_data():
     raw_df = load_dataset()
     df = load_dataset_with_cleaned_text(data_mtime)
     bar.progress(55, text="Memuat model ML…")
-    models = load_models()
+    model_mtime = os.path.getmtime(os.path.join(MODELS_DIR, "nb_model.pkl")) if os.path.exists(os.path.join(MODELS_DIR, "nb_model.pkl")) else 0.0
+    models = load_models(model_mtime)
     bar.progress(85, text="Menyiapkan evaluasi…")
     metrics_path = os.path.join(MODELS_DIR, "evaluation_metrics.csv")
     cv_path = os.path.join(MODELS_DIR, "cv_results.csv")
