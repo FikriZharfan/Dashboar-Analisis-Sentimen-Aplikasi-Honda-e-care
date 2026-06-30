@@ -41,16 +41,16 @@
   "negated_negative_terms": [
     "bug",
     "crash",
-    "error",
     "eror",
+    "error",
     "forceclose",
     "hang",
     "lag",
     "lambat",
     "lemot",
     "macet",
-    "ngelag",
     "ngefreeze",
+    "ngelag",
     "susah"
   ],
   "negation_replacement_tokens": [

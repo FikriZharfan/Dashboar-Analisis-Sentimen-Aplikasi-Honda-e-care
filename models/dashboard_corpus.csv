@@ -2,17 +2,17 @@ content,label,cleaned_text
 "aplikasi error, tulisannya handshake failed, di android 9",negatif,aplikasi error tulis handshake failed android
 okey,positif,okey
 sering error aplikasinya,negatif,error aplikasi
-"app membantu dan mempermudah customer .mau dikasih *7 ga ada, saya kisih ** dulu, app Honde e care loadingnya ngesot",negatif,aplikasi bantu mudah customer kasih kisih aplikasi honde care loadingnya ngesot
+"app membantu dan mempermudah customer .mau dikasih *7 ga ada, saya kisih ** dulu, app Honde e care loadingnya ngesot",negatif,aplikasi bantu mudah customer kasih tidak kisih aplikasi honde care loadingnya ngesot
 good,positif,good
 bagus dan bagus,positif,bagus bagus
 sangat membantu,positif,bantu
-"aplikasi tidak berfungsi dengan kendala ""tidak ada jaringan"" padahal koneksi internet baik wifi maupun seluler tidak ada kendala",negatif,aplikasi fungsi kendala jaring koneksi internet wifi seluler kendala
+"aplikasi tidak berfungsi dengan kendala ""tidak ada jaringan"" padahal koneksi internet baik wifi maupun seluler tidak ada kendala",negatif,aplikasi tidak fungsi kendala tidak jaring koneksi internet wifi seluler tidak kendala
 aplikasihnya bgus,positif,aplikasihnya bgus
 Pelayanan dan informasi sangat baik,positif,layan informasi
 puas bgt lah,positif,puas banget
-tgl 3-3-26 selasa kmrn servis tapi history belum nambah yg baru lemot amad nih aplikasi,negatif,tgl selasa kmrn servis history nambah yg lot amad nih aplikasi
+tgl 3-3-26 selasa kmrn servis tapi history belum nambah yg baru lemot amad nih aplikasi,negatif,tgl selasa kmrn servis history belum nambah yg lot amad nih aplikasi
 pelayanan bagus terutama pak Budi selles nya cara marketingnya keren,positif,layan bagus budi selles nya marketingnya keren
-"aplikasi tidak berguna, login berulang kali tidak bisa.",negatif,aplikasi guna login ulang kali
+"aplikasi tidak berguna, login berulang kali tidak bisa.",negatif,aplikasi tidak guna login ulang kali tidak
 ok,positif,ok
 sangat sangat memuaskan,positif,muas
 Sangat baik pelayanannya,positif,layan
@@ -25,7 +25,7 @@ pelayanan baik dan ramah,positif,layan ramah
 "customer service bengkel sangat membantu, ramah dan byk kasih inpit baik ttg kondisi kendaraan kita. trima kasih",positif,customer service bengkel bantu ramah byk kasih inpit ttg kondisi kendara trima kasih
 "pelayanannya ramah,ruang tunggunya dan menu yg tersedia mantap dan pastinya gratis snacknya. pokoknya puas",positif,layan ramah ruang tunggu menu yg sedia mantap pasti gratis snacknya pokok puas
 pelayanan mwmuaskan,positif,layan mwmuaskan
-satu slot jam booking bisa diisi lebih dari satu mobil...antre2 juga tidak ada bedanya dengan tanpa booking untuk honda bintaro tolong dibenahi,negatif,slot jam booking isi mobil antre beda booking honda bintaro tolong benah
+satu slot jam booking bisa diisi lebih dari satu mobil...antre2 juga tidak ada bedanya dengan tanpa booking untuk honda bintaro tolong dibenahi,negatif,slot jam booking isi mobil antre tidak beda booking honda bintaro tolong benah
 terbaik,positif,baik
 bagus nih cs honda pelayanannya,positif,bagus nih cs honda layan
 aplikasi nya sangat membantu,positif,aplikasi nya bantu
@@ -39,7 +39,7 @@ Pelayanan nya ramah dan bagus mengerjakan nya..,positif,layan nya ramah bagus ny
 bagus,positif,bagus
 terima kasih,positif,terima kasih
 "Baik, pelayanan bagus",positif,layan bagus
-"Nopol tidak sesuai dengan data sebelumnya, berubah sendiri, di update tidak bisa",negatif,nopol sesuai data ubah update
+"Nopol tidak sesuai dengan data sebelumnya, berubah sendiri, di update tidak bisa",negatif,nopol tidak sesuai data ubah update tidak
 "penyampaian informasi mudah di mengerti, ramah dan nyaman.",positif,sampai informasi mudah erti ramah nyaman
 good service,positif,good service
 sangat bagus pelayanannya,positif,bagus layan
@@ -47,10 +47,10 @@ sangat bagus pelayanannya,positif,bagus layan
 ramah2x smuanya ruang tunggunya nyaman skali,positif,ramah smuanya ruang tunggu nyaman skali
 Aplikasi cukup membantu proses service,positif,aplikasi bantu proses service
 gabisa masukin data kendaraan. ngebug trus force close,negatif,gabisa masukin data kendara ngebug trus force close
-"habis di uptade , tidak bisa boking servis data2 ilang semua udh dimasukin ulang tetep g bisaa",negatif,habis uptade boking servis data ilang dimasukin ulang tetep bisaa
+"habis di uptade , tidak bisa boking servis data2 ilang semua udh dimasukin ulang tetep g bisaa",negatif,habis uptade tidak boking servis data ilang dimasukin ulang tetep bisaa
 Cukup membantu,positif,bantu
 membantu,positif,bantu
-"bermanfaat, tidak perlu ribet, tinggal catat semua keluhan ,pilih jam service beres",positif,manfaat ribet tinggal catat keluh pilih jam service beres
+"bermanfaat, tidak perlu ribet, tinggal catat semua keluhan ,pilih jam service beres",positif,manfaat tidak ribet tinggal catat keluh pilih jam service beres
 "good app, easy to our car maintenance booked.",positif,good aplikasi easy to our car maintenance booked
 "teknisinya ramah dan komunikatif dalam melakukan tugasnya,serta ruang tunggunya nyaman jaga terus kualitas pelayanan.",positif,teknisi ramah komunikatif tugas ruang tunggu nyaman jaga kualitas layan
 aplikasi jelas membantu,positif,aplikasi bantu
@@ -70,11 +70,11 @@ puas,positif,puas
 pelayanannya sangat memuaskan,positif,layan muas
 sangat efisien,positif,efisien
 biasanya di Honda Union kini beralih ke Honda Bin tang Cimone,positif,honda union alih honda bin tang cimone
-"Pelayanan di Gajah Motor Bypass Padang kurang bagus, saya booking via aplikasi jam 08.30 padahal saya sudah standby sebelum jam 08.30 tetapi jam 08.45 baru dilayani, kalau karyawan Customer Service masuk jam 08.30 kenapa terima layanan service sebelum jam 08.30 ada, kan Customer jadi menunggu cukup lama untuk dilayani..",negatif,layan gajah motor bypass padang bagus booking via aplikasi jam standby jam jam layan karyawan customer service masuk jam terima layan service jam customer tunggu layan
+"Pelayanan di Gajah Motor Bypass Padang kurang bagus, saya booking via aplikasi jam 08.30 padahal saya sudah standby sebelum jam 08.30 tetapi jam 08.45 baru dilayani, kalau karyawan Customer Service masuk jam 08.30 kenapa terima layanan service sebelum jam 08.30 ada, kan Customer jadi menunggu cukup lama untuk dilayani..",negatif,layan gajah motor bypass padang kurang bagus booking via aplikasi jam standby jam jam layan karyawan customer service masuk jam terima layan service jam customer tunggu layan
 good aplikasi,positif,good aplikasi
 habis upgrade sering lelet,negatif,habis upgrade lelet
 pelayanan baik,positif,layan
-tidak bisa mendaftarkan mobil padahal sudah di coba berulang kali,negatif,daftar mobil coba ulang kali
+tidak bisa mendaftarkan mobil padahal sudah di coba berulang kali,negatif,tidak daftar mobil coba ulang kali
 mantap praktis,positif,mantap praktis
 aplikasi bagus,positif,aplikasi bagus
 adanya app ini memudahkan saya booking,positif,aplikasi mudah booking
@@ -93,12 +93,12 @@ sangat membantu aplikasi. sukses honda. masukan perbaikannya agar ditindaklanjut
 "pelayanan yg ramah , & serfis yg memuaskan",positif,layan yg ramah serfis yg muas
 memudahkan booking service,positif,mudah booking service
 oke banget,positif,oke banget
-"hbis update, menu tdk bisa klik apa²",negatif,hbis update menu klik
+"hbis update, menu tdk bisa klik apa²",negatif,hbis update menu tidak klik
 ok pelayanan ny,positif,ok layan ny
 Aplikasi nya mudah dan sederhana serta applicable....,positif,aplikasi nya mudah sederhana applicable
 Aplikasi Mantap,positif,aplikasi mantap
 aplikasi ini sngat membantu,positif,aplikasi sngat bantu
-"tanggal 27 update tiba2 pilihan dalam aplikasi tidak bisa di klik seperti booking,iklan dan voucher... namun ketika logout iklan bisa di klik...",positif,tanggal update pilih aplikasi klik booking iklan voucher logout iklan klik
+"tanggal 27 update tiba2 pilihan dalam aplikasi tidak bisa di klik seperti booking,iklan dan voucher... namun ketika logout iklan bisa di klik...",positif,tanggal update pilih aplikasi tidak klik booking iklan voucher logout iklan klik
 semoga selalu terdepan dan amanah deker Honda Ahmad yani,positif,moga depan amanah deker honda ahmad yani
 mantap sangat membantu praktis booking service,positif,mantap bantu praktis booking service
 Tempatnya nyaman,positif,tempat nyaman
@@ -121,7 +121,7 @@ sangat baik pelayanan nya👍👍👍,positif,layan nya
 aplikasinya mudah digunakan,positif,aplikasi mudah
 pelayanannya sangan baik,positif,layan sangan
 bagus sekali baru pertamakali,positif,bagus pertamakali
-dengan booking servis kita tidak perlu menunggu terlalu lama,positif,booking servis tunggu
+dengan booking servis kita tidak perlu menunggu terlalu lama,positif,booking servis tidak tunggu
 service excellence,positif,service excellence
 bermanfa at,positif,bermanfa at
 Mantap banget pelayanannya,positif,mantap banget layan
@@ -139,12 +139,12 @@ mudah digunakan dan informatif,positif,mudah informatif
 aplikasi yang bagus untuk pengguna mobil Honda,positif,aplikasi bagus guna mobil honda
 "pelayanan sangat bagus, dan fasilitas nyaman",positif,layan bagus fasilitas nyaman
 pelanan baik dalam penyampaian juga detail murah senyum ok pokok nya,positif,pelan sampai detail murah senyum ok pokok nya
-harusnya ada marketplcae suku cadang beserta harganya dari mulai bamper serta stir dll biar kami bisa ada rezeki tambahan Takutnya mahal kalo udah tahu harganya kan bagi kaum pas2an sudah bisa mengira-ngira kurang lbh segitu kalo datang ke ahas,negatif,marketplcae suku cadang serta harga bamper stir dll biar rezeki tambah takut mahal kalo harga kaum pas an ngira lbh segitu kalo ahas
+harusnya ada marketplcae suku cadang beserta harganya dari mulai bamper serta stir dll biar kami bisa ada rezeki tambahan Takutnya mahal kalo udah tahu harganya kan bagi kaum pas2an sudah bisa mengira-ngira kurang lbh segitu kalo datang ke ahas,negatif,marketplcae suku cadang serta harga bamper stir dll biar rezeki tambah takut mahal kalo harga kaum pas an ngira kurang lbh segitu kalo ahas
 pelayanan baik tingkatkan lagi....,positif,layan tingkat
 service excellent,positif,service excellent
 sangat mmbantu,positif,mmbantu
 pelayanan selama ini sangat bagus,positif,layan bagus
-"Memudahkan apabila mau booking, sementara belum ada kendala",positif,mudah booking kendala
+"Memudahkan apabila mau booking, sementara belum ada kendala",positif,mudah booking belum kendala
 Aplikasi berfungsi baik dan sangat membantu.,positif,aplikasi fungsi bantu
 Good,positif,good
 "Sangat membantu sekali, kedepan semoga lebih ditingkatkan lagi",positif,bantu depan moga tingkat
@@ -166,7 +166,7 @@ cara booking servisnya mudah,positif,booking servis mudah
 Pelayan bagus dan tepat waktu,positif,layan bagus
 Service baik dan profesional,positif,service profesional
 sangat membantu sekali untuk perawatan maupun perbaikan mobil.. good job..,positif,bantu awat baik mobil good job
-dengan booking service lebih enak dan ga ribet...stiap service berkala selalu mamakai aflikadi ini..👍👍,positif,booking service enak ribet stiap service kala mamakai aflikadi
+dengan booking service lebih enak dan ga ribet...stiap service berkala selalu mamakai aflikadi ini..👍👍,positif,booking service enak tidak ribet stiap service kala mamakai aflikadi
 Layanan Service Gratis Pertama sangat memuaskan,positif,layan service gratis muas
 Tempat yang menyenangkan untuk kebutuhan Honda Anda,positif,senang butuh honda
 good app,positif,good aplikasi
@@ -174,7 +174,7 @@ mantabs... smooth bener aplikasi ini😃,positif,mantabs smooth bener aplikasi
 nice,positif,nice
 mempermudah,positif,mudah
 "mudah untuk booking nya, 👍",positif,mudah booking nya
-"mudah, cepat dan tidak antri",positif,mudah cepat antri
+"mudah, cepat dan tidak antri",positif,mudah cepat tidak antri
 App Usher Friendly,positif,aplikasi usher friendly
 sangat bermanfaat,positif,manfaat
 membantu sekali app ini,positif,bantu aplikasi
@@ -200,14 +200,14 @@ Booking service mobil Honda yang mudah dan cepat tanpa kendala jarak dan waktu,p
 memudahkan pecinta honda untuk service,positif,mudah cinta honda service
 mudah dan memuaskan,positif,mudah muas
 "melakukan service harus sesuai sop agar kebersihan. keamanan, perlengkalan kendaraan terjaga dg aman/baik.",positif,service sesuai sop bersih aman perlengkalan kendara jaga dg aman
-keren gak perlu antri,positif,keren antri
-Mudah mudah cepet dan ga banyak biaya,positif,mudah mudah cepet biaya
+keren gak perlu antri,positif,keren tidak antri
+Mudah mudah cepet dan ga banyak biaya,positif,mudah mudah cepet tidak biaya
 bagus sangat membantu,positif,bagus bantu
 bagus dan mempermudah untuk pelayanan service dan informasi lain nya,positif,bagus mudah layan service informasi nya
 "Pelayananya baik ,dengan hasil servic yg baik.",positif,pelayananya hasil servic yg
 "great app,, memudahkan service mobil",positif,great aplikasi mudah service mobil
 pengerjaan sangat teliti,positif,kerja teliti
-"SDH hampir 2 bln saya ajukan cleam waranty terkait Shok belakang brv prestige 2022 sya di Honda auto serang TDK ada kelanjutan, minimal ada pemberitahuan KPD knsmn harus gmn? Jadi saya anggap kebohongan waranty Honda nya TDK terbukti apalagi nanti ada masalah di bagian part lainya ( mesin) no saya terdaftar di Honda dan gampang menghubunginya",positif,sdh bln aju cleam waranty kait shok brv prestige sya honda auto serang lanjut minimal pemberitahuan kpd knsmn gmn anggap bohong waranty honda nya bukti part lai mesin no daftar honda gampang hubung
+"SDH hampir 2 bln saya ajukan cleam waranty terkait Shok belakang brv prestige 2022 sya di Honda auto serang TDK ada kelanjutan, minimal ada pemberitahuan KPD knsmn harus gmn? Jadi saya anggap kebohongan waranty Honda nya TDK terbukti apalagi nanti ada masalah di bagian part lainya ( mesin) no saya terdaftar di Honda dan gampang menghubunginya",positif,sdh bln aju cleam waranty kait shok brv prestige sya honda auto serang tidak lanjut minimal pemberitahuan kpd knsmn gmn anggap bohong waranty honda nya tidak bukti part lai mesin no daftar honda gampang hubung
 mantab sangat membantu,positif,mantab bantu
 pelayanan yang sangat baik ke Customer,positif,layan customer
 pelayanan cukup baik,positif,layan
@@ -219,7 +219,7 @@ krg dengan org bengkel tepatnya honda kumala karawang,negatif,krg org bengkel te
 Tempat nyaman dan pelayanan cepat,positif,nyaman layan cepat
 ini sangat membantu sekali,positif,bantu
 mudah bokingnya,positif,mudah bokingnya
-Ga bisa di daftarkan kendaraan nya,negatif,daftar kendara nya
+Ga bisa di daftarkan kendaraan nya,negatif,tidak daftar kendara nya
 "Sudah 4 kali service berjalan dengan baik, kecuali service terakhir disarankan spooring... 🤭",positif,kali service jalan kecuali service saran spooring
 merasa puas...,positif,puas
 "harus di perbaiki lagi mau masuk login kata sandi aja susah dan kenapa ada waktu di jatah 5 menit sedang kn kita mau servis mobil aja harus ribet seperti ini,gimana mau bersaing dengan yg lain",negatif,baik masuk login sandi susah jatah menit kn servis mobil ribet gimana saing yg
@@ -249,7 +249,7 @@ Service Honda selalu di sini. Tempatnya nyaman. Pelayanan baik.,positif,service 
 "Honda i-Care adalah layanan purna jual yang ditawarkan oleh Honda untuk memberikan kepuasan pelanggan. Layanan ini mencakup berbagai aspek, mulai dari perawatan berkala hingga perbaikan kerusakan. Pengalaman saya dengan Honda i-Care cukup positif, meskipun ada beberapa poin yang bisa ditingkatkan. Kelebihan: - Kemudahan Akses: Menjadwalkan servis melalui aplikasi atau website Honda i-Care sangat mudah dan praktis. Sistem online ini memberikan informasi yang jelas tentang jadwal, biaya, d",positif,honda care layan purna jual tawar honda puas langgan layan cakup aspek awat kala baik rusa alam honda care positif poin tingkat lebih mudah akses jadwal servis aplikasi website honda care mudah praktis sistem online informasi jadwal biaya
 Ok,positif,ok
 Pelayanan profesional,positif,layan profesional
-Menu Inbok tidak bisa di buka.,positif,menu inbok buka
+Menu Inbok tidak bisa di buka.,positif,menu inbok tidak buka
 aplikasi ini sangat membantu untuk booking service tanpa harus repot antri lg..bisa tentuin sendiri waktu buat service nya,positif,aplikasi bantu booking service repot antri lg tentuin service nya
 aplikasinya enak di pakai,positif,aplikasi enak pakai
 "mudah, mantap Honda",positif,mudah mantap honda
@@ -276,7 +276,7 @@ Pelayanannya sangat baik dan ramah tempatnya nyaman👍👍👍👍👍👍👍,
 Simple,positif,simple
 bagus untuk semua keseluruhannya,positif,bagus
 sampai saat ini aplikasi ini sangat membantu 👍🏼,positif,aplikasi bantu
-"Aplikasi tidak ada reminder booking, klo lupa ya percuma saja.. harusnya ada reminder dan menu re-schedule.",negatif,aplikasi reminder booking klo lupa ya reminder menu re schedule
+"Aplikasi tidak ada reminder booking, klo lupa ya percuma saja.. harusnya ada reminder dan menu re-schedule.",negatif,aplikasi tidak reminder booking klo lupa ya reminder menu re schedule
 sangat membantu dengan adanga honda e-care,positif,bantu adanga honda care
 siip,positif,siip
 penanganan cepat,positif,tangan cepat
@@ -305,14 +305,14 @@ honda e care memudahkan customer,positif,honda care mudah customer
 mempermudah proses booking service 👍,positif,mudah proses booking service
 ok sangat berguna,positif,ok guna
 pelayanan maksimal,positif,layan maksimal
-Booking service yg mudah dan tidak ribet,positif,booking service yg mudah ribet
+Booking service yg mudah dan tidak ribet,positif,booking service yg mudah tidak ribet
 pelayanan cepat ...pertahankan selalu,positif,layan cepat tahan
 pelayanan sangat baik,positif,layan
 lebih berguna dan bermanfaat jika ada asumsi rincian biaya service yang di perlukan,positif,guna manfaat asumsi rincian biaya service perlu
 mantapp,positif,mantapp
 oh yes banget,positif,oh yes banget
 Pelayanan sangat bagus cepat di mengerti memuaskan,positif,layan bagus cepat erti muas
-tidak perlu menunggu antrian service,positif,tunggu antri service
+tidak perlu menunggu antrian service,positif,tidak tunggu antri service
 Mantabs,positif,mantabs
 mntappp,positif,mntap
 bagus dan membantu costumer dalam melakukan booking service dan lain2,positif,bagus bantu costumer booking service
@@ -332,17 +332,17 @@ okay,positif,okay
 sangat membantu terutama untuk pemesanan boking services kami yg berlokasi jauh dari dealer/bengkel honda,positif,bantu mesan boking services yg lokasi dealer bengkel honda
 "Mantapp aplikasinya, memberikan kemudahan dalam pendaftaran service",positif,mantapp aplikasi mudah daftar service
 aplikasi nya oke sih,positif,aplikasi nya oke sih
-aplikasi tidak bisa di pakai,negatif,aplikasi pakai
+aplikasi tidak bisa di pakai,negatif,aplikasi tidak pakai
 Memudahkan dalam booking service dan update informasi layanan honda lainnya,positif,mudah booking service update informasi layan honda
 aplikasi nya bagus dan sangat membantu untuk service dan emergency,positif,aplikasi nya bagus bantu service emergency
 "Fast dealer response, good problem handling & solving, comfortable communication",positif,fast dealer response good problem handling solving comfortable communication
-"aplikasi cukup membantu, kekuranganya adalah tidak ada menu perhitungan estimasi biaya service",positif,aplikasi bantu kekuranganya menu hitung estimasi biaya service
-Aplikasi tidak mendukung LOG IN SIDIK JARI,negatif,aplikasi dukung log in sidik jari
+"aplikasi cukup membantu, kekuranganya adalah tidak ada menu perhitungan estimasi biaya service",positif,aplikasi bantu kekuranganya tidak menu hitung estimasi biaya service
+Aplikasi tidak mendukung LOG IN SIDIK JARI,negatif,aplikasi tidak dukung log in sidik jari
 "pelayanan nya bagus, baru booking 1 hari langsung di kerjain ama beres 👍",positif,layan nya bagus booking langsung kerjain ama beres
 GooD Aplikasi from Honda e care...,positif,good aplikasi from honda care
-"Mau tanya itu bagaimana cara membuka dan mau baca kotak pesan ya , kok gak bisa di klik sama sekali min",positif,buka baca kotak pesan ya klik min
+"Mau tanya itu bagaimana cara membuka dan mau baca kotak pesan ya , kok gak bisa di klik sama sekali min",positif,buka baca kotak pesan ya tidak klik min
 jadi lebih cepat dan efisien,positif,cepat efisien
-"Ini kenapa ya aplikasinya ngga bisa dibuka, minta di update tapi ngga muncul ngga bisa di-update. Jadinya sekarang di-update ga bisa, dibuka juga ga bisa. Gimana ni?",positif,ya aplikasi buka update muncul update update buka gimana ni
+"Ini kenapa ya aplikasinya ngga bisa dibuka, minta di update tapi ngga muncul ngga bisa di-update. Jadinya sekarang di-update ga bisa, dibuka juga ga bisa. Gimana ni?",positif,ya aplikasi tidak buka update tidak muncul tidak update update tidak buka tidak gimana ni
 Good !!!,positif,good
 "Pelayanannya sangat cepat dan baik,pertahankan dan tingkatkan.",positif,layan cepat tahan tingkat
 susahnya menganti nopol lama dgn nopol baru,positif,susah anti nopol nopol
@@ -357,7 +357,7 @@ sangat mudah dan membantu,positif,mudah bantu
 mantul banget,positif,mantap banget
 Sering logout sendiri dan susah untuk login kembali,negatif,logout susah login
 "mantap, cepat dan gampang",positif,mantap cepat gampang
-Bug nya banyak banget sinyal full plus wifi gak konek² bener² ni aplikasi,negatif,bug nya banget sinyal full plus wifi konek bener ni aplikasi
+Bug nya banyak banget sinyal full plus wifi gak konek² bener² ni aplikasi,negatif,bug nya banget sinyal full plus wifi tidak konek bener ni aplikasi
 booking lebih efisien,positif,booking efisien
 jhoss gandhos,positif,jhoss gandhos
 Coba dlu,positif,coba dlu
@@ -375,16 +375,16 @@ Keren layanannya,positif,keren layan
 mudah dalam melakukan pendaftaran,positif,mudah daftar
 App yang memudahkan,positif,aplikasi mudah
 fungsional banget,positif,fungsional banget
-"Mudah digunakan, dan berguna banget. Saran : Hp Android Tema Gelap, kursor huruf tidak muncul",positif,mudah guna banget saran hp android tema gelap kursor huruf muncul
+"Mudah digunakan, dan berguna banget. Saran : Hp Android Tema Gelap, kursor huruf tidak muncul",positif,mudah guna banget saran hp android tema gelap kursor huruf tidak muncul
 Menarik,positif,tarik
 nice APP,positif,nice aplikasi
 mantul,positif,mantap
 Gampang akses dan prosedur nya. Membantu memudahkan pemilik Honda merawat mobil. Banyak Promonya juga.,positif,gampang akses prosedur nya bantu mudah milik honda rawat mobil promonya
 aplikasinya bagus mempermudah customer dan maintenance kendaraan,positif,aplikasi bagus mudah customer maintenance kendara
-Gila cuman ngecek2 aja GK ad d lihat mahal x bayaran a mending ke bengkel yg d kenal aja dri pada ke dealer,negatif,gila cuman ngecek ad lihat mahal bayar mending bengkel yg kenal dri dealer
+Gila cuman ngecek2 aja GK ad d lihat mahal x bayaran a mending ke bengkel yg d kenal aja dri pada ke dealer,negatif,gila cuman ngecek tidak ad lihat mahal bayar mending bengkel yg kenal dri dealer
 harus byk yg free dan promo,positif,byk yg free promo
 durasi waktu pengerjaan service rutin kalau bisa lebih cepat,positif,durasi kerja service rutin cepat
-Salah satu aplikasi yang sangat bermanfaat untuk perawatan kendaraan Honda. Alur proses yang simple sehingga memudahkan customer untuk berinteraksi👍Sukses untuk Honda💪,positif,salah aplikasi manfaat awat kendara honda alur proses simple mudah customer interaksi sukses honda
+Salah satu aplikasi yang sangat bermanfaat untuk perawatan kendaraan Honda. Alur proses yang simple sehingga memudahkan customer untuk berinteraksi👍Sukses untuk Honda💪,positif,salah aplikasi manfaat awat kendara honda alur proses simple mudah customer berinteraksisukses honda
 Aplikasi yang sangat membantu untuk servis mobil. Prosesnya mudah dan cepat,positif,aplikasi bantu servis mobil proses mudah cepat
 honda e-care is excellence services.....👍,positif,honda care is excellence services
 mudah Di Akses,positif,mudah akses
@@ -411,8 +411,8 @@ Amal didunia,positif,amal dunia
 Memuaskan,positif,muas
 Pelayanan baik,positif,layan
 Jelek banget,negatif,jelek banget
-Sy selaku pelanggan Honda HI selama ini tdk ada kendala yg berarti yg saya temukan...tks,positif,langgan honda hi kendala yg yg temu tks
-"Sebenarnya bagus, hanya tidak ada feature progress servicenya",positif,bagus feature progress servicenya
+Sy selaku pelanggan Honda HI selama ini tdk ada kendala yg berarti yg saya temukan...tks,positif,langgan honda hi tidak kendala yg yg temu tks
+"Sebenarnya bagus, hanya tidak ada feature progress servicenya",positif,bagus tidak feature progress servicenya
 Error terus saat mau booking service - pemilihan dealer,negatif,error booking service pilih dealer
 Sangat memuaskan ramah dan baik semua petugas nya .selalu berikan yg terbaik buat belanggan nya,positif,muas ramah tugas nya yg baik banggan nya
 aplikasi ini sangat bagus,positif,aplikasi bagus
@@ -426,40 +426,40 @@ Tanks atas petunjuknya,positif,tanks tunjuk
 Pas,positif,pas
 Mempermudah proses booking service,positif,mudah proses booking service
 Suruh daftar tapi nungguin kode verifikasinya lama amat si,negatif,suruh daftar nungguin kode verifikasi si
-Kok gk bisa tandain lokasi gps aktif semua mau boking service maah susah,negatif,tandain lokasi gps aktif boking service maah susah
+Kok gk bisa tandain lokasi gps aktif semua mau boking service maah susah,negatif,tidak tandain lokasi gps aktif boking service maah susah
 Responnya Cepat dan tepat waktu,positif,responnya cepat
 Mhn pencerahannya utk memindah mobil dari akun orang ke satu karena saya membeli mobil yg sdh terdaftar di honda ecare. Tks,positif,mhn cerah utk pindah mobil akun orang beli mobil yg sdh daftar honda ecare tks
 "Terima kasih saya sudah bisa register, sudah satu Minggu dicoba baru bisa hari ini, setelah di call me dari Honda pusat terimakasih Honda pusat bantuan nya",positif,terima kasih register minggu coba call me honda pusat terimakasih honda pusat bantu nya
 Oke,positif,oke
-"Setelah update malah tidak bisa di buka ,error path",negatif,update buka error path
+"Setelah update malah tidak bisa di buka ,error path",negatif,update tidak buka error path
 "Aplikasinya jelek, ndak beres, akhirnya di hapus.",negatif,aplikasi jelek ndak beres hapus
-"Tolong bantuannya, aplikasi honda saya logout sendiri dan login lagi tidak bisa, keterangannya user id dan password salah. Di reset password dengan user id yg sama berhasil diubah, tapi di login dengan password yg sudah diubah keterangannya user id dan password salah. Dicoba berulang2 kali reset password dan login kembali keterangannya masih tetap sama.",negatif,tolong bantu aplikasi honda logout login terang user id password salah reset password user id yg hasil ubah login password yg ubah terang user id password salah coba ulang kali reset password login terang
+"Tolong bantuannya, aplikasi honda saya logout sendiri dan login lagi tidak bisa, keterangannya user id dan password salah. Di reset password dengan user id yg sama berhasil diubah, tapi di login dengan password yg sudah diubah keterangannya user id dan password salah. Dicoba berulang2 kali reset password dan login kembali keterangannya masih tetap sama.",negatif,tolong bantu aplikasi honda logout login tidak terang user id password salah reset password user id yg hasil ubah login password yg ubah terang user id password salah coba ulang kali reset password login terang
 Apk cepat respon,positif,aplikasi cepat respon
 Servis kendaraan jadi mudah,positif,servis kendara mudah
-"Sebaiknya tdk usah pakai lampiran KTP, stnk saja cukup, jadi makin susah registrasi nya, padahal dulu sy sdh download dan kendaraan sdh terdaftar...skr malah susah memasukkan daftar kendaraan, tlg dibantu",negatif,pakai lampir ktp stnk susah registrasi nya sdh download kendara sdh daftar skr susah masuk daftar kendara tlg bantu
-"hari ini benar2 berasa dirugikan, mau service berkala tapi tiba pas mau bayar, tagihan nya di service tambahan banyak yg kita ga tau, tiba2 ada, sperti, wax body, cleaning glass dan perbersihn ac dll, sampai 2 jutaan, total 5 jutaan, di awal ga di kasi tau, knp bisa di masukin service tambahan sperti itu, padahal mobil sy pakai stiket wrapping full body, apa nya yg mau di wax body dan cleaning glass, mahal lagi, nipu2 halus caranya bgitu, @hondatebet",negatif,asa rugi service kala pas bayar tagih nya service tambah yg tau sperti wax body cleaning glass perbersihn ac dll juta total juta kasi tau knp masukin service tambah sperti mobil pakai stiket wrapping full body nya yg wax body cleaning glass mahal nipu halus bgitu
+"Sebaiknya tdk usah pakai lampiran KTP, stnk saja cukup, jadi makin susah registrasi nya, padahal dulu sy sdh download dan kendaraan sdh terdaftar...skr malah susah memasukkan daftar kendaraan, tlg dibantu",negatif,tidak pakai lampir ktp stnk susah registrasi nya sdh download kendara sdh daftar skr susah masuk daftar kendara tlg bantu
+"hari ini benar2 berasa dirugikan, mau service berkala tapi tiba pas mau bayar, tagihan nya di service tambahan banyak yg kita ga tau, tiba2 ada, sperti, wax body, cleaning glass dan perbersihn ac dll, sampai 2 jutaan, total 5 jutaan, di awal ga di kasi tau, knp bisa di masukin service tambahan sperti itu, padahal mobil sy pakai stiket wrapping full body, apa nya yg mau di wax body dan cleaning glass, mahal lagi, nipu2 halus caranya bgitu, @hondatebet",negatif,asa rugi service kala pas bayar tagih nya service tambah yg tidak tau sperti wax body cleaning glass perbersihn ac dll juta total juta tidak kasi tau knp masukin service tambah sperti mobil pakai stiket wrapping full body nya yg wax body cleaning glass mahal nipu halus bgitu
 "Memudahkan bagi konsumen untuk melakukan perbaikan atau penggantian spare part mobil, bisa melihat riwayat perbaikan yang telah diperbaiki",positif,mudah konsumen baik ganti spare part mobil riwayat baik baik
-"izin kak, booking tidak bisa di hari H, apakah menjamin dapat antrian jika langsung datang (pagi) ? trus masukan aja kak, untuk ketersediaan sparepart, alangkah baiknya sesama honda bisa nge-link (berkordinasi via telp, wasap), jadi kita konsumen ga random datangi cabang hanya untuk menanyakan ketersedian spare part, terimakasih, maaf bila ada kata yg kurang berkenan",positif,izin kak booking jamin antri langsung pagi trus masuk kak sedia sparepart alangkah baik honda nge link berkordinasi via telp wasap konsumen random datang cabang dian spare part terimakasih maaf yg kenan
+"izin kak, booking tidak bisa di hari H, apakah menjamin dapat antrian jika langsung datang (pagi) ? trus masukan aja kak, untuk ketersediaan sparepart, alangkah baiknya sesama honda bisa nge-link (berkordinasi via telp, wasap), jadi kita konsumen ga random datangi cabang hanya untuk menanyakan ketersedian spare part, terimakasih, maaf bila ada kata yg kurang berkenan",positif,izin kak booking tidak jamin antri langsung pagi trus masuk kak sedia sparepart alangkah baik honda nge link berkordinasi via telp wasap konsumen tidak random datang cabang dian spare part terimakasih maaf yg kurang kenan
 "Aplikasi berhenti di 99% ketika di update, lalu aplikasi di hp tampilan info nya menjadi kosong. Akann kembali klo sudah diperbaiki",negatif,aplikasi henti update aplikasi hp tampil info nya kosong akann klo baik
 Aplikasi susah dipahami,negatif,aplikasi susah paham
-"Gak bisa masuk, kolom email tidak bisa di isi",negatif,masuk kolom email isi
-"Mau masuk pertama kali, malah baris email-nya nggak bisa di klik..jadinya nggak bisa masuk.. trus gimana ini? Niat mau servis ke beres, nggak jadi akhirnya..",negatif,masuk kali baris email nya klik masuk trus gimana niat servis beres
+"Gak bisa masuk, kolom email tidak bisa di isi",negatif,tidak masuk kolom email tidak isi
+"Mau masuk pertama kali, malah baris email-nya nggak bisa di klik..jadinya nggak bisa masuk.. trus gimana ini? Niat mau servis ke beres, nggak jadi akhirnya..",negatif,masuk kali baris email nya tidak klik tidak masuk trus gimana niat servis beres tidak
 Ok sip,positif,ok sip
 Update app ngebug,negatif,update aplikasi ngebug
 "Vitur terbaru (rem/berhenti otomatis) new HRv benar2 membayahakan, hampir 3x saya dibuat celaka",negatif,vitur baru rem henti otomatis new hrv membayahakan celaka
-"Kolom email tidak bisa dimasukan saat hendak menambahkan kendaraan pada aplikasi , tidak bisa disimpan karena email belum terisi",negatif,kolom email masuk kendara aplikasi simpan email isi
-"Susah banget untuk tambah kendaraan semua salah, harua dibenahi lagi aplikasinya sangat tidak bermanfaat",negatif,susah banget kendara salah harua benah aplikasi manfaat
-sdh ke tujuh kali.... tetap tidak masuk,negatif,sdh tujuh kali masuk
+"Kolom email tidak bisa dimasukan saat hendak menambahkan kendaraan pada aplikasi , tidak bisa disimpan karena email belum terisi",negatif,kolom email tidak masuk kendara aplikasi tidak simpan email belum isi
+"Susah banget untuk tambah kendaraan semua salah, harua dibenahi lagi aplikasinya sangat tidak bermanfaat",negatif,susah banget kendara salah harua benah aplikasi tidak manfaat
+sdh ke tujuh kali.... tetap tidak masuk,negatif,sdh tujuh kali tidak masuk
 "Pelayanan di Honda Komala Karawang, puas..bagus.. ramah2 pokok nya keren!!",positif,layan honda komala karawang puas bagus ramah pokok nya keren
 Nomer mesin 3 dijid apaan ini . Di STNK aja bnyak aneh ny aplikasi .,negatif,nomer mesin dijid stnk bnyak aneh ny aplikasi
-Hadeuh gimana sih ini? Mau Daftar Mobil Kok Ga bisa bisa hadeuh bikin ribet aja. Dah dicoba 4x tetep ae ga bisa,negatif,hadeuh gimana sih daftar mobil hadeuh bikin ribet dah coba tetep ae
+Hadeuh gimana sih ini? Mau Daftar Mobil Kok Ga bisa bisa hadeuh bikin ribet aja. Dah dicoba 4x tetep ae ga bisa,negatif,hadeuh gimana sih daftar mobil tidak hadeuh bikin ribet dah coba tetep ae tidak
 bagus pelayananya memuaskan,positif,bagus pelayananya muas
 "Service di union Honda Tangerang, Alhamdulillah aman lancar, pelayanan prima. Mantap terimakasih",positif,service union honda tangerang alhamdulillah aman lancar layan prima mantap terimakasih
 "Pelayanan yg ramah dan memberikan penjelasan yg tepat, akurat dan pergantian sparepart yg original pada waktu service kendaraan,,,",positif,layan yg ramah jelas yg akurat ganti sparepart yg original service kendara
-"Pengalaman saya ketika membeli paket mini 80rb km, (kesempatan terakhir membeli paket mini krn 90rb km tidak dapat beli lagi) di tgl 16 Des 23 saya tdk dapat datang servis utk ambil 1x servis lagi dan itu hangus. Saya tdk bs karena diluar kota dan sdh telp cs internusa cibinong dan pusat. Tetap tidak bisa. Apakah perusahaan besar sekaku ini? Untuk mempertahankan nasabah loh ini anda tetap kaku terhadap kebijakan anda. Padahal cuma minta kelonggaran sampai 29 Des 23, saya beli loh bkn hutang",negatif,alam beli paket mini rb km sempat beli paket mini rb km beli tgl des servis utk ambil servis hangus bs luar kota sdh telp cs internusa cibinong pusat usaha seka tahan nasabah loh kaku bijak longgar des beli loh bkn hutang
+"Pengalaman saya ketika membeli paket mini 80rb km, (kesempatan terakhir membeli paket mini krn 90rb km tidak dapat beli lagi) di tgl 16 Des 23 saya tdk dapat datang servis utk ambil 1x servis lagi dan itu hangus. Saya tdk bs karena diluar kota dan sdh telp cs internusa cibinong dan pusat. Tetap tidak bisa. Apakah perusahaan besar sekaku ini? Untuk mempertahankan nasabah loh ini anda tetap kaku terhadap kebijakan anda. Padahal cuma minta kelonggaran sampai 29 Des 23, saya beli loh bkn hutang",negatif,alam beli paket mini rb km sempat beli paket mini rb km tidak beli tgl des tidak servis utk ambil servis hangus tidak bs luar kota sdh telp cs internusa cibinong pusat tidak usaha seka tahan nasabah loh kaku bijak longgar des beli loh bkn hutang
 Selalu puas dengan honda,positif,puas honda
 STNK lambat,positif,stnk lambat
-"mohon update'an nya jgn lama. sudah service, tapi di aplikasi belum update.",positif,mohon update an nya jgn service aplikasi update
+"mohon update'an nya jgn lama. sudah service, tapi di aplikasi belum update.",positif,mohon update an nya jgn service aplikasi belum update
 Best,positif,best
 Pelayanannya sangat bagus,positif,layan bagus
 atm danamon nomor rekening:500000plat nomor civic hondaD1234DA,negatif,atm danamon nomor rekening plat nomor civic hondad da
@@ -469,17 +469,17 @@ Sangat membantu untuk booking service,positif,bantu booking service
 Sangat memuaskan. Pelayanannya ramah. Sangat baik..,positif,muas layan ramah
 Jempol 4 Buat Mas Muhkti Sales Honda Gajah Mada.,positif,jempol mas muhkti sales honda gajah mada
 "hari ini ganti oli mobil sekaligus recall front passenger's @honda kencana keranji. good experience u/ tingkat pelayanannya.mulai dari tindakan security sampai ke Service Advisor nya, Mb Talitha Ivana dibantu sekali & diberi penjelasan yg baik recomen u/ yg ada kebutuhan terkait kendaraan ""Mobil"" Honda hold on untuk services baiknya👌🏻☕️",positif,ganti oli mobil recall front passenger kencana keranji good experience tingkat layan tindak security service advisor nya mb talitha ivana bantu jelas yg recomen yg butuh kait kendara mobil honda hold on services baik
-Bintang 1 karna untuk update pengerjaan mobil yg d service ngk ada.. Apk cuma bisa buat boking doang .. menuh menuhin memory hp doang. Harusnya apk ini bisa untuk pengecekan pengerjaan mobil sudah selesai atau belum di servicenya&total biaya .. Jadi sbg pengguna H-ECARE terbantu dengan adanya info tersebut.,negatif,bintang update kerja mobil yg service ngk aplikasi boking doang menuh menuhin memory hp doang aplikasi kece kerja mobil selesai servicenya total biaya sbg guna ecare bantu info
-"Keren lebih mudah, untuk jadwal servis tidak menunggu antrian lagi. Saya sudah mencoba sekali, menggunakannya bagus kok tinggal klik boking, waktu dan jamnya. Tinggal ke loket tunjukin boking kita, langsung dilayani tanpa ngambil no antrian lagi. Buat rekan2 yang baru membeli mobil, emang agak lama verifikasinya karena satunya menunggu STNKnya di verifikasi dari aplikasi. Tq ini review saya kalau saya pribadi puas dengan pelayanan aplikasi ini.",positif,keren mudah jadwal servis tunggu antri coba guna bagus tinggal klik boking jam tinggal loket tunjukin boking langsung layan ngambil no antri rekan beli mobil emang verifikasi satu tunggu stnknya verifikasi aplikasi tq review pribadi puas layan aplikasi
-No rangka dan mesin ga sesuai padahal ngikutin yg d stnk. Aneh wkwk,negatif,no rangka mesin sesuai ngikutin yg stnk aneh wkwk
+Bintang 1 karna untuk update pengerjaan mobil yg d service ngk ada.. Apk cuma bisa buat boking doang .. menuh menuhin memory hp doang. Harusnya apk ini bisa untuk pengecekan pengerjaan mobil sudah selesai atau belum di servicenya&total biaya .. Jadi sbg pengguna H-ECARE terbantu dengan adanya info tersebut.,negatif,bintang update kerja mobil yg service ngk aplikasi boking doang menuh menuhin memory hp doang aplikasi kece kerja mobil selesai belum servicenya total biaya sbg guna ecare bantu info
+"Keren lebih mudah, untuk jadwal servis tidak menunggu antrian lagi. Saya sudah mencoba sekali, menggunakannya bagus kok tinggal klik boking, waktu dan jamnya. Tinggal ke loket tunjukin boking kita, langsung dilayani tanpa ngambil no antrian lagi. Buat rekan2 yang baru membeli mobil, emang agak lama verifikasinya karena satunya menunggu STNKnya di verifikasi dari aplikasi. Tq ini review saya kalau saya pribadi puas dengan pelayanan aplikasi ini.",positif,keren mudah jadwal servis tidak tunggu antri coba guna bagus tinggal klik boking jam tinggal loket tunjukin boking langsung layan ngambil no antri rekan beli mobil emang verifikasi satu tunggu stnknya verifikasi aplikasi tq review pribadi puas layan aplikasi
+No rangka dan mesin ga sesuai padahal ngikutin yg d stnk. Aneh wkwk,negatif,no rangka mesin tidak sesuai ngikutin yg stnk aneh wkwk
 masih susah registrasi dan approve verifikasinya bertele tele menyulitkan kita semuanya 🤔 segini dulu ratingnya,negatif,susah registrasi approve verifikasi tele tele sulit gin ratingnya
-"Sekelas HONDA punya aplikasi sampah begini ya, mau daftar susah bener, malah di notif kalau mobil sdh pernah di daftarkan, lah.... baru jg di instal ini aplikasi, baru jg pny mobil merk HONDA, plat nomer jg blm ada sebulan umurnya... ya mobil nya, ya bengkelnya, ya aftersales nya, bahkan smpe aplikasinya jg sampah.. nyesel bner ambil ni mobil.. mobil baru sebulan jg trouble nya udh bejibun...",negatif,kelas honda aplikasi sampah ya daftar susah bener notif mobil sdh daftar instal aplikasi pny mobil merk honda plat nomer bulan umur ya mobil nya ya bengkel ya aftersales nya smpe aplikasi sampah nyesel bner ambil ni mobil mobil bulan trouble nya bejibun
+"Sekelas HONDA punya aplikasi sampah begini ya, mau daftar susah bener, malah di notif kalau mobil sdh pernah di daftarkan, lah.... baru jg di instal ini aplikasi, baru jg pny mobil merk HONDA, plat nomer jg blm ada sebulan umurnya... ya mobil nya, ya bengkelnya, ya aftersales nya, bahkan smpe aplikasinya jg sampah.. nyesel bner ambil ni mobil.. mobil baru sebulan jg trouble nya udh bejibun...",negatif,kelas honda aplikasi sampah ya daftar susah bener notif mobil sdh daftar instal aplikasi pny mobil merk honda plat nomer belum bulan umur ya mobil nya ya bengkel ya aftersales nya smpe aplikasi sampah nyesel bner ambil ni mobil mobil bulan trouble nya bejibun
 Nilai 10 dah pelayanan terbaik salesnya juga sangat ramah,positif,nilai dah layan baik salesnya ramah
 Mantap pakai Mobil Honda.,positif,mantap pakai mobil honda
 Good aplication,positif,good aplication
-B AJA. ga ada yg berguna. Malah bikin pusing para seles minta tolong aplikasi kasi bintang 5. Gua sih ogah. Pelayanan kurang bagus,negatif,yg guna bikin pusing les tolong aplikasi kasi bintang gua sih ogah layan bagus
+B AJA. ga ada yg berguna. Malah bikin pusing para seles minta tolong aplikasi kasi bintang 5. Gua sih ogah. Pelayanan kurang bagus,negatif,tidak yg guna bikin pusing les tolong aplikasi kasi bintang gua sih ogah layan kurang bagus
 Terima kasih sudah dibantu mendaftarkan unit.,positif,terima kasih bantu daftar unit
-"Kalo ada bintang 0, sy kasih 0 aja. Berulang2 masukin nomor mesin dan nomor rangka bilangnya kendaraan tidak tersedia, padahal jelas sudah ditulis sesuai STNK tetap gagal, ilegal apa motor gw beli??? Gak jelas banget",negatif,kalo bintang kasih ulang masukin nomor mesin nomor rangka bilang kendara sedia tulis sesuai stnk gagal ilegal motor gw beli banget
+"Kalo ada bintang 0, sy kasih 0 aja. Berulang2 masukin nomor mesin dan nomor rangka bilangnya kendaraan tidak tersedia, padahal jelas sudah ditulis sesuai STNK tetap gagal, ilegal apa motor gw beli??? Gak jelas banget",negatif,kalo bintang kasih ulang masukin nomor mesin nomor rangka bilang kendara tidak sedia tulis sesuai stnk gagal ilegal motor gw beli tidak banget
 Bagus.....,positif,bagus
 "Pelayanan bagus dan ramah , dan hasil service bagus , juga tempat menunggunya nyaman sekali",positif,layan bagus ramah hasil service bagus tunggu nyaman
 Mantabb,positif,mantabb
@@ -498,63 +498,63 @@ Sangat baik dan cepat dalam response pelanggan..,positif,cepat response langgan
 Biar lebih mudah,positif,biar mudah
 Aplikasi membantu,positif,aplikasi bantu
 Bearing compresor honda freed,positif,bearing compresor honda freed
-kemarin saya gk booking servis lgsung datang aja .alkhamdulillah pelayanan cepat dan bagus,positif,kemarin booking servis lgsung alkhamdulillah layan cepat bagus
-"Susah ribet..mw booking service hrs ulang2 isi data,no mesin, no rangka,isi profile Lg..udh sejam muter2 aja...d buat simple dong..kan mw booking bukan mw beli..masukin plat,jam booking aja cukup kali ya..ga PK ribet..mohon d rubah syatemnta ya..tnx",negatif,susah ribet mw booking service hrs ulang isi data no mesin no rangka isi profile lg jam muter simple mw booking mw beli masukin plat jam booking kali ya pk ribet mohon rubah syatemnta ya tnx
+kemarin saya gk booking servis lgsung datang aja .alkhamdulillah pelayanan cepat dan bagus,positif,kemarin tidak booking servis lgsung alkhamdulillah layan cepat bagus
+"Susah ribet..mw booking service hrs ulang2 isi data,no mesin, no rangka,isi profile Lg..udh sejam muter2 aja...d buat simple dong..kan mw booking bukan mw beli..masukin plat,jam booking aja cukup kali ya..ga PK ribet..mohon d rubah syatemnta ya..tnx",negatif,susah ribet mw booking service hrs ulang isi data no mesin no rangka isi profile lg jam muter simple mw booking bukan mw beli masukin plat jam booking kali ya tidak pk ribet mohon rubah syatemnta ya tnx
 Udah daftar di aplikasi tapi tapi service nya full antri terus ngapain buat aplikasi untuk service kalau kek gini,negatif,daftar aplikasi service nya full antri ngapain aplikasi service kek gin
 "Terbaik, sangat membantu, trust worty",positif,baik bantu trust worty
-Aplikasi tidak berguna mau booking jam service ga bisa semua sudah merah dan silang semua,negatif,aplikasi guna booking jam service merah silang
+Aplikasi tidak berguna mau booking jam service ga bisa semua sudah merah dan silang semua,negatif,aplikasi tidak guna booking jam service tidak merah silang
 Sangat membantu buat pemula,positif,bantu mula
 "Sangat slow respon, dari membuka aplikasi sampai dengan menunggu konfirmasi. Tingkatkan kembali pelayanannya.",negatif,slow respon buka aplikasi tunggu konfirmasi tingkat layan
-Halo kak. Saya pengguna baru di honda dan di arahin suruh pake APK ini tapi kenapa ga bisa di buka ya APK nya cuma mentok sampe LOGO doank. Trimakasih,negatif,halo kak guna honda arahin suruh pake aplikasi buka ya aplikasi nya mentok sampe logo doank trimakasih
+Halo kak. Saya pengguna baru di honda dan di arahin suruh pake APK ini tapi kenapa ga bisa di buka ya APK nya cuma mentok sampe LOGO doank. Trimakasih,negatif,halo kak guna honda arahin suruh pake aplikasi tidak buka ya aplikasi nya mentok sampe logo doank trimakasih
 "Update sebelumnya force close, sekarang stuck di loading",negatif,update force close stuck loading
-"Setelah di update malah gak bisa masuk ini gimana hello honda saya mau booking service gak bisal,ini sudah 2hari loging SUSAH",negatif,update masuk gimana hello honda booking service bisal loging susah
+"Setelah di update malah gak bisa masuk ini gimana hello honda saya mau booking service gak bisal,ini sudah 2hari loging SUSAH",negatif,update tidak masuk gimana hello honda booking service tidak bisal loging susah
 "thanks, mempermudah saya sebagai konsumen honda.",positif,thanks mudah konsumen honda
-Aplikasi belum matang. Register tdk bisa,negatif,aplikasi matang register
+Aplikasi belum matang. Register tdk bisa,negatif,aplikasi belum matang register tidak
 "Sudah beberapa kali Booking via Honda E Care selalu di bilang nya jadwal nya penuh oleh Cust Service HJC Pangjay . Padahal di jadwal nya masih kosong di Honda Ecare, Jadi buat apa booking di aplikasi tapi setelah itu selalu di rubah jadwal nya oleh CS HJC Pangjay. Tolong dong ini dari Pihak manajement di perhatikan lagi kinerja nya. Ada kasus lagi di Honda ECare saya dapat notifikasi utk upgrade software tape Audio tapi di bengkel nya bilang enggak ada yg perlu di upgrade.",negatif,kali booking via honda care bilang nya jadwal nya penuh cust service hjc pangjay jadwal nya kosong honda ecare booking aplikasi rubah jadwal nya cs hjc pangjay tolong manajement perhati kerja nya honda ecare notifikasi utk upgrade software tape audio bengkel nya bilang yg upgrade
 Riwayat servis sudah muncul tahun 2023,positif,riwayat servis muncul
-"Kemaren tidak bisa di daftarkan, minta bantuan lewat email akhir nya di bantu, ternyata di sistem tercatat no mesin nya harus di sisipkan garis strip (-) dan pendaftaran berhasil , terimakasih CS honda e-care",positif,kemaren daftar bantu email nya bantu sistem catat no mesin nya sisip garis strip daftar hasil terimakasih cs honda care
-"Sekelas honda ngeluarin aplikasi ko seperti hanya pelengkap saja, tidak diperhatikan kemudahan dan fiturnya. Mestinya yang menjadi keluhan pelanggan segera di sempurnakan, mendaftarkan kendaraan aja susah jangan sampai pelanggan resah seakan kendaraannya tidak terdaftar di honda nya sendiri. maaf mohon ditingkatkan...",negatif,kelas honda ngeluarin aplikasi ko lengkap perhati mudah fiturnya mesti keluh langgan sempurna daftar kendara susah langgan resah akan kendara daftar honda nya maaf mohon tingkat
+"Kemaren tidak bisa di daftarkan, minta bantuan lewat email akhir nya di bantu, ternyata di sistem tercatat no mesin nya harus di sisipkan garis strip (-) dan pendaftaran berhasil , terimakasih CS honda e-care",positif,kemaren tidak daftar bantu email nya bantu sistem catat no mesin nya sisip garis strip daftar hasil terimakasih cs honda care
+"Sekelas honda ngeluarin aplikasi ko seperti hanya pelengkap saja, tidak diperhatikan kemudahan dan fiturnya. Mestinya yang menjadi keluhan pelanggan segera di sempurnakan, mendaftarkan kendaraan aja susah jangan sampai pelanggan resah seakan kendaraannya tidak terdaftar di honda nya sendiri. maaf mohon ditingkatkan...",negatif,kelas honda ngeluarin aplikasi ko lengkap tidak perhati mudah fiturnya mesti keluh langgan sempurna daftar kendara susah jangan langgan resah akan kendara tidak daftar honda nya maaf mohon tingkat
 Sangat membantu customer.,positif,bantu customer
-"Kak.., ini aplikasi update, log out sendiri. Saya lupa kata sandi, kok tidak bisa di klik lupa sandi dan kirim email dinotif, data pengguna tidak ditemukan. Gimana yaa kak? Tks",positif,kak aplikasi update log out lupa sandi klik lupa sandi kirim email dinotif data guna temu gimana yaa kak tks
+"Kak.., ini aplikasi update, log out sendiri. Saya lupa kata sandi, kok tidak bisa di klik lupa sandi dan kirim email dinotif, data pengguna tidak ditemukan. Gimana yaa kak? Tks",positif,kak aplikasi update log out lupa sandi tidak klik lupa sandi kirim email dinotif data guna tidak temu gimana yaa kak tks
 Ribet,negatif,ribet
 "Pingin service bayar aja kok tambah ribet,",negatif,pingin service bayar ribet
-"Pelayanan baik dan ramah, Utk makin diperbanyak paket hemat servisnya biar bikin tdk kantong kering☺",positif,layan ramah utk banyak paket hemat servis biar bikin kantong kering
-"Jadwalnya booking service tdk singkron dengan dealer,..tdk update. Auto delete",negatif,jadwal booking service singkron dealer update auto delete
+"Pelayanan baik dan ramah, Utk makin diperbanyak paket hemat servisnya biar bikin tdk kantong kering☺",positif,layan ramah utk banyak paket hemat servis biar bikin tidak kantong kering
+"Jadwalnya booking service tdk singkron dengan dealer,..tdk update. Auto delete",negatif,jadwal booking service tidak singkron dealer tidak update auto delete
 Sangat memudahkan saat booking service.,positif,mudah booking service
-"Ni bingung cara daftarin,mental terus dan di minta cek nmr rangka dan nmr mesin pdhal sdh bener isi nya,bagaimana cara nya agar ngga mental terus isi nya",positif,ni bingung daftarin mental cek nmr rangka nmr mesin pdhal sdh bener isi nya nya mental isi nya
+"Ni bingung cara daftarin,mental terus dan di minta cek nmr rangka dan nmr mesin pdhal sdh bener isi nya,bagaimana cara nya agar ngga mental terus isi nya",positif,ni bingung daftarin mental cek nmr rangka nmr mesin pdhal sdh bener isi nya nya tidak mental isi nya
 "Aplikasi payah, sangat susah dbuka.",negatif,aplikasi payah susah dbuka
 Sangat bagus dan membantu konsumen dalam melakukan booking service,positif,bagus bantu konsumen booking service
 "Applikasi ini sungguh beban sekali mau daftar z salah terus no rangka..padahal sudah sesuai no di sntk..mungkin ini aplikasi WAJIB DI PERBAIKI ,KALAU ADA MINUS STAR AKU TARO TUH",negatif,applikasi sungguh beban daftar salah no rangka sesuai no sntk aplikasi wajib baik minus star taro tuh
-Buat yg daftarin dn gk bisa. Dia tunggu 2 minggu dulu dri serah Terima unitnguys. Ada namanya surat jalan kalau sdh masuk sistem. Baru data surat jln sementara tersebut dpt di pakai sebagai dta sementara buat daftarkan ke aplikasi e care. Semoga bermanfaat.,positif,yg daftarin dn tunggu minggu dri serah terima unitnguys nama surat jalan sdh masuk sistem data surat jln dpt pakai dta daftar aplikasi care moga manfaat
+Buat yg daftarin dn gk bisa. Dia tunggu 2 minggu dulu dri serah Terima unitnguys. Ada namanya surat jalan kalau sdh masuk sistem. Baru data surat jln sementara tersebut dpt di pakai sebagai dta sementara buat daftarkan ke aplikasi e care. Semoga bermanfaat.,positif,yg daftarin dn tidak tunggu minggu dri serah terima unitnguys nama surat jalan sdh masuk sistem data surat jln dpt pakai dta daftar aplikasi care moga manfaat
 "Service Jadi lebih Mudah dan Test Driver juga bisa langsung di aplikasi ini, keren banget",positif,service mudah test driver langsung aplikasi keren banget
 "Mau daftarin kendaraan aja sulit. Padahal nmr udah bener tapi kagak bisa, di suruh periksa kembali terus. Aneh sama aja gabisa digunain.",negatif,daftarin kendara sulit nmr bener kagak suruh periksa aneh gabisa digunain
-"Data service history mobil saya tdk pernah diupdate, kasih bintang 1 aja.",negatif,data service history mobil diupdate kasih bintang
+"Data service history mobil saya tdk pernah diupdate, kasih bintang 1 aja.",negatif,data service history mobil tidak diupdate kasih bintang
 Sangat Membantu👍,positif,bantu
 "Sangat membantu, utk pemilik mobil honda",positif,bantu utk milik mobil honda
 "Sangat membantu untuk pengguna honda,dtingkatkan terus performa aplikasinya",positif,bantu guna honda dtingkatkan performa aplikasi
 sangat membatu,positif,batu
 "Aplikasi ini sangat membantu sekali bagi pemilik mobil honda. Kemudahan dalam perawatan kendaraan baik informasi produk, bengkel jg servis bisa diakomodasi melalui Honda e-care. Semoga bisa dipertahankan kualitasnya dan menjadi lebih baik lagi",positif,aplikasi bantu milik mobil honda mudah awat kendara informasi produk bengkel servis akomodasi honda care moga tahan kualitas
 Memudahkan,positif,mudah
-SAYA UDAH DOWNLOAD UDAH MASUKAN NO RANGKA UDH MASUKAN NO MESIN NO POL MASA GA BISA TAMBAHKAN KENDARAAN DENGAN ALASAN PERIKSA KEMBALI NO MESIN DAN NO RANGKA ANDA UDAH JELAS JELAS SAYA SESUAIKAN DENGAN YANG DI BPKB,negatif,download masuk no rangka masuk no mesin no pol tambah kendara alas periksa no mesin no rangka sesuai bpkb
-"Aplikasi ngaco, udah regist dan isi data lengkap mobil segala macem sampe no KTP dan berhasil regist. Tapi, setelah sehari gak dibuka data regist mobil saya hilang lagi, mesti regist ulang. Kalo punya aplikasi belum siap launching gausah launching, awas aja kalo sampe data saya bocor di pake sama oknum. Saya somasi nih aplikasi.",negatif,aplikasi ngaco regist isi data lengkap mobil macem sampe no ktp hasil regist hari buka data regist mobil hilang mesti regist ulang kalo aplikasi launching gausah launching awas kalo sampe data bocor pake oknum somasi nih aplikasi
-Udah booking status 2 hari menunggu konfirmasi terus tidak ada pihak dealler yg menghubungi pas hari H malah dibatalkan sepihak,negatif,booking status tunggu konfirmasi dealler yg hubung pas batal
+SAYA UDAH DOWNLOAD UDAH MASUKAN NO RANGKA UDH MASUKAN NO MESIN NO POL MASA GA BISA TAMBAHKAN KENDARAAN DENGAN ALASAN PERIKSA KEMBALI NO MESIN DAN NO RANGKA ANDA UDAH JELAS JELAS SAYA SESUAIKAN DENGAN YANG DI BPKB,negatif,download masuk no rangka masuk no mesin no pol tidak tambah kendara alas periksa no mesin no rangka sesuai bpkb
+"Aplikasi ngaco, udah regist dan isi data lengkap mobil segala macem sampe no KTP dan berhasil regist. Tapi, setelah sehari gak dibuka data regist mobil saya hilang lagi, mesti regist ulang. Kalo punya aplikasi belum siap launching gausah launching, awas aja kalo sampe data saya bocor di pake sama oknum. Saya somasi nih aplikasi.",negatif,aplikasi ngaco regist isi data lengkap mobil macem sampe no ktp hasil regist hari tidak buka data regist mobil hilang mesti regist ulang kalo aplikasi belum launching gausah launching awas kalo sampe data bocor pake oknum somasi nih aplikasi
+Udah booking status 2 hari menunggu konfirmasi terus tidak ada pihak dealler yg menghubungi pas hari H malah dibatalkan sepihak,negatif,booking status tunggu konfirmasi tidak dealler yg hubung pas batal
 "Aplikasi yg sangat memudahkan pelanggan, terutama untuk proses booking servis",positif,aplikasi yg mudah langgan proses booking servis
 Sangat membantu sekali untuk proses servicenya dan klaim,positif,bantu proses servicenya klaim
 Sangat memuaskan & membantu sekali terbantu sekali dengan aplikasi nya saat mau booking service lebih mudah. 👍👍👍👍👍👍👍,positif,muas bantu bantu aplikasi nya booking service mudah
-Mohon bantu dong kenapa aplikasinya tidak bisa digunakan. Padahal udah pernah dipakai juga. Tp semuanya hilang. Sudah isi no rangka dll nya. Tp pas masukin email tidak bisa dibuka. Sudah coba registrasi ulang malah sudah terdaftar,positif,mohon bantu aplikasi pakai hilang isi no rangka dll nya pas masukin email buka coba registrasi ulang daftar
-"Tolong ga usah kirim2 pesan sok mengingat untuk server, gara2 pesan itu saya debat sama orang rumah, jadi jangan menggangguku kenyamanan terimakasih!!!",negatif,tolong kirim pesan sok server gara pesan debat orang rumah ganggu nyaman terimakasih
+Mohon bantu dong kenapa aplikasinya tidak bisa digunakan. Padahal udah pernah dipakai juga. Tp semuanya hilang. Sudah isi no rangka dll nya. Tp pas masukin email tidak bisa dibuka. Sudah coba registrasi ulang malah sudah terdaftar,positif,mohon bantu aplikasi tidak pakai hilang isi no rangka dll nya pas masukin email tidak buka coba registrasi ulang daftar
+"Tolong ga usah kirim2 pesan sok mengingat untuk server, gara2 pesan itu saya debat sama orang rumah, jadi jangan menggangguku kenyamanan terimakasih!!!",negatif,tolong tidak kirim pesan sok server gara pesan debat orang rumah jangan ganggu nyaman terimakasih
 "ada yang bisa jawab, saya daftar kendaraan baru saat pengisian nomor rangka, muncul pemberitahuan kendaraan sudah didaftarkan akun lain dan muncul dua opsi 1.saya pemilik baru 2. permintaan akses data kepemilik utama. pertanyaannya siapa pemilik utama sedangkan saya beli yang baru?",positif,daftar kendara isi nomor rangka muncul pemberitahuan kendara daftar akun muncul opsi milik minta akses data milik utama tanya milik utama beli
 Aplikasinya lengkap,positif,aplikasi lengkap
 Mempermudah custemer,positif,mudah custemer
 Sangad membantu,positif,sangad bantu
 Ok pokoknya,positif,ok pokok
-Honda ada tidak aplikasi untuk bisa mengecek spareparts dan harga per part seperti merk mobil lain?,positif,honda aplikasi ecek spareparts harga part merk mobil
+Honda ada tidak aplikasi untuk bisa mengecek spareparts dan harga per part seperti merk mobil lain?,positif,honda tidak aplikasi ecek spareparts harga part merk mobil
 Apk mantap,positif,aplikasi mantap
 "Aplikasi yang bagus, bermanfaat sekali untuk pengguna mobil honda",positif,aplikasi bagus manfaat guna mobil honda
 trimakasih ats pelayanan nya dan servis nya sekali lagi trimakasih telah mewujudkan impian mobil kami trim honda Sukses terus yah Gbu,positif,trimakasih ats layan nya servis nya trimakasih wujud impi mobil trim honda sukses yah gbu
 Mantap honda,positif,mantap honda
 Pelayanan lumayan memuaskan.,positif,layan lumayan muas
-Aplikasi ini sbenarnya bagusss Tapiiiiiiii..... Knp...knp... Kok saya baru dikasih tahu sama pihak hondaaaaa adanya apk ini lah wong saya sebagai memiliki mobil Honda pembelian th2018 Sudah habisssssss dan lewatttt free servic nya alias expired sunguh2 sangat menyesal sama pihak Honda Alisa tidak pernah saya pakai fre servisnya Sungguh keterlaluan managmen Honda Saya tidak pernah dikasih tahu sama pihak Honda kalo ada free servis sungguh keterlaluan Kalo sudah lewat baru dikasih tahu menyebalkan,negatif,aplikasi sbenarnya bagus knp knp kasih honda aplikasi milik mobil honda beli th habis free servic nya alias expired sunguh sesal honda alisa pakai fre servis sungguh managmen honda kasih honda kalo free servis sungguh kalo kasih sebal
+Aplikasi ini sbenarnya bagusss Tapiiiiiiii..... Knp...knp... Kok saya baru dikasih tahu sama pihak hondaaaaa adanya apk ini lah wong saya sebagai memiliki mobil Honda pembelian th2018 Sudah habisssssss dan lewatttt free servic nya alias expired sunguh2 sangat menyesal sama pihak Honda Alisa tidak pernah saya pakai fre servisnya Sungguh keterlaluan managmen Honda Saya tidak pernah dikasih tahu sama pihak Honda kalo ada free servis sungguh keterlaluan Kalo sudah lewat baru dikasih tahu menyebalkan,negatif,aplikasi sbenarnya bagus knp knp kasih honda aplikasi milik mobil honda beli th habis free servic nya alias expired sunguh sesal honda alisa tidak pakai fre servis sungguh managmen honda tidak kasih honda kalo free servis sungguh kalo kasih sebal
 Mobil Honda Brio RS urbanit kwalitas bagus dan memuaskan,positif,mobil honda brio rs urbanit kwalitas bagus muas
 It's ok,positif,it ok
 Bagus bgttt sgt membantu,positif,bagus banget sgt bantu
@@ -565,7 +565,7 @@ semakin mudah untuk pelanggan,positif,mudah langgan
 Sangat memudahkan informasi mengenai mobil Honda ...mantabbb,positif,mudah informasi mobil honda mantab
 Nice aplikasi,positif,nice aplikasi
 Sangat bermanfaat,positif,manfaat
-"Lumayanlah...dari pada tidak ada, huruf kekecilan sulit membaca keterangannya. Bisa tidak untuk sparepart ada info harganya, terima kasih🙏👌",negatif,lumayan huruf kecil sulit baca terang sparepart info harga terima kasih
+"Lumayanlah...dari pada tidak ada, huruf kekecilan sulit membaca keterangannya. Bisa tidak untuk sparepart ada info harganya, terima kasih🙏👌",negatif,lumayan tidak huruf kecil sulit baca terang tidak sparepart info harga terima kasih
 Top markotop....👍👍👍,positif,top markotop
 Sangat memudahkan,positif,mudah
 "Permintaan akses ke pemilik utama itu melalui apa, sms atau wa?",negatif,minta akses milik utama sms wa
@@ -573,14 +573,14 @@ Lumayan membantu untuk booking servis,positif,lumayan bantu booking servis
 Untuk booking servis terkendala..,positif,booking servis kendala
 Aplikasi nya sangat mempermudah pengguna Honda,positif,aplikasi nya mudah guna honda
 Mantappp,positif,mantap
-Gak bisa dipake :(,negatif,dipake
+Gak bisa dipake :(,negatif,tidak dipake
 Muhammad Gunawan Pulungan,positif,muhammad gunawan pulung
 "Booking service seminggu sebelum jadwal dan sudah dikonfirmasi setuju oleh IDK 2 Medan, sehari sebelum jadwal dicancel tanpa ada solusi. Apa gunanya booking? After sales honda klo udah dibeli mobilnya jd begini, sbelum beli mobil kayanya bagus2 aja.",negatif,booking service minggu jadwal konfirmasi tuju idk medan hari jadwal dicancel solusi guna booking after sales honda klo beli mobil jd sbelum beli mobil kaya bagus
-"Sekelas Honda , HPM , buat aplikasi banyak error , Saya masukan nomer rangka All New Civic RS yang terdeteksi aplikasi Civic HB , Informasi service berkala juga ga akurat, Ga ngerti ini Honda sedunia apa cuma di indo saja , Sama halnya simpang siurnya informasi aftersales, service , product knowladge yang selalu beda antara dealer , dan call cantre HPM , PENTING : HARUSNYA ADA MANUAL BOOK tersendiri Tentang HONDA SENSING karena ini fitur semiotonomus yg bisa berbahaya kalau tidak Paham.",negatif,kelas honda hpm aplikasi error masuk nomer rangka all new civic rs deteksi aplikasi civic hb informasi service kala akurat ngerti honda dunia indo hal simpang siur informasi aftersales service product knowladge beda dealer call cantre hpm manual book sendiri honda sensing fitur semiotonomus yg bahaya paham
+"Sekelas Honda , HPM , buat aplikasi banyak error , Saya masukan nomer rangka All New Civic RS yang terdeteksi aplikasi Civic HB , Informasi service berkala juga ga akurat, Ga ngerti ini Honda sedunia apa cuma di indo saja , Sama halnya simpang siurnya informasi aftersales, service , product knowladge yang selalu beda antara dealer , dan call cantre HPM , PENTING : HARUSNYA ADA MANUAL BOOK tersendiri Tentang HONDA SENSING karena ini fitur semiotonomus yg bisa berbahaya kalau tidak Paham.",negatif,kelas honda hpm aplikasi error masuk nomer rangka all new civic rs deteksi aplikasi civic hb informasi service kala tidak akurat tidak ngerti honda dunia indo hal simpang siur informasi aftersales service product knowladge beda dealer call cantre hpm manual book sendiri honda sensing fitur semiotonomus yg bahaya tidak paham
 Semakin Ribet. Kemarin bisa cek service record dengan mudah. tanpa isi data diri atau kirim persetujuan ke pemilik sebelum nya. Sekarang harus isi data diri / kirim persetujuan ke pemilik sebelum nya. Bagaimana kalau misal nya calon pembeli mobil bekas tau kalau itu mobil kilometer masih asli dan mobil selalu terawat di honda kalau proses nya ribet. Semoga Di Kembalikan Seperti Kemarin Aplikasi Nya. Thx U,negatif,ribet kemarin cek service record mudah isi data kirim tuju milik nya isi data kirim tuju milik nya nya calon beli mobil bekas tau mobil kilometer asli mobil awat honda proses nya ribet moga kembali kemarin aplikasi nya thx
-Tidak bisa login. Kayaknya jadi malas melayani,negatif,login kayak malas layan
+Tidak bisa login. Kayaknya jadi malas melayani,negatif,tidak login kayak malas layan
 "masa gabisa booking sih, hahahaa trus gunanya aplikasi apaaa dongggg",negatif,gabisa booking sih hahahaa trus guna aplikasi
-"Dulu sempat bisa booking servis, skrg dah ga bisa..data kendaraan hilang, input lgi suruh konfirmasi pemilik, pdhl saya pemilik pertama.. smpe skrg blm bisa ... Mohon solusinya..",negatif,booking servis skrg dah data kendara hilang input lgi suruh konfirmasi milik pdhl milik smpe skrg mohon solusi
+"Dulu sempat bisa booking servis, skrg dah ga bisa..data kendaraan hilang, input lgi suruh konfirmasi pemilik, pdhl saya pemilik pertama.. smpe skrg blm bisa ... Mohon solusinya..",negatif,booking servis skrg dah tidak data kendara hilang input lgi suruh konfirmasi milik pdhl milik smpe skrg belum mohon solusi
 Rak cetho,negatif,rak cetho
 "Cepat, tepat dan memuaskan",positif,cepat muas
 "Mantap digitalisasi dibidang industri otomotif,...",positif,mantap digitalisasi bidang industri otomotif
@@ -589,180 +589,181 @@ Sangat memuaskan.petugas ramah2,positif,muas tugas ramah
 Sudah bagus,positif,bagus
 "Update malah data kendaraan hilang,apk payah",negatif,update data kendara hilang aplikasi payah
 "Sekarang saya kasih bintang 5, aplikasinya respon, ringan dan info yang ditampilkan lengkap Sangat membantu",positif,kasih bintang aplikasi respon ringan info tampil lengkap bantu
-Tidak bisa login,negatif,login
+Tidak bisa login,negatif,tidak login
 Gabisa login,negatif,gabisa login
 Forr busnesss,positif,forr busnes
-"Tidak bisa di tambahkan padahal sudah isi nomor rangka dan lain2nya Perbaikan dong min, biar lebih mudah",negatif,tambah isi nomor rangka nya baik min biar mudah
+"Tidak bisa di tambahkan padahal sudah isi nomor rangka dan lain2nya Perbaikan dong min, biar lebih mudah",negatif,tidak tambah isi nomor rangka nya baik min biar mudah
 "Saya sudah memasukan Noka dan Nosin dengan benar tapi muncul notifikasi ""periksa kembali Nosin dan Noka anda"". Lalu bagaimana cara saya membooking kalau kaya gini??",negatif,pasu noka nosin muncul notifikasi periksa nosin noka membooking kaya gin
-Ini real apk Honda? Brand mobil besar itu? Sejelek ini? Mau booking service aja Gk bisa hadeh,negatif,real aplikasi honda brand mobil jelek booking service hadeh
-"Ko sayah gak bisa login yaa, padahal sudah pake email cuma disitu keteranganya masukan nomor yang benar, padahal nomor saya sudah benar tapi tetep tidak bisa masuk..",negatif,ko sayah login yaa pake email situ keteranganya masuk nomor nomor tetep masuk
-Kurang membantu bos,negatif,bantu bos
+Ini real apk Honda? Brand mobil besar itu? Sejelek ini? Mau booking service aja Gk bisa hadeh,negatif,real aplikasi honda brand mobil jelek booking service tidak hadeh
+"Ko sayah gak bisa login yaa, padahal sudah pake email cuma disitu keteranganya masukan nomor yang benar, padahal nomor saya sudah benar tapi tetep tidak bisa masuk..",negatif,ko sayah tidak login yaa pake email situ keteranganya masuk nomor nomor tetep tidak masuk
+Kurang membantu bos,negatif,kurang bantu bos
 Yang baru ini sudah lebih banyak fiturnya,positif,fiturnya
 Fungsinya sudah bagus dan informasinya komplit,positif,fungsi bagus informasi komplit
 Nice app,positif,nice aplikasi
 Semoga bermanfaat,positif,moga manfaat
-"Semenjak update Honda e-Care kacau, mulai dari data kendaraan hilang sehingga tidak bisa booking service. Setelah di input kembali, yang keluar harus konfirmasi kepemilikan... Hingga kini belum ada SOLUSI",negatif,semenjak update honda care kacau data kendara hilang booking service input konfirmasi milik solusi
+"Semenjak update Honda e-Care kacau, mulai dari data kendaraan hilang sehingga tidak bisa booking service. Setelah di input kembali, yang keluar harus konfirmasi kepemilikan... Hingga kini belum ada SOLUSI",negatif,semenjak update honda care kacau data kendara hilang tidak booking service input konfirmasi milik belum solusi
 "Closing mulu,,, ini real punya Honda, brand besar itukah??",negatif,closing mulu real honda brand
-Update terbaru tgl 26/01/2022 malah tidak bisa tampil,positif,update baru tgl tampil
+Update terbaru tgl 26/01/2022 malah tidak bisa tampil,positif,update baru tgl tidak tampil
+𝚂𝚎𝚝𝚎𝚕𝚊𝚑 𝚍𝚒 𝚄𝙿𝙶𝚁𝙰𝙳𝙴 𝚊𝚙𝚕𝚒𝚔𝚊𝚜𝚒 𝚐𝚊𝚔 𝚋𝚒𝚜𝚊 𝚍𝚒𝚋𝚞𝚔𝚊..??,negatif,telah upgrade aplikasi tidak buka
 Masih banyak para teknisi yang mempermainkan konsumen. Sangat mengecewakan!!!,negatif,teknisi main konsumen kecewa
-Ada gak mobil honda freed ke,negatif,mobil honda freed
-Ini kenapa not responding ? di update gak bisa log in juga.,negatif,not responding update log in
+Ada gak mobil honda freed ke,negatif,tidak mobil honda freed
+Ini kenapa not responding ? di update gak bisa log in juga.,negatif,not responding update tidak log in
 Layanan baik,positif,layan
 Apk sampah,negatif,aplikasi sampah
-"Nggak bisa registrasi kendaraan, keterangannya kendaraan tdk ditemukan",negatif,registrasi kendara terang kendara temu
+"Nggak bisa registrasi kendaraan, keterangannya kendaraan tdk ditemukan",negatif,tidak registrasi kendara terang kendara tidak temu
 Jelek,negatif,jelek
-"Dear Honda, mendingan gak ush buat aplikasi di android kalo ga fungsi dan gak siap buat di pake jutaan orang di indonesia ini, udah di instal ga bisa di apa2in.",negatif,dear honda mending ush aplikasi android kalo fungsi pake juta orang indonesia instal in
-"Sudah berhari-hari coba mendaftar kan kendaraan sesuai dengan yang di STNK selalu jawabannya ""kendaraan tidak ditemukan atau anda belum mendaftar"" padahal jelas2 sudah mendaftar..coba dengan email lain..ternyata sama saja... tolong di perbaiki",negatif,hari coba daftar kendara sesuai stnk jawab kendara temu daftar daftar coba email tolong baik
+"Dear Honda, mendingan gak ush buat aplikasi di android kalo ga fungsi dan gak siap buat di pake jutaan orang di indonesia ini, udah di instal ga bisa di apa2in.",negatif,dear honda mending tidak ush aplikasi android kalo tidak fungsi tidak pake juta orang indonesia instal tidak in
+"Sudah berhari-hari coba mendaftar kan kendaraan sesuai dengan yang di STNK selalu jawabannya ""kendaraan tidak ditemukan atau anda belum mendaftar"" padahal jelas2 sudah mendaftar..coba dengan email lain..ternyata sama saja... tolong di perbaiki",negatif,hari coba daftar kendara sesuai stnk jawab kendara tidak temu belum daftar daftar coba email tolong baik
 Parah.......,negatif,parah
 App mantap 👍,positif,aplikasi mantap
 Almar Rajendra Khansa,positif,almar rajendra khansa
-"Aplikasi sampah !!! Registrasi aja gagal mulu. Udah ngisi surel alamat email dengan benar, trus pas waktu minta kode aktivasi tapi gak ada juga dikirim lewat email! Pecat aja tuh yg bikin aplikasinya!!!",negatif,aplikasi sampah registrasi gagal mulu ngisi surel alamat email trus pas kode aktivasi kirim email pecat tuh yg bikin aplikasi
+"Aplikasi sampah !!! Registrasi aja gagal mulu. Udah ngisi surel alamat email dengan benar, trus pas waktu minta kode aktivasi tapi gak ada juga dikirim lewat email! Pecat aja tuh yg bikin aplikasinya!!!",negatif,aplikasi sampah registrasi gagal mulu ngisi surel alamat email trus pas kode aktivasi tidak kirim email pecat tuh yg bikin aplikasi
 K up my j ng g ng b my the! K mhee my m my ng mhee kit,positif,up my ng ng my the mhee my my ng mhee kit
-Gak bisa mendaftarkan kendaraan.,negatif,daftar kendara
+Gak bisa mendaftarkan kendaraan.,negatif,tidak daftar kendara
 Responnya lambat,negatif,responnya lambat
 Erdfaae,negatif,erdfaae
 "Serius aplikasi ini dibuat untuk memberi kemudahan customer? Sampai kapan aplikasi ini akan bisa di akses? Mungkin ada solusi pengganti aplikasi ini, agar bisa diakses dan memberi kemudahan customer 🙏",negatif,serius aplikasi mudah customer aplikasi akses solusi ganti aplikasi akses mudah customer
-Aplikasi abal2 Dalam aplikasi disuruh milih waktu yg tersedia....tapi dari call center..bilang waktu tdk tersedia dan seenaknya aja merubah waktunya. Seharusnya kalau slot waktu tdk tersedia lagi...maka customer tdk bisa lagi memilih waktu yg dicantumkan dalam aplikasi.,negatif,aplikasi abal aplikasi suruh milih yg sedia call center bilang sedia rubah slot sedia customer pilih yg cantum aplikasi
-"Gak bisa log-in, padahal awal masih bisa, setelah diperbaharui malah gak bisa sama sekali... Tolong di perbaiki lagi.",negatif,log in baharu tolong baik
-"Aplikasi sampah, udh coba ulang2 masukin data tetap aja kendaraan blm terdaftar.",negatif,aplikasi sampah coba ulang masukin data kendara daftar
-"Booking hanya dibatasi sekitar sebulan, bagusnya sudah support booking 6 bulan kemudian, riwayat service kita tidak ditampilkan, bagus juga disediakan list part yang akan di periksa dan ganti di service berikutnya sera lebih bagus lagi jika disediakan dengan estimation biaya service berkala kendaraan kita, semoga bisa jadi masukan buat pengembang app Honda e-Care, dan terealisasikan.",negatif,booking batas bulan bagus support booking riwayat service tampil bagus sedia list part periksa ganti service sera bagus sedia estimation biaya service kala kendara moga masuk kembang aplikasi honda care realisasi
+Aplikasi abal2 Dalam aplikasi disuruh milih waktu yg tersedia....tapi dari call center..bilang waktu tdk tersedia dan seenaknya aja merubah waktunya. Seharusnya kalau slot waktu tdk tersedia lagi...maka customer tdk bisa lagi memilih waktu yg dicantumkan dalam aplikasi.,negatif,aplikasi abal aplikasi suruh milih yg sedia call center bilang tidak sedia rubah slot tidak sedia customer tidak pilih yg cantum aplikasi
+"Gak bisa log-in, padahal awal masih bisa, setelah diperbaharui malah gak bisa sama sekali... Tolong di perbaiki lagi.",negatif,tidak log in baharu tidak tolong baik
+"Aplikasi sampah, udh coba ulang2 masukin data tetap aja kendaraan blm terdaftar.",negatif,aplikasi sampah coba ulang masukin data kendara belum daftar
+"Booking hanya dibatasi sekitar sebulan, bagusnya sudah support booking 6 bulan kemudian, riwayat service kita tidak ditampilkan, bagus juga disediakan list part yang akan di periksa dan ganti di service berikutnya sera lebih bagus lagi jika disediakan dengan estimation biaya service berkala kendaraan kita, semoga bisa jadi masukan buat pengembang app Honda e-Care, dan terealisasikan.",negatif,booking batas bulan bagus support booking riwayat service tidak tampil bagus sedia list part periksa ganti service sera bagus sedia estimation biaya service kala kendara moga masuk kembang aplikasi honda care realisasi
 Daftar dulu masbro baru login kok payah. Voucher ada di kolom voucher,positif,daftar masbro login payah voucher kolom voucher
-"Aplikasi tdk bsa d pake,, aplikasi Tolol!! Bagaimana kita mau daftar recall, Login arahnya kemana dan tdk bsa, app sampah!! Ttitik GPS tdk bsa, app anjingg",negatif,aplikasi bsa pake aplikasi tolol daftar recall login arah mana bsa aplikasi sampah ttitik gps bsa aplikasi anjingg
-Parah parah. Udah instal 2x tapi ga bisa log in. Gila sih ini bikin apk buat ngabisin kuota customer ajah,negatif,parah parah instal log in gila sih bikin aplikasi ngabisin kuota customer ajah
+"Aplikasi tdk bsa d pake,, aplikasi Tolol!! Bagaimana kita mau daftar recall, Login arahnya kemana dan tdk bsa, app sampah!! Ttitik GPS tdk bsa, app anjingg",negatif,aplikasi tidak bsa pake aplikasi tolol daftar recall login arah mana tidak bsa aplikasi sampah ttitik gps tidak bsa aplikasi anjingg
+Parah parah. Udah instal 2x tapi ga bisa log in. Gila sih ini bikin apk buat ngabisin kuota customer ajah,negatif,parah parah instal tidak log in gila sih bikin aplikasi ngabisin kuota customer ajah
 Sangat membatu,positif,batu
 Sekalian bikin katalog harga spare part HONDA,positif,bikin katalog harga spare part honda
 Terima kasih telah memberikan pelayanan dengan baik,positif,terima kasih layan
 "Dapat melakukan booking service, tanpa antri ke dealer dan menunggu lama..",positif,booking service antri dealer tunggu
 Dapat info dari honda,positif,info honda
-kode voucher sudah dimasukan saat booking tapi tidak bisa dipakai saat sampai di dealer karena tidak muncul kodenya di aplikasi dan malah menyalahkan hp user. padahal tinggal cek di dashboard atau lngsung saja query databasenya kalau tidak ada dashboard sistemnya!,negatif,kode voucher masuk booking pakai dealer muncul kode aplikasi salah hp user tinggal cek dashboard lngsung query databasenya dashboard sistem
+kode voucher sudah dimasukan saat booking tapi tidak bisa dipakai saat sampai di dealer karena tidak muncul kodenya di aplikasi dan malah menyalahkan hp user. padahal tinggal cek di dashboard atau lngsung saja query databasenya kalau tidak ada dashboard sistemnya!,negatif,kode voucher masuk booking tidak pakai dealer tidak muncul kode aplikasi salah hp user tinggal cek dashboard lngsung query databasenya tidak dashboard sistem
 Memberi kemudahan pelayanan service,positif,mudah layan service
 Sangat memuaskan.,positif,muas
-"Ga bisa login, Api tidak ditemukan. lokasi perkotaan, tolong diperbaiki servernya. Kalo sudah bisa login bintang ya kutambah",negatif,login api temu lokasi kota tolong baik servernya kalo login bintang ya tambah
-Ulasan apk saya dm di ig HPM aja..disini ga di tanggapi..,negatif,ulas aplikasi dm ig hpm tanggap
+"Ga bisa login, Api tidak ditemukan. lokasi perkotaan, tolong diperbaiki servernya. Kalo sudah bisa login bintang ya kutambah",negatif,tidak login api tidak temu lokasi kota tolong baik servernya kalo login bintang ya tambah
+Ulasan apk saya dm di ig HPM aja..disini ga di tanggapi..,negatif,ulas aplikasi dm ig hpm tidak tanggap
 aplikasi jagan di unduh egk bisa di pake percuma,negatif,aplikasi jagan unduh egk pake
 Top 👍👍,positif,top
-"Aplikasi cacat, gak bisa login",negatif,aplikasi cacat login
-"Aplikasi ini nggak baik. katanya promo diskon khusus sampai 50/25 sampai tempat servis nggak ada potongan voucher nya,",negatif,aplikasi promo diskon khusus servis potong voucher nya
-"Suka bgt sama aplikasi ini.. Disaat mau service berkala mobil tinggal booking dr aplikasi trus 5 menit kemudian dpt telp dr Honda.. Hari H mau service mobil tdk antri lg langsung ke pelanggan prioritas.. Trus dpt info2 yg berguna misalnya mobil sdh habis masa service gratis ehh ga taunya di aplikasi tercantum pembelian mobil dr Agustus 2018 free service mobil selama 4thn. Klu kita tdk tau info ini n tidak sampaikan ke pihak bengkel Honda,kita sampai di bengkel Honda tetep kena cas service nya",positif,suka banget aplikasi saat service kala mobil tinggal booking aplikasi trus menit dpt telp honda service mobil antri lg langsung langgan prioritas trus dpt info yg guna mobil sdh habis service gratis ehh tau aplikasi cantum beli mobil agustus free service mobil thn klu tau info bengkel honda bengkel honda tetep kena cas service nya
+"Aplikasi cacat, gak bisa login",negatif,aplikasi cacat tidak login
+"Aplikasi ini nggak baik. katanya promo diskon khusus sampai 50/25 sampai tempat servis nggak ada potongan voucher nya,",negatif,aplikasi tidak promo diskon khusus servis tidak potong voucher nya
+"Suka bgt sama aplikasi ini.. Disaat mau service berkala mobil tinggal booking dr aplikasi trus 5 menit kemudian dpt telp dr Honda.. Hari H mau service mobil tdk antri lg langsung ke pelanggan prioritas.. Trus dpt info2 yg berguna misalnya mobil sdh habis masa service gratis ehh ga taunya di aplikasi tercantum pembelian mobil dr Agustus 2018 free service mobil selama 4thn. Klu kita tdk tau info ini n tidak sampaikan ke pihak bengkel Honda,kita sampai di bengkel Honda tetep kena cas service nya",positif,suka banget aplikasi saat service kala mobil tinggal booking aplikasi trus menit dpt telp honda service mobil tidak antri lg langsung langgan prioritas trus dpt info yg guna mobil sdh habis service gratis ehh tidak tau aplikasi cantum beli mobil agustus free service mobil thn klu tidak tau info tidak bengkel honda bengkel honda tetep kena cas service nya
 Thanks promonya Honda,positif,thanks promonya honda
 Okeh,positif,okeh
 Mantab,positif,mantab
-Tidak perna buat masalah,positif,perna
+Tidak perna buat masalah,positif,tidak perna
 Makasih aplikasi nya sangat menyenangkan dan membantu banget,positif,makasih aplikasi nya senang bantu banget
-"No. Polisi, No. Rangka dan No. Mesin sudah diisi dengan benar, tapi waktu diklik SIMPAN selalu muncul pesan ""Kendaraan tidak ditemukan atau belum terdaftar"" Mohon info selanjutnya... Sementara ⭐⭐ dulu... Kalo sudah terdaftar, saya kasih ⭐⭐⭐⭐⭐",negatif,no polisi no rangka no mesin isi klik simpan muncul pesan kendara temu daftar mohon info kalo daftar kasih
+"No. Polisi, No. Rangka dan No. Mesin sudah diisi dengan benar, tapi waktu diklik SIMPAN selalu muncul pesan ""Kendaraan tidak ditemukan atau belum terdaftar"" Mohon info selanjutnya... Sementara ⭐⭐ dulu... Kalo sudah terdaftar, saya kasih ⭐⭐⭐⭐⭐",negatif,no polisi no rangka no mesin isi klik simpan muncul pesan kendara tidak temu belum daftar mohon info kalo daftar kasih
 Sukses utk honda... tingkatkan terus pelayanannya,positif,sukses utk honda tingkat layan
 Great apps,positif,great apps
 "Aplikasii yg muthakirr ,luar biasa saya sangat terbantu sebagai pengguna Honda. Gokksssss!",positif,aplikasi yg muthakirr bantu guna honda gokks
-"Saya kapan hari service diberes honda dengan pilihan paket 3. Saya kecewa karena disitu penggantian oilnya tidak sama dengan apa yang di sampaikan dikolom promosi. Dikolom promosi untuk penggantian oil tercantum kemasan 5liter, dan ternyata sampai di beres diganti pakek oil drum2man. 😑",negatif,service beres honda pilih paket kecewa situ ganti oilnya kolom promosi kolom promosi ganti oil cantum kemas liter beres ganti pakek oil drum man
-Aplikaainya gak jelas arah dan tujuannya,negatif,aplikaainya arah tuju
+"Saya kapan hari service diberes honda dengan pilihan paket 3. Saya kecewa karena disitu penggantian oilnya tidak sama dengan apa yang di sampaikan dikolom promosi. Dikolom promosi untuk penggantian oil tercantum kemasan 5liter, dan ternyata sampai di beres diganti pakek oil drum2man. 😑",negatif,service beres honda pilih paket kecewa situ ganti oilnya tidak kolom promosi kolom promosi ganti oil cantum kemas liter beres ganti pakek oil drum man
+Aplikaainya gak jelas arah dan tujuannya,negatif,aplikaainya tidak arah tuju
 "Aplikasi ngak guna, masa mau registrasi aja ngak bisa, tiap kali mau simpan data langsung force close aplikasinya... gimana mau booking service kayak gini 👎👎👎",negatif,aplikasi ngak registrasi ngak kali simpan data langsung force close aplikasi gimana booking service kayak gin
-Sudah berbulan bulan registrasi mobil nya tapi gak bisa-bisa dan gedeknya nya lagi buat booking service juga gak bisa,negatif,bulan registrasi mobil nya gedek nya booking service
-"Aplikasi abal-abal. Tidak ada tombol booking di halaman booking, cepat perbaiki!",negatif,aplikasi abal abal tombol booking halaman booking cepat baik
-Mau registrasi tetapi tidak bisa,negatif,registrasi
-"Ini aplikasi buat gemes ingin dibanting, ko bisa ya?? Minta tolong dong Tim Honda, aplikasinya malu-maluin Pemilik Honda, masa aplikasi tidak ada tombol save/ok/no/konfirm, sudah diinput hilang, pilih type ga tau tombol di umpetin dimana, hadeuhhh",negatif,aplikasi gemes banting ko ya tolong tim honda aplikasi malu maluin milik honda aplikasi tombol save ok no konfirm diinput hilang pilih type tau tombol umpetin mana hadeuh
-Kok lokasi palopo tidak bs booking... Padahal beres sanggar laut selatan ada,negatif,lokasi palopo bs booking beres sanggar laut selatan
-"Sudah registrasi katanya voucher di SMS, di tunggu gak ada... Dan tanya ke Honda, mereka gak tahu apa2...",negatif,registrasi voucher sms tunggu honda
-"tidak bisa registrasi. saat masuk registrasi,minta kode aktivasi tidak pernah muncul. tolong disempurnakan aplikasinya",negatif,registrasi masuk registrasi kode aktivasi muncul tolong sempurna aplikasi
-Tidak bisa mendaftar booking servis,negatif,daftar booking servis
+Sudah berbulan bulan registrasi mobil nya tapi gak bisa-bisa dan gedeknya nya lagi buat booking service juga gak bisa,negatif,bulan registrasi mobil nya tidak gedek nya booking service tidak
+"Aplikasi abal-abal. Tidak ada tombol booking di halaman booking, cepat perbaiki!",negatif,aplikasi abal abal tidak tombol booking halaman booking cepat baik
+Mau registrasi tetapi tidak bisa,negatif,registrasi tidak
+"Ini aplikasi buat gemes ingin dibanting, ko bisa ya?? Minta tolong dong Tim Honda, aplikasinya malu-maluin Pemilik Honda, masa aplikasi tidak ada tombol save/ok/no/konfirm, sudah diinput hilang, pilih type ga tau tombol di umpetin dimana, hadeuhhh",negatif,aplikasi gemes banting ko ya tolong tim honda aplikasi malu maluin milik honda aplikasi tidak tombol save ok no konfirm diinput hilang pilih type tidak tau tombol umpetin mana hadeuh
+Kok lokasi palopo tidak bs booking... Padahal beres sanggar laut selatan ada,negatif,lokasi palopo tidak bs booking beres sanggar laut selatan
+"Sudah registrasi katanya voucher di SMS, di tunggu gak ada... Dan tanya ke Honda, mereka gak tahu apa2...",negatif,registrasi voucher sms tunggu tidak honda tidak
+"tidak bisa registrasi. saat masuk registrasi,minta kode aktivasi tidak pernah muncul. tolong disempurnakan aplikasinya",negatif,tidak registrasi masuk registrasi kode aktivasi tidak muncul tolong sempurna aplikasi
+Tidak bisa mendaftar booking servis,negatif,tidak daftar booking servis
 😊😊GOOD NILAI 800,positif,good nilai
 Nice Apps,positif,nice apps
 "Aplikasi ini harus bisa mengCek Histori kendaraan, seperti aplikasi Kompetitor.. Dgn menginput NIK dan no. Pol nya. Agar minimal ada remaindernya juga jika lupa schedule service berkala",negatif,aplikasi mengcek histori kendara aplikasi kompetitor menginput nik no pol nya minimal remaindernya lupa schedule service kala
 Sudah semakin baik & lebih user friendly dr versi sebelumnya,positif,user friendly versi
-"Sudah berbulan2 coba tetap gak bisa registrasi. Tanya ke bengkel resmi juga tidak bisa membantu. Lebih baik tidak usah mengeluarkan aplikasi tapi tidak siap dan menyusahkan pemilik kendaraan. Seperti hanya ikut2an punya aplikasi, biar dianggap keren dan melek teknologi😠",negatif,bulan coba registrasi bengkel resmi bantu keluar aplikasi susah milik kendara an aplikasi biar anggap keren melek teknologi
-Ngga bs registrasi....diulang2 smp berkali2...jawabannya tetep mbl blm terdaftar...trus mksdnya bikin aplikasi ini buat apa kl registrasi aj ga bisa,negatif,bs registrasi ulang smp kali jawab tetep mbl daftar trus mksdnya bikin aplikasi kl registrasi aj
-"Tidak bisa register, no rangka no mesin tidak terdaftar",negatif,register no rangka no mesin daftar
+"Sudah berbulan2 coba tetap gak bisa registrasi. Tanya ke bengkel resmi juga tidak bisa membantu. Lebih baik tidak usah mengeluarkan aplikasi tapi tidak siap dan menyusahkan pemilik kendaraan. Seperti hanya ikut2an punya aplikasi, biar dianggap keren dan melek teknologi😠",negatif,bulan coba tidak registrasi bengkel resmi tidak bantu tidak keluar aplikasi tidak susah milik kendara an aplikasi biar anggap keren melek teknologi
+Ngga bs registrasi....diulang2 smp berkali2...jawabannya tetep mbl blm terdaftar...trus mksdnya bikin aplikasi ini buat apa kl registrasi aj ga bisa,negatif,tidak bs registrasi ulang smp kali jawab tetep mbl belum daftar trus mksdnya bikin aplikasi kl registrasi aj tidak
+"Tidak bisa register, no rangka no mesin tidak terdaftar",negatif,tidak register no rangka no mesin tidak daftar
 "Saya owner Mobilio dan mhn ditingkatkan service care nya. Klo pelayanan purnajual Honda seperti ini, jgn salahkan konsumen yg pindah ke merk sebelah",negatif,owner mobilio mhn tingkat service care nya klo layan purnajual honda jgn salah konsumen yg pindah merk belah
-Ternyata bukan gw aja yg susah registrasi di app ini. OMG ini beneran app Honda 🤕🙈,negatif,gw yg susah registrasi aplikasi omg beneran aplikasi honda
-Tidak bisa diinstal,negatif,diinstal
+Ternyata bukan gw aja yg susah registrasi di app ini. OMG ini beneran app Honda 🤕🙈,negatif,bukan gw yg susah registrasi aplikasi omg beneran aplikasi honda
+Tidak bisa diinstal,negatif,tidak diinstal
 "Gimana deh, udh milih jam sama hari, tetep aja gabisa booking, katanya proses terlalu lama..kadang2 muncul 2 errors occure",negatif,gimana deh milih jam tetep gabisa booking proses kadang muncul errors occure
 Susaaaaah banget registrasinya ya... Koq Honda yg sudah mempunyai teknologi terkini tapi IT nya sepertinya abal-abal... Benerin atuh biar Honda tetap keren...,negatif,susah banget registrasi ya koq honda yg teknologi kini it nya abal abal benerin atuh biar honda keren
 "Yth. Pengelola Honda e-Care, kenapa selalu terjadi eror ketika saya mau daftar di aplikasi ini?",negatif,yth kelola honda care eror daftar aplikasi
-Gak bisa search lokasi dealer...,negatif,search lokasi dealer
+Gak bisa search lokasi dealer...,negatif,tidak search lokasi dealer
 Aplikasi yg bagus kita bisa lihat kapasitas di dealer,positif,aplikasi yg bagus lihat kapasitas dealer
-"Gimana mau booking pilih jam nya aja gak bisa, aplikasi tidak membantu sama sekali",negatif,gimana booking pilih jam nya aplikasi bantu
-Aplikasi ngga bisa dipakai... ngga niat amat bikin pelayanan konsumen 👎,negatif,aplikasi pakai niat bikin layan konsumen
-Buat booking servis tidak bisa aplikasi apaan ini buat emosi aja,negatif,booking servis aplikasi emosi
-Pelayanan Honda payah banget masa kendaraan anda belum terdaptar.,negatif,layan honda payah banget kendara terdaptar
-2 exceptions occurred.. Ko gini terus . Tidak di beri tau hal apa yang di tolak biar bisa di perbaiki .. Tiba2 aplikasi tidak bisa di gunakan . Padahal blom pernah di gunakan untuk booking . Seharus nya klo ada hal yang tidak di setujui di beri tahu liat pemberitahuan. Atau email.,negatif,exceptions occurred ko gin tau tolak biar baik aplikasi blom booking harus nya klo tuju liat pemberitahuan email
-Jelek..udah daftar isian sdh lengkap tp gak bisa2 jg,negatif,jelek daftar isi sdh lengkap
+"Gimana mau booking pilih jam nya aja gak bisa, aplikasi tidak membantu sama sekali",negatif,gimana booking pilih jam nya tidak aplikasi tidak bantu
+Aplikasi ngga bisa dipakai... ngga niat amat bikin pelayanan konsumen 👎,negatif,aplikasi tidak pakai tidak niat bikin layan konsumen
+Buat booking servis tidak bisa aplikasi apaan ini buat emosi aja,negatif,booking servis tidak aplikasi emosi
+Pelayanan Honda payah banget masa kendaraan anda belum terdaptar.,negatif,layan honda payah banget kendara belum terdaptar
+2 exceptions occurred.. Ko gini terus . Tidak di beri tau hal apa yang di tolak biar bisa di perbaiki .. Tiba2 aplikasi tidak bisa di gunakan . Padahal blom pernah di gunakan untuk booking . Seharus nya klo ada hal yang tidak di setujui di beri tahu liat pemberitahuan. Atau email.,negatif,exceptions occurred ko gin tidak tau tolak biar baik aplikasi tidak blom booking harus nya klo tidak tuju liat pemberitahuan email
+Jelek..udah daftar isian sdh lengkap tp gak bisa2 jg,negatif,jelek daftar isi sdh lengkap tidak
 Semoga lebih mudah,positif,moga mudah
-"Tidak bisa registrasi, kendaraan tidak terdaftar",negatif,registrasi kendara daftar
-"Tidak bisa registrasi ,kendaraan tidak terdaftar alias tidak di ketemukan",negatif,registrasi kendara daftar alias ketemu
+"Tidak bisa registrasi, kendaraan tidak terdaftar",negatif,tidak registrasi kendara tidak daftar
+"Tidak bisa registrasi ,kendaraan tidak terdaftar alias tidak di ketemukan",negatif,tidak registrasi kendara tidak daftar alias tidak ketemu
 "Dicoba dulu, kalo dpt membantu baru ditambah bintangnya",negatif,coba kalo dpt bantu tambah bintang
-Kendaraan Anda Belum Ditemukan Padahal Sudah 5 Tahun Saya Pakai,negatif,kendara temu pakai
+Kendaraan Anda Belum Ditemukan Padahal Sudah 5 Tahun Saya Pakai,negatif,kendara belum temu pakai
 Coba instal aplikasi ini. Kalo jelek uninstal lagi.,negatif,coba instal aplikasi kalo jelek uninstal
 👍🏻 good,positif,good
 Aplikasi bisa diintal tp registerasi gagal terus padahal sedah menhikuti arahan,negatif,aplikasi diintal registerasi gagal dah menhikuti arah
 Mantap tap 👍🤝,positif,mantap tap
 Cepat bgt..bgus,positif,cepat banget bgus
-"Bengkel resmi honda kualitasnya SANGAT JELEK, bahkan di bengkel BINTANG CIMONE kemungkinan ada indikasi PENIPUAN. Saya dijanjikan untuk pengecatan ulang ternyata hanya dipoles. Dan saya mengalami kerugian bertambahnya kilometer mobil, pdhal diawal sy blg tidak mau mobilnya dibawa, sy minta bagian yg bermasalah dicopot. Dan tindakan dari DIREKTUR nya bernama PETER dan KA BENG nya sangat tidak terpuji dengan membentak2 saya dan dalam posisi ingin memukul saya! HONDA PAYAH JELEK MENGECEWAKAN !!!!!",negatif,bengkel resmi honda kualitas jelek bengkel bintang cimone indikasi tipu janji cat ulang poles alami rugi tambah kilometer mobil pdhal awal blg mobil bawa yg masalah copot tindak direktur nya nama peter ka beng nya puji bentak posisi pukul honda payah jelek kecewa
+"Bengkel resmi honda kualitasnya SANGAT JELEK, bahkan di bengkel BINTANG CIMONE kemungkinan ada indikasi PENIPUAN. Saya dijanjikan untuk pengecatan ulang ternyata hanya dipoles. Dan saya mengalami kerugian bertambahnya kilometer mobil, pdhal diawal sy blg tidak mau mobilnya dibawa, sy minta bagian yg bermasalah dicopot. Dan tindakan dari DIREKTUR nya bernama PETER dan KA BENG nya sangat tidak terpuji dengan membentak2 saya dan dalam posisi ingin memukul saya! HONDA PAYAH JELEK MENGECEWAKAN !!!!!",negatif,bengkel resmi honda kualitas jelek bengkel bintang cimone indikasi tipu janji cat ulang poles alami rugi tambah kilometer mobil pdhal awal blg tidak mobil bawa yg masalah copot tindak direktur nya nama peter ka beng nya tidak puji bentak posisi pukul honda payah jelek kecewa
 Cukup membantu untuk booking..tqoi mohon di tambah lagi fitur nya guna memantau perbaikan mobil untuk mengerahui progress perbaikan karena kebetulan mobil kami 10 hari repair body di sana..( dealer honda ),negatif,bantu booking tqoi mohon fitur nya pantau baik mobil rahu progress baik mobil repair body dealer honda
 First to try,positif,first to try
-APLIKASI GEJE mau mendaftar ko ga bs 👎,negatif,aplikasi geje daftar ko bs
-"Udah di install.. registrasi tp ga bisa, keterangan motor tidak ditemukan, padahal dah ngisi sesuai stnk.. Parah",negatif,install registrasi terang motor temu dah ngisi sesuai stnk parah
-Knpa ga slalu berhasil setiap sy registrasi alasnnya nomor kendaraan blum terdaftar,negatif,knpa slalu hasil registrasi alasnnya nomor kendara blum daftar
+APLIKASI GEJE mau mendaftar ko ga bs 👎,negatif,aplikasi geje daftar ko tidak bs
+"Udah di install.. registrasi tp ga bisa, keterangan motor tidak ditemukan, padahal dah ngisi sesuai stnk.. Parah",negatif,install registrasi tidak terang motor tidak temu dah ngisi sesuai stnk parah
+Knpa ga slalu berhasil setiap sy registrasi alasnnya nomor kendaraan blum terdaftar,negatif,knpa tidak slalu hasil registrasi alasnnya nomor kendara blum daftar
 Ternyata hanya untuk sekedar pesan servis. Sy kira ada Info2 tentang berkendara. Aplikasi unfaedah,negatif,dar pesan servis info kendara aplikasi unfaedah
-"Aplikasi apa ini, di download tidak bisa, belum di gunakan aja sudah bikin susah apalagi pas di pelayanan nya",negatif,aplikasi download bikin susah pas layan nya
-Mau registrasi saja tidak bisa katanya tidak terkoneksi internet padahal wifi lancar jaya. Mohon diperbaiki. Terimakasih.,negatif,registrasi koneksi internet wifi lancar jaya mohon baik terimakasih
-"Ga bisa registrasi, payah",negatif,registrasi payah
-"Ga bisa booking service, padahal tanggal dan jam yg dipilih tersedia, dealer pun juga tersedia. Tapi tetep ga bisa pesan. Lah kemarin"" disarankan buat booking lewat aplikasi. Ini malah ga bisa. Piye ya.",negatif,booking service tanggal jam yg pilih sedia dealer sedia tetep pesan kemarin saran booking aplikasi piye ya
-Aplikasi Trial Error.. mobil tidak terdaftar.. input data salah terus.. Parah.. bikin malu honda saja..,negatif,aplikasi trial error mobil daftar input data salah parah bikin malu honda
-Tidak bisa mendaftar bilang eror terus padahal mobilku baru. Mau boking service susah. Capedeh...........,negatif,daftar bilang eror mobil boking service susah capedeh
+"Aplikasi apa ini, di download tidak bisa, belum di gunakan aja sudah bikin susah apalagi pas di pelayanan nya",negatif,aplikasi download tidak belum bikin susah pas layan nya
+Mau registrasi saja tidak bisa katanya tidak terkoneksi internet padahal wifi lancar jaya. Mohon diperbaiki. Terimakasih.,negatif,registrasi tidak tidak koneksi internet wifi lancar jaya mohon baik terimakasih
+"Ga bisa registrasi, payah",negatif,tidak registrasi payah
+"Ga bisa booking service, padahal tanggal dan jam yg dipilih tersedia, dealer pun juga tersedia. Tapi tetep ga bisa pesan. Lah kemarin"" disarankan buat booking lewat aplikasi. Ini malah ga bisa. Piye ya.",negatif,tidak booking service tanggal jam yg pilih sedia dealer sedia tetep tidak pesan kemarin saran booking aplikasi tidak piye ya
+Aplikasi Trial Error.. mobil tidak terdaftar.. input data salah terus.. Parah.. bikin malu honda saja..,negatif,aplikasi trial error mobil tidak daftar input data salah parah bikin malu honda
+Tidak bisa mendaftar bilang eror terus padahal mobilku baru. Mau boking service susah. Capedeh...........,negatif,tidak daftar bilang eror mobil boking service susah capedeh
 Kenapa kok pada saat pilih menu....misal booking service lama banget loading nya....dan akhirnya gagal,negatif,pilih menu booking service banget loading nya gagal
-Tdk bisa registrasi,negatif,registrasi
-"Tidak bisa aktivasi, tolong bantu...",negatif,aktivasi tolong bantu
-Kenapa registrasi pengguna baru sdh di masukan nomor rangka nomor mesin tdk bisa juga masuk ada yg bisa jelaskan,negatif,registrasi guna sdh masuk nomor rangka nomor mesin masuk yg
-Saya registrasi kok nggak bisa ya...pesanya kendaraan anda blm terdaftar,negatif,registrasi ya pesa kendara daftar
-"Booking service untuk area Kab. Semarang (Honda semarang s/d honda salatiga) pinggir tidak ada yang bisa semua, percuma ada menu booking service",negatif,booking service area kab semarang honda semarang honda salatiga pinggir menu booking service
-ngga bisa registrasi...hueheuuhueehheee,negatif,registrasi hueheuuhueehhe
+Tdk bisa registrasi,negatif,tidak registrasi
+"Tidak bisa aktivasi, tolong bantu...",negatif,tidak aktivasi tolong bantu
+Kenapa registrasi pengguna baru sdh di masukan nomor rangka nomor mesin tdk bisa juga masuk ada yg bisa jelaskan,negatif,registrasi guna sdh masuk nomor rangka nomor mesin tidak masuk yg
+Saya registrasi kok nggak bisa ya...pesanya kendaraan anda blm terdaftar,negatif,registrasi tidak ya pesa kendara belum daftar
+"Booking service untuk area Kab. Semarang (Honda semarang s/d honda salatiga) pinggir tidak ada yang bisa semua, percuma ada menu booking service",negatif,booking service area kab semarang honda semarang honda salatiga pinggir tidak menu booking service
+ngga bisa registrasi...hueheuuhueehheee,negatif,tidak registrasi hueheuuhueehhe
 entar kalau bagus jadi bintang 5,negatif,entar bagus bintang
-"tidak dapat melakukan aktifasi profil sehingga tidak dapat melakukan booking service, setiap dimasukkan kodenya selalu gagal, tapi ketika meminta untuk mengirim kembali kode, kode tidak terkirim malah muncul pop up dr aplikasi mengatakan ""selamat, akun anda telah aktif"" tapi masih tidak dapat melakukan booking service. kacau, harap diperbaiki",positif,aktifasi profil booking service masuk kode gagal kirim kode kode kirim muncul pop up aplikasi selamat akun aktif booking service kacau harap baik
+"tidak dapat melakukan aktifasi profil sehingga tidak dapat melakukan booking service, setiap dimasukkan kodenya selalu gagal, tapi ketika meminta untuk mengirim kembali kode, kode tidak terkirim malah muncul pop up dr aplikasi mengatakan ""selamat, akun anda telah aktif"" tapi masih tidak dapat melakukan booking service. kacau, harap diperbaiki",positif,tidak aktifasi profil tidak booking service masuk kode gagal kirim kode kode tidak kirim muncul pop up aplikasi selamat akun aktif tidak booking service kacau harap baik
 mannnnnntaaaaaap,positif,mantap
-Gua kecewa sm sales. 1 Dari DP 19 juta lebih tiba2 keluar PO DP 27 juta tanpa ada konfirmasi sm gua.2 perjanjian stnk keluar baru cicilan jalan.malah mobil blm kasih unit ke gua sm stnk malah sdh berjalan cicilan.gua ngomong baik2 sm salesnya.sales lebih galak sm gua .keluar uang gua bukan sales.sales kayak tai.bilang stnk keluar 14 hari kerja.sabtu sm minggu tuh gua tau nggak di hitung.gua mau tau sj stnk pasti keluar 14 hari kerja apa nggak.kalo nggak gua masukin ke sosial biar orang tau,negatif,gua kecewa sales dp juta po dp juta konfirmasi gua janji stnk cicil jalan mobil kasih unit gua stnk sdh jalan cicil gua ngomong salesnya sales galak gua uang gua sales sales kayak tai bilang stnk kerja sabtu minggu tuh gua tau hitung gua tau sj stnk kerja kalo gua masukin sosial biar orang tau
+Gua kecewa sm sales. 1 Dari DP 19 juta lebih tiba2 keluar PO DP 27 juta tanpa ada konfirmasi sm gua.2 perjanjian stnk keluar baru cicilan jalan.malah mobil blm kasih unit ke gua sm stnk malah sdh berjalan cicilan.gua ngomong baik2 sm salesnya.sales lebih galak sm gua .keluar uang gua bukan sales.sales kayak tai.bilang stnk keluar 14 hari kerja.sabtu sm minggu tuh gua tau nggak di hitung.gua mau tau sj stnk pasti keluar 14 hari kerja apa nggak.kalo nggak gua masukin ke sosial biar orang tau,negatif,gua kecewa sales dp juta po dp juta konfirmasi gua janji stnk cicil jalan mobil belum kasih unit gua stnk sdh jalan cicil gua ngomong salesnya sales galak gua uang gua bukan sales sales kayak tai bilang stnk kerja sabtu minggu tuh gua tau tidak hitung gua tau sj stnk kerja tidak kalo tidak gua masukin sosial biar orang tau
 udah masukin noka nosin masa kendaraan blom terdaftar .. aplikasi aneh,negatif,masukin noka nosin kendara blom daftar aplikasi aneh
 Boking jadi lebih mudah via online,positif,boking mudah via online
-ko tidak bisa daftar.pdahal saya sudah masukin semua dengan benar???,negatif,ko daftar pdahal masukin
+ko tidak bisa daftar.pdahal saya sudah masukin semua dengan benar???,negatif,ko tidak daftar pdahal masukin
 "booking service gagal terus, padahal tertulisnya tersedia. tapi suruh rescedule terus",negatif,booking service gagal tulis sedia suruh rescedule
 ook,positif,ook
-untuk aktivasi nya tidak pernah kode terkirim ke email saya,negatif,aktivasi nya kode kirim email
-"tidak bisa login fail terus, pesannya ""Proses terlalu lama silahkan coba lagi""",negatif,login fail pesan proses silah coba
+untuk aktivasi nya tidak pernah kode terkirim ke email saya,negatif,aktivasi nya tidak kode kirim email
+"tidak bisa login fail terus, pesannya ""Proses terlalu lama silahkan coba lagi""",negatif,tidak login fail pesan proses silah coba
 sangat membantu waktu service,positif,bantu service
 mantthuull,positif,mantthuull
 good job thanks😁😇😎,positif,good job thanks
 "utk aplikasi sebenarnya sudah membantu karena ada info lokasi dealer atau bengkel resminya, nah kedepannya harapan saya history service kendaraanya jadi fitur di dalamnya. jadi kalau mau service bisa kebaca kapan nih waktunya service (reminder) dan apa saja yg sudah di service pd waktu sebelum sebelumnya termasuk biaya atau harganya. bagus lagi didalam apps tsb ada pricelist sparepartnya. cuman saran sih :)",positif,utk aplikasi bantu info lokasi dealer bengkel resmi depan harap history service kendaraanya fitur dalam service baca nih service reminder yg service pd biaya harga bagus dalam apps tsb pricelist sparepartnya cuman saran sih
-"mantul nih,,, gk perlu antri lama, gk perlu repot cari bengkel buat service. honda is the best.",positif,mantap nih antri repot cari bengkel service honda is the best
+"mantul nih,,, gk perlu antri lama, gk perlu repot cari bengkel buat service. honda is the best.",positif,mantap nih tidak antri tidak repot cari bengkel service honda is the best
 sangat membantu pengguna mobil honda untuk mencari dealer sejabodetabek,positif,bantu guna mobil honda cari dealer sejabodetabek
-"Dealer jadi mudah mengatur shedule service booking sehingga customer tidak antri lama, customer bisa menentukan sendiri jadwal booking service sesuai kebutuhan dan jg customer tidak antri pada saat service di dealer. Online booking menjadikan customer priority.",positif,dealer mudah atur shedule service booking customer antri customer tentu jadwal booking service sesuai butuh customer antri service dealer online booking jadi customer priority
-"apknya sangat bagus sekali, tidak ada iklan sama sekali.",positif,apknya bagus iklan
+"Dealer jadi mudah mengatur shedule service booking sehingga customer tidak antri lama, customer bisa menentukan sendiri jadwal booking service sesuai kebutuhan dan jg customer tidak antri pada saat service di dealer. Online booking menjadikan customer priority.",positif,dealer mudah atur shedule service booking customer tidak antri customer tentu jadwal booking service sesuai butuh customer tidak antri service dealer online booking jadi customer priority
+"apknya sangat bagus sekali, tidak ada iklan sama sekali.",positif,apknya bagus tidak iklan
 ameziiinnggg,positif,amezinng
 aplikasi yg menguntungkan bagi customer karena sangat mudah dalam melakukan booking. top 5 bintang ...,positif,aplikasi yg untung customer mudah booking top bintang
 cakep n mantap jadi gampang nga perlu tanya2 gi,positif,cakep mantap gampang nga gi
 baguss...,positif,baguss
-Semua field sudah diisi sesuai dokumen. Tapi sistem reply kendaraan belum terdaftar. plus susah diakses.,negatif,field isi sesuai dokumen sistem reply kendara daftar plus susah akses
-kendaraan tidak terdaftar. jadi tidak bisa masuk. padahal sudah masukan no yg sesuai,negatif,kendara daftar masuk masuk no yg sesuai
+Semua field sudah diisi sesuai dokumen. Tapi sistem reply kendaraan belum terdaftar. plus susah diakses.,negatif,field isi sesuai dokumen sistem reply kendara belum daftar plus susah akses
+kendaraan tidak terdaftar. jadi tidak bisa masuk. padahal sudah masukan no yg sesuai,negatif,kendara tidak daftar tidak masuk masuk no yg sesuai
 terus ditingkatkan fiturnya,positif,tingkat fiturnya
-ga bisa register,negatif,register
+ga bisa register,negatif,tidak register
 sangat bagus dan bermanfaat,positif,bagus manfaat
-"apps ngga jelas, ngga bisa daftar padahal data sudah sesuai tpi katanya kendaraan belum trdaftar. uninstall lah",negatif,apps daftar data sesuai tpi kendara trdaftar uninstall
-ga bisa daftar mohon d perbaiki,negatif,daftar mohon baik
+"apps ngga jelas, ngga bisa daftar padahal data sudah sesuai tpi katanya kendaraan belum trdaftar. uninstall lah",negatif,apps tidak tidak daftar data sesuai tpi kendara belum trdaftar uninstall
+ga bisa daftar mohon d perbaiki,negatif,tidak daftar mohon baik
 muantap,positif,muantap
-"Payah banget aktivasi berkali kali tetap ga bisa, percuma aplikasi nya belum sempurna. Membingungkan...",negatif,payah banget aktivasi kali kali aplikasi nya sempurna bingung
-Yang bisa akses cuma yang punya mobil yang lagi nyari mobil ga bisa lihat katalog mobil nya Harus log in pake no rangka sama plat nomor,negatif,akses mobil nyari mobil lihat katalog mobil nya log in pake no rangka plat nomor
-Aplikasi belum sempurna sudah dilaunch...regristasi aja gak dikenal...payah,negatif,aplikasi sempurna dilaunch regristasi kenal payah
-Mo regist keterangan kendaraan tdk terdaftar?? Pdhal udh bner nmor2 kendaraan ssuai stnk. Ga like,negatif,mo regist terang kendara daftar pdhal bner nmor kendara ssuai stnk like
+"Payah banget aktivasi berkali kali tetap ga bisa, percuma aplikasi nya belum sempurna. Membingungkan...",negatif,payah banget aktivasi kali kali tidak aplikasi nya belum sempurna bingung
+Yang bisa akses cuma yang punya mobil yang lagi nyari mobil ga bisa lihat katalog mobil nya Harus log in pake no rangka sama plat nomor,negatif,akses mobil nyari mobil tidak lihat katalog mobil nya log in pake no rangka plat nomor
+Aplikasi belum sempurna sudah dilaunch...regristasi aja gak dikenal...payah,negatif,aplikasi belum sempurna dilaunch regristasi tidak kenal payah
+Mo regist keterangan kendaraan tdk terdaftar?? Pdhal udh bner nmor2 kendaraan ssuai stnk. Ga like,negatif,mo regist terang kendara tidak daftar pdhal bner nmor kendara ssuai stnk tidak like
 Josht Gandos,positif,josht gandos
 "pelayanan bagus,Zachsaid4 welcome..komunikatif..",positif,layan bagus zachsaid welcome komunikatif
-"Historynya tidak update dan pesan masuk tidak bisa dibuka, hanya ada notifikasinya aja (5/24/23) Update: setelah kirim email dgn lampiran masalah untuk saat ini history servis terlihat namun tidak seluruhnya, untuk yang per tanggal 28/3/23 blm tampil, terlihat langsung di servis terakhir tanggal 17/5/23. Selain drpd itu untuk note servis (saran servis) juga blm hilang, dgn kondisi saran servis perbaikan trsbt sdh dilakukan, selanjutnya pesan masuk blm terlihat. Per 1/5/2026 tidak bisa login",negatif,historynya update pesan masuk buka notifikasi update kirim email lampir history servis tanggal tampil langsung servis tanggal drpd note servis saran servis hilang kondisi saran servis baik trsbt sdh pesan masuk login
-jelek dan lamban. loadingnya lamaaa sekali. saya isi booking saja nunggunya sampai 45 menit karena proses loading yg lama. promo juga sedikit. ga banget deh kalau pakai aplikasi honda.,negatif,jelek lamban loadingnya isi booking nunggunya menit proses loading yg promo banget deh pakai aplikasi honda
-"tolong perbaiki app nya, sudah instal ulang, tetap tidak bisa di lanjutkan untuk order service. tks",negatif,tolong baik aplikasi nya instal ulang lanjut order service tks
-"masuk ke app susah, tidak user friendly, tidak bisa dipakai appnya. tolong diperbaiki, nge bug parah.",negatif,masuk aplikasi susah user friendly pakai appnya tolong baik nge bug parah
+"Historynya tidak update dan pesan masuk tidak bisa dibuka, hanya ada notifikasinya aja (5/24/23) Update: setelah kirim email dgn lampiran masalah untuk saat ini history servis terlihat namun tidak seluruhnya, untuk yang per tanggal 28/3/23 blm tampil, terlihat langsung di servis terakhir tanggal 17/5/23. Selain drpd itu untuk note servis (saran servis) juga blm hilang, dgn kondisi saran servis perbaikan trsbt sdh dilakukan, selanjutnya pesan masuk blm terlihat. Per 1/5/2026 tidak bisa login",negatif,historynya tidak update pesan masuk tidak buka notifikasi update kirim email lampir history servis tidak tanggal belum tampil langsung servis tanggal drpd note servis saran servis belum hilang kondisi saran servis baik trsbt sdh pesan masuk belum tidak login
+jelek dan lamban. loadingnya lamaaa sekali. saya isi booking saja nunggunya sampai 45 menit karena proses loading yg lama. promo juga sedikit. ga banget deh kalau pakai aplikasi honda.,negatif,jelek lamban loadingnya isi booking nunggunya menit proses loading yg promo tidak banget deh pakai aplikasi honda
+"tolong perbaiki app nya, sudah instal ulang, tetap tidak bisa di lanjutkan untuk order service. tks",negatif,tolong baik aplikasi nya instal ulang tidak lanjut order service tks
+"masuk ke app susah, tidak user friendly, tidak bisa dipakai appnya. tolong diperbaiki, nge bug parah.",negatif,masuk aplikasi susah tidak user friendly tidak pakai appnya tolong baik nge bug parah
 "lambat sekali, tolong perhatiannya",negatif,lambat tolong perhati
 good service for SA ( Ridwan),positif,good service for sa ridwan
-Gambar Honda BRV saya tidak ada di menu drop-down My Honda.,positif,gambar honda brv menu drop down my honda
+Gambar Honda BRV saya tidak ada di menu drop-down My Honda.,positif,gambar honda brv tidak menu drop down my honda
 mantapsss,positif,mantaps
 Easy to use & very helpful for booking service,positif,easy to use very helpful for booking service
 verygood in service,positif,verygood in service
-Sering kali ketika di cek sudah dalam posisi terlogout. Biasanya aplikasi terlogout jika ada login tidak berhak pada device lain. Tolong diperbaiki supaya tidak terjadi login yang tidak berhak.,negatif,kali cek posisi terlogout aplikasi terlogout login hak device tolong baik login hak
+Sering kali ketika di cek sudah dalam posisi terlogout. Biasanya aplikasi terlogout jika ada login tidak berhak pada device lain. Tolong diperbaiki supaya tidak terjadi login yang tidak berhak.,negatif,kali cek posisi terlogout aplikasi terlogout login tidak hak device tolong baik tidak login tidak hak
 "Good interface, easy to use. Sometimes it can be a bit slow but not affecting the usage too much",positif,good interface easy to use sometimes it can be bit slow but not affecting the usage too much
 menu booking service memudahkan untuk menyesuaikan dg schedule pekerjaan,positif,menu booking service mudah sesuai dg schedule kerja
 great apps.. really helpful,positif,great apps really helpful
@@ -775,16 +776,16 @@ booking mudah,positif,booking mudah
 "Tetap pertahankan kinerja baik ini, semua mudah tinggal klik saja",positif,tahan kerja mudah tinggal klik
 mudah mudahan bs lebih baik lagi aplikasinya,positif,mudah mudah bs aplikasi
 Akhirnya dibenerin jg app nya. Kemarin sampe install ditablet buat booking service nya.,positif,dibenerin aplikasi nya kemarin sampe install tablet booking service nya
-halaman Beranda tidak ada icon yang dapat diakses.,negatif,halaman beranda icon akses
-"Setelah update, menu jadi tidak bisa di klik. Mohon segera perbaharui lagi.",negatif,update menu klik mohon baharu
-"Memudahkan untuk booking service dll jadi tdk usah melalui telpon lagi, semua lewat ponsel saja",positif,mudah booking service dll telpon ponsel
+halaman Beranda tidak ada icon yang dapat diakses.,negatif,halaman beranda tidak icon akses
+"Setelah update, menu jadi tidak bisa di klik. Mohon segera perbaharui lagi.",negatif,update menu tidak klik mohon baharu
+"Memudahkan untuk booking service dll jadi tdk usah melalui telpon lagi, semua lewat ponsel saja",positif,mudah booking service dll tidak telpon ponsel
 Nge Bug can't Access Menu and Choose car,negatif,nge bug can access menu and choose car
 "i cannot click all the menu, please fix this application. this application is helpful, but now is not working. i'm running on android 15, i try use mobile data or wifi still cannot click any menu.",negatif,can not click all the menu please fix this application this application is helpful but now is not working running on android try use mobile data or wifi still can not click any menu
 not functioning after logging in,negatif,not functioning after logging in
-"Saran saya, minta kontak teknisi nya. Pengalaman pribadi, di saat darurat, dari aplikasi lama status ""mencari teknisi"", dihubungi CS berjam-jam setelah membuat permintaan hanya diminta untuk membatalkan permintaan dan diminta membuat ulang pada hari lainnya. Untungnya punya kontak teknisi, jadi teratasi. Walaupun sangat telat dan tidak memberi solusi, setidaknya ada tanggapan sih dari CS nya.",negatif,saran kontak teknisi nya alam pribadi darurat aplikasi status cari teknisi hubung cs jam jam minta batal minta ulang untung kontak teknisi atas telat solusi tanggap sih cs nya
+"Saran saya, minta kontak teknisi nya. Pengalaman pribadi, di saat darurat, dari aplikasi lama status ""mencari teknisi"", dihubungi CS berjam-jam setelah membuat permintaan hanya diminta untuk membatalkan permintaan dan diminta membuat ulang pada hari lainnya. Untungnya punya kontak teknisi, jadi teratasi. Walaupun sangat telat dan tidak memberi solusi, setidaknya ada tanggapan sih dari CS nya.",negatif,saran kontak teknisi nya alam pribadi darurat aplikasi status cari teknisi hubung cs jam jam minta batal minta ulang untung kontak teknisi atas telat tidak solusi tanggap sih cs nya
 Booking cepat mantap 👍🏻,positif,booking cepat mantap
 "Aplikasi komprehensif untuk service berkala, bisa untuk booking service dan ada history service nya juga",positif,aplikasi komprehensif service kala booking service history service nya
-Apps yang membantu untuk booking service sehingga tidak mengantri dan langsung dihandle,positif,apps bantu booking service antri langsung dihandle
+Apps yang membantu untuk booking service sehingga tidak mengantri dan langsung dihandle,positif,apps bantu booking service tidak antri langsung dihandle
 good app😊👍,positif,good aplikasi
 force to update,negatif,force to update
 "pelayanan ramah, bagus.",positif,layan ramah bagus
@@ -792,7 +793,7 @@ bengkel terbaik,positif,bengkel baik
 "Aplikasi bodoh. Reservasi tak dikonfirmasi-konfirmasi, tahu-tahu di-cancel.",negatif,aplikasi bodoh reservasi konfirmasi konfirmasi cancel
 "mantap, update dan online",positif,mantap update online
 nice very helpful,positif,nice very helpful
-ada beberapa Fitur yang tidak bisa digunakan..,positif,fitur
+ada beberapa Fitur yang tidak bisa digunakan..,positif,fitur tidak
 appnya sangat bermanfaat dan convenience banget,positif,appnya manfaat convenience banget
 Membantu..,positif,bantu
 Crash everytime I try to register a car.,negatif,crash everytime try to register car
@@ -801,7 +802,7 @@ membantu dlm booking service & update info Honda,positif,bantu dlm booking servi
 Honda The Power of Dreams 🔥🏁,positif,honda the power of dreams
 Nice easy to use,positif,nice easy to use
 nice app,positif,nice aplikasi
-"Aplikasi tidak bermanfaat sama sekali, dipakai buat booking aja ga bisa.",negatif,aplikasi manfaat pakai booking
+"Aplikasi tidak bermanfaat sama sekali, dipakai buat booking aja ga bisa.",negatif,aplikasi tidak manfaat pakai booking tidak
 mudah,positif,mudah
 sangat memudahkan..terima kasih,positif,mudah terima kasih
 the best service and maintenance,positif,the best service and maintenance
@@ -816,13 +817,13 @@ more better at the next,positif,more better at the next
 booking aja lama bgt,negatif,booking banget
 "app mudah dipahami, mungkin kasi promo apa voucher diskon biar lebih semangat kalo service.",positif,aplikasi mudah paham kasi promo voucher diskon biar semangat kalo service
 good app honda,positif,good aplikasi honda
-"UI UX sangat buruk, navbar tidak bisa diklik, map harus search exact name. Seperti build pakai template",negatif,ui ux buruk navbar klik map search exact name build pakai template
+"UI UX sangat buruk, navbar tidak bisa diklik, map harus search exact name. Seperti build pakai template",negatif,ui ux buruk navbar tidak klik map search exact name build pakai template
 excellent,positif,excellent
-"Aplikasi ga ada gunanya, emergency juga ga ada fungsi. Cuman buat mobil2 baru aja ini aplikasi. Buat mobil tua jangan berharap banyak. Kalo mau cari nmr kontak honda buka aja google map, lgs dpt posisi paling deket sm kita lengkap sm nmr kontaknya.",negatif,aplikasi guna emergency fungsi cuman mobil aplikasi mobil tua harap kalo cari nmr kontak honda buka google map lgs dpt posisi deket lengkap nmr kontak
+"Aplikasi ga ada gunanya, emergency juga ga ada fungsi. Cuman buat mobil2 baru aja ini aplikasi. Buat mobil tua jangan berharap banyak. Kalo mau cari nmr kontak honda buka aja google map, lgs dpt posisi paling deket sm kita lengkap sm nmr kontaknya.",negatif,aplikasi tidak guna emergency tidak fungsi cuman mobil aplikasi mobil tua jangan harap kalo cari nmr kontak honda buka google map lgs dpt posisi deket lengkap nmr kontak
 mempermudah proses booking,positif,mudah proses booking
 easy and registered,positif,easy and registered
 Honda BRV is not avalable in the apps,negatif,honda brv is not avalable in the apps
-Staff tidak memberikan solusi.. paketan servis honda juga tidak berlaku terlalu banyak syaratnya,negatif,staff solusi paket servis honda laku syarat
+Staff tidak memberikan solusi.. paketan servis honda juga tidak berlaku terlalu banyak syaratnya,negatif,staff tidak solusi paket servis honda tidak laku syarat
 masih perlu banyak peningkatan fitur,negatif,tingkat fitur
 layanan ba gus,positif,layan ba gus
 good jobs,positif,good jobs
@@ -837,187 +838,187 @@ terbaikk,positif,terbaikk
 Nice Services and cozy place,positif,nice services and cozy place
 aplikasi simple yg sangat membantu,positif,aplikasi simple yg bantu
 ok banget . pelayanannya,positif,ok banget layan
-Tidak bisa isi tanggal Dan jam booking,negatif,isi tanggal jam booking
+Tidak bisa isi tanggal Dan jam booking,negatif,tidak isi tanggal jam booking
 "Tolong bagian IT Aplikasi, itu Logo BRV masa blank... Yg lain model aman, cuma BRV Blank",positif,tolong it aplikasi logo brv blank yg model aman brv blank
-"Kenapa sejak kemrn aplikasi tidak bisa running ya, sudah uninstall dan install ulang masih tidak mau masuk ke home... Alias tidak mau running...",negatif,kemrn aplikasi running ya uninstall install ulang masuk home alias running
+"Kenapa sejak kemrn aplikasi tidak bisa running ya, sudah uninstall dan install ulang masih tidak mau masuk ke home... Alias tidak mau running...",negatif,kemrn aplikasi tidak running ya uninstall install ulang tidak masuk home alias tidak running
 Sudah reset password and masukin password Baru. Tapi waktu mau login no hp / passwords Salah. Sudah clear cache delete data. Coba login lagi salah. Sudah di bantu cs di toko 2 bulan lalu and sekarang juga sama kondisinya,negatif,reset password and masukin password login no hp passwords salah clear cache delete data coba login salah bantu cs toko and kondisi
 How to re-schedule???,positif,how to re schedule
-Tanggal booking tidak tersedia padahal mau servis,negatif,tanggal booking sedia servis
-"Pas mau tambah kendaraan, disuruh masukkin tanggal berakhir STNK. Tapi tanggalnya ga bisa di tap. Kalo ga disii ga bisa lanjutin",negatif,pas kendara suruh masukkin tanggal stnk tanggal tap kalo disii lanjutin
+Tanggal booking tidak tersedia padahal mau servis,negatif,tanggal booking tidak sedia servis
+"Pas mau tambah kendaraan, disuruh masukkin tanggal berakhir STNK. Tapi tanggalnya ga bisa di tap. Kalo ga disii ga bisa lanjutin",negatif,pas kendara suruh masukkin tanggal stnk tanggal tidak tap kalo tidak disii tidak lanjutin
 "I used this application for booking service, but now not working anymore with error message : javasecuritycert something like that.... Sound stinky.....",negatif,used this application for booking service but now not working anymore with error message javasecuritycert something like that sound stinky
 Habis update malah error,negatif,habis update error
 Hbais update nge crash terus aplikasinya. Parah parah,negatif,hbais update nge crash aplikasi parah parah
-"Pembaruan yang banyak bug, entah lokasi dealer, pin, tidak bisa booking service online dll",negatif,baru bug lokasi dealer pin booking service online dll
+"Pembaruan yang banyak bug, entah lokasi dealer, pin, tidak bisa booking service online dll",negatif,baru bug lokasi dealer pin tidak booking service online dll
 "After attempting to log in, the app goes to request personal data. However, I cant tap on the email address box and if all data is not filled the ""Confirmation"" button is still greyed out. Bottomline the app is not useful",negatif,after attempting to log in the aplikasi goes to request personal data however cant tap on the email address box and if all data is not filled the confirmation button is still greyed out bottomline the aplikasi is not useful
-"Aplikasi buat rubah profile aja gak bisa, sudah diisi email tetep error dan yg sudah diisi balik ke default lagi",negatif,aplikasi rubah profile isi email tetep error yg isi default
+"Aplikasi buat rubah profile aja gak bisa, sudah diisi email tetep error dan yg sudah diisi balik ke default lagi",negatif,aplikasi rubah profile tidak isi email tetep error yg isi default
 "Liat saja banyak bintang satu, sudah sangat merepresentasikan kualitas app nya. Mau daftar aja ribet, kopas kode verif salah, di ketik manual salah, situ yang ngirim, situ yang bilang kodenya salah. Maunya apa....",negatif,liat bintang representasi kualitas aplikasi nya daftar ribet kopas kode verif salah ketik manual salah situ ngirim situ bilang kode salah mau
 Versi terbaru error terus,negatif,versi baru error
 "Setelah di update dengan Honda e-care terharu, jadwal service berikutnya menjadi salah, justeru yang bener yang sebelumnya",positif,update honda care haru jadwal service salah justeru bener
-"Aplikasi tidak bisa digunakan. Baru memasukkan data mobil saja tidak bisa. Sudah memasukkan no rangka dan mesin, tetapi dikatakan salah data",negatif,aplikasi masuk data mobil masuk no rangka mesin salah data
+"Aplikasi tidak bisa digunakan. Baru memasukkan data mobil saja tidak bisa. Sudah memasukkan no rangka dan mesin, tetapi dikatakan salah data",negatif,aplikasi tidak masuk data mobil tidak masuk no rangka mesin salah data
 Gagal terus ketika upload foto stnk. Sdh restart hp dan reinstall aplikasi,negatif,gagal upload foto stnk sdh restart hp reinstall aplikasi
-"Setelah sy memberikan review langsung ada telpon dari CS dan mendapatkan solusi, tapi pemesanan service dikonfirmasi oleh pihak aplikasi ini, jadi order service melalui apps masih belum berhasil saat itu. Semoga berikutnya udah gak bermasalah lagi",positif,review langsung telpon cs solusi mesan service konfirmasi aplikasi order service apps hasil moga masalah
+"Setelah sy memberikan review langsung ada telpon dari CS dan mendapatkan solusi, tapi pemesanan service dikonfirmasi oleh pihak aplikasi ini, jadi order service melalui apps masih belum berhasil saat itu. Semoga berikutnya udah gak bermasalah lagi",positif,review langsung telpon cs solusi mesan service konfirmasi aplikasi order service apps belum hasil moga tidak masalah
 Data yg sudah diisi dan disimpan tapi jadi kosong/ salah lagi. Data yg sama diminta lagi bbrp kali.,negatif,data yg isi simpan kosong salah data yg bbrp kali
-data kendaraan saat ini tidak tersedia. hadeuuhh..,negatif,data kendara sedia hadeuuhh
-"Booking service di apps udh dr bbrp minggu lalu untuk jam 8 pagi, sampai bengkel status tidak terdaftar. Jd hrs tunggu lg sampai 8.45",negatif,booking service apps bbrp minggu jam pagi bengkel status daftar jd hrs tunggu lg
-"Ini aplikasi bobrok. Dulu pernah gunakan awal beli Honda. Ketika sing in lg setelah sekian tahun tidak, malah nama profil, no HP sdh milik org lain. Padahal emailnya gunakan email saya",negatif,aplikasi bobrok beli honda sing in lg sekian nama profil no hp sdh milik org email email
-"Tidak bisa mendaftarkan mobil karena entah bagaimana sudah terdaftar di akun lain. Ketika disubmit tidak ada pesan / notifikasi berhasil, tab pesan hanya menunjukkan layar kosong",negatif,daftar mobil daftar akun disubmit pesan notifikasi hasil tab pesan layar kosong
-"Aplikasi bagus bisa dapat 4-5 bintang tapi diberikan 1 bukan maksud membenci tapi bintang 1 ini diberikan untuk menjadi perhatian, mohon diperbaiki ketika menekan tombol hapus diberikan peringatan dahulu ""Anda yakin akan dihapus"". Setelah ini akan saya buat menjadi bintang 5 kembali.",negatif,aplikasi bagus bintang maksud benci bintang perhati mohon baik tekan tombol hapus ingat hapus bintang
-Sepertinya aplikasi ini hanya diperuntukkan bagi mobil honda keluaran terbaru ya? saya coba input mobil keluaran lama yang ada notifikasi nomer mesin dan nomer rangka tidak sesuai terus,negatif,aplikasi untuk mobil honda keluar baru ya coba input mobil keluar notifikasi nomer mesin nomer rangka sesuai
+data kendaraan saat ini tidak tersedia. hadeuuhh..,negatif,data kendara tidak sedia hadeuuhh
+"Booking service di apps udh dr bbrp minggu lalu untuk jam 8 pagi, sampai bengkel status tidak terdaftar. Jd hrs tunggu lg sampai 8.45",negatif,booking service apps bbrp minggu jam pagi bengkel status tidak daftar jd hrs tunggu lg
+"Ini aplikasi bobrok. Dulu pernah gunakan awal beli Honda. Ketika sing in lg setelah sekian tahun tidak, malah nama profil, no HP sdh milik org lain. Padahal emailnya gunakan email saya",negatif,aplikasi bobrok beli honda sing in lg sekian tidak nama profil no hp sdh milik org email email
+"Tidak bisa mendaftarkan mobil karena entah bagaimana sudah terdaftar di akun lain. Ketika disubmit tidak ada pesan / notifikasi berhasil, tab pesan hanya menunjukkan layar kosong",negatif,tidak daftar mobil daftar akun disubmit tidak pesan notifikasi hasil tab pesan layar kosong
+"Aplikasi bagus bisa dapat 4-5 bintang tapi diberikan 1 bukan maksud membenci tapi bintang 1 ini diberikan untuk menjadi perhatian, mohon diperbaiki ketika menekan tombol hapus diberikan peringatan dahulu ""Anda yakin akan dihapus"". Setelah ini akan saya buat menjadi bintang 5 kembali.",negatif,aplikasi bagus bintang bukan maksud benci bintang perhati mohon baik tekan tombol hapus ingat hapus bintang
+Sepertinya aplikasi ini hanya diperuntukkan bagi mobil honda keluaran terbaru ya? saya coba input mobil keluaran lama yang ada notifikasi nomer mesin dan nomer rangka tidak sesuai terus,negatif,aplikasi untuk mobil honda keluar baru ya coba input mobil keluar notifikasi nomer mesin nomer rangka tidak sesuai
 Bermanfaat bagi pengguna mobil Honda,positif,manfaat guna mobil honda
 Cukup puas selama ini dgn service dari Honda,positif,puas service honda
 "Aplikasi nya lumayan bagus, bisa lihat service record mobil & booking service jd lebih mudah..good job!!",positif,aplikasi nya lumayan bagus lihat service record mobil booking service jd mudah good job
-Gak bisa memasukkan data mobil,negatif,masuk data mobil
+Gak bisa memasukkan data mobil,negatif,tidak masuk data mobil
 Aplikasi sangat membantu dan mudah sekali dalam membuat Booking service 👍👍,positif,aplikasi bantu mudah booking service
-Booking servis tapi ga masuk antrian booking..,negatif,booking servis masuk antri booking
+Booking servis tapi ga masuk antrian booking..,negatif,booking servis tidak masuk antri booking
 Useful,positif,useful
-"Saya kasih bintang satu karena sekarang kalau mau tambah kendaraan selalu muncul notifikasi nomor rangka dan nomor mesin anda tidak cocok, mohon periksa kembali nomor mesin dan nomor rangka anda.. ga berguna aplikasi ini sekarang.. saya juga coba daftar mobil honda lain, namun hasilnya sama tidak bisa...",negatif,kasih bintang kendara muncul notifikasi nomor rangka nomor mesin cocok mohon periksa nomor mesin nomor rangka guna aplikasi coba daftar mobil honda hasil
+"Saya kasih bintang satu karena sekarang kalau mau tambah kendaraan selalu muncul notifikasi nomor rangka dan nomor mesin anda tidak cocok, mohon periksa kembali nomor mesin dan nomor rangka anda.. ga berguna aplikasi ini sekarang.. saya juga coba daftar mobil honda lain, namun hasilnya sama tidak bisa...",negatif,kasih bintang kendara muncul notifikasi nomor rangka nomor mesin tidak cocok mohon periksa nomor mesin nomor rangka tidak guna aplikasi coba daftar mobil honda hasil tidak
 Detail 👍,positif,detail
 "Cepat responnya sejauh ini,, teknisinya gercep.. untuk harga standar hanya nambah biaya pelayanan saja",positif,cepat responnya teknisi gercep harga standar nambah biaya layan
-Tidak bisa order Booking Service,negatif,order booking service
+Tidak bisa order Booking Service,negatif,tidak order booking service
 "Mudah digunakan, sangat mrmbantu..",positif,mudah mrmbantu
-"Mau booking aja susah bener, disuruh nambah permintaan pelanggan tapi bs diklik. Payah banget appsnya. Applikasinya kayak kita mau ke honda buat service gratis aja. Ga beres.",negatif,booking susah bener suruh nambah minta langgan bs klik payah banget appsnya applikasinya kayak honda service gratis beres
+"Mau booking aja susah bener, disuruh nambah permintaan pelanggan tapi bs diklik. Payah banget appsnya. Applikasinya kayak kita mau ke honda buat service gratis aja. Ga beres.",negatif,booking susah bener suruh nambah minta langgan bs klik payah banget appsnya applikasinya kayak honda service gratis tidak beres
 "I hope that every car color in this application can be adjusted to the original color, because my brio turns red, the original is white 😁",positif,hope that every car color in this application can be adjusted to the original color because my brio turns red the original is white
 "Sudah bisa dibuka, makasih kak",positif,buka makasih kak
-"Gak bisa book service , ada bug tulisnya",negatif,book service bug tulis
+"Gak bisa book service , ada bug tulisnya",negatif,tidak book service bug tulis
 Can't work after updated. I can't booking service at the moment. Ridiculous,negatif,can work after updated can booking service at the moment ridiculous
 This app help prevent unnecessary que at workshop,positif,this aplikasi help prevent unnecessary que at workshop
 ok dah. spesifik datanya,positif,ok dah spesifik data
-"Mendadak info kendaraan saya hilang, coba daftar ulang kendaraan tetep tidak bisa.",negatif,dadak info kendara hilang coba daftar ulang kendara tetep
-"Appointment booking online, onsite, whatsapp dan telfon tidak real time integrasi. Booking online saya di cancel dengan alasan kurang jelas.",negatif,appointment booking online onsite whatsapp telfon real time integrasi booking online cancel alas
-Saya forget password ga bs ktny akun tdk terdaftar :(,negatif,forget password bs ktny akun daftar
+"Mendadak info kendaraan saya hilang, coba daftar ulang kendaraan tetep tidak bisa.",negatif,dadak info kendara hilang coba daftar ulang kendara tetep tidak
+"Appointment booking online, onsite, whatsapp dan telfon tidak real time integrasi. Booking online saya di cancel dengan alasan kurang jelas.",negatif,appointment booking online onsite whatsapp telfon tidak real time integrasi booking online cancel alas kurang
+Saya forget password ga bs ktny akun tdk terdaftar :(,negatif,forget password tidak bs ktny akun tidak daftar
 Mnrt ane Aplikasi bagus.ada vocernya,positif,mnrt ane aplikasi bagus vocernya
 Mamtap lah,positif,mamtap
-"coba booking service 1 bulan, dah 2 hari status nya masih tunggu konfirmasi... padahal mau service nya di Indonesia om, bukan di jepang... ya mungkin made in Japan... always slow",negatif,coba booking service dah status nya tunggu konfirmasi service nya indonesia om jepang ya made in japan always slow
-Kenapa tidak bisa mendaftarkan mobil? Disuruh periksa nomor rangka & mesin terus?,negatif,daftar mobil suruh periksa nomor rangka mesin
+"coba booking service 1 bulan, dah 2 hari status nya masih tunggu konfirmasi... padahal mau service nya di Indonesia om, bukan di jepang... ya mungkin made in Japan... always slow",negatif,coba booking service dah status nya tunggu konfirmasi service nya indonesia om bukan jepang ya made in japan always slow
+Kenapa tidak bisa mendaftarkan mobil? Disuruh periksa nomor rangka & mesin terus?,negatif,tidak daftar mobil suruh periksa nomor rangka mesin
 Pelayanan prima,positif,layan prima
 Sangat berguna,positif,guna
 This is useful app for Honda Lover... just grab it 😁👍👍,positif,this is useful aplikasi for honda lover just grab it
 Suka sign out sendiri,negatif,suka sign out
 Berfungsi dengan baik,positif,fungsi
 Pelayanan baik dan ramah,positif,layan ramah
-Jelek sekali..saya sudah booking dan datang ke honda..tidak ada kode booking saya..kejadian ini sudag 2x,negatif,jelek booking honda kode booking jadi sudag
+Jelek sekali..saya sudah booking dan datang ke honda..tidak ada kode booking saya..kejadian ini sudag 2x,negatif,jelek booking honda tidak kode booking jadi sudag
 Sangat terbantu dengan aplikasi ini,positif,bantu aplikasi
 Booking service slot is not aligned with offline booking. Seems like they are not ready to go online yet.,negatif,booking service slot is not aligned with offline booking seems like they are not ready to go online yet
 Mantapp honda ecare,positif,mantapp honda ecare
 Sangat Bermanfaat,positif,manfaat
 Sejauh ini cukup baik dengan data history terintegrasi,positif,data history integrasi
 Useless,negatif,useless
-"Tombol hapus kendaraannya tidak ada confirmation, kalau tidak sengaja ke-tap, kendaraan langsung kehapus",positif,tombol hapus kendara confirmation sengaja tap kendara langsung hapus
+"Tombol hapus kendaraannya tidak ada confirmation, kalau tidak sengaja ke-tap, kendaraan langsung kehapus",positif,tombol hapus kendara tidak confirmation tidak sengaja tap kendara langsung hapus
 "Aplikasinya mantap, pas dateng sesuai dengan schedule yang di tentukan, pelayanan seperti vip, terimakasih honda",positif,aplikasi mantap pas dateng sesuai schedule tentu layan vip terimakasih honda
-Aplikasi yang buruk.data kenderaan yang diinput sudah sesuai stnk untuk no rangka dan no mesin malah gk bs ditambahkan.klo aplikasi nya sdh bisa validasi sendiri ngapain srh nasabah input lg no rangka dan mesin.nasabah dah input malah validasi aplikasi diblg salah,negatif,aplikasi buruk data kenderaan diinput sesuai stnk no rangka no mesin bs klo aplikasi nya sdh validasi ngapain srh nasabah input lg no rangka mesin nasabah dah input validasi aplikasi diblg salah
-"Apliksasi sukar dipakai, hati² dng data pribadi, aplikasi tampaknya kurang aman",negatif,apliksasi sukar pakai hati dng data pribadi aplikasi aman
+Aplikasi yang buruk.data kenderaan yang diinput sudah sesuai stnk untuk no rangka dan no mesin malah gk bs ditambahkan.klo aplikasi nya sdh bisa validasi sendiri ngapain srh nasabah input lg no rangka dan mesin.nasabah dah input malah validasi aplikasi diblg salah,negatif,aplikasi buruk data kenderaan diinput sesuai stnk no rangka no mesin tidak bs klo aplikasi nya sdh validasi ngapain srh nasabah input lg no rangka mesin nasabah dah input validasi aplikasi diblg salah
+"Apliksasi sukar dipakai, hati² dng data pribadi, aplikasi tampaknya kurang aman",negatif,apliksasi sukar pakai hati dng data pribadi aplikasi kurang aman
 Keren ... bisa liat histori service,positif,keren liat histori service
-"Aplikasi useless, CS menyarankan booking lewat aplikasi, jadwal penuh semua hanya tersedia hari Minggu. Saya sdh booking hari Minggu, bengkelnya tutup dan ga ada konfrimasi apa-apa. Kalau dealer ga siap dengan aplikasi, better nggak usah sarankan customer pakai app, buang2 waktu customer namanya.",negatif,aplikasi useless cs saran booking aplikasi jadwal penuh sedia minggu sdh booking minggu bengkel tutup konfrimasi dealer aplikasi better saran customer pakai aplikasi buang customer nama
-"Mantap, rekomendasi service dan riwayat pekerjaan lengkap... (kalo service resmi). Kalo nga resmi juga kelihatan... berarti ke service tidak resmi.",positif,mantap rekomendasi service riwayat kerja lengkap kalo service resmi kalo nga resmi service resmi
-Selalu gagal menambah kendaraan. Periksa kembali nomor mesin/rangka. Nampaknya serial database kendaraan belum diupdate dari pihak Honda HPM.,negatif,gagal tambah kendara periksa nomor mesin rangka nampaknya serial database kendara diupdate honda hpm
+"Aplikasi useless, CS menyarankan booking lewat aplikasi, jadwal penuh semua hanya tersedia hari Minggu. Saya sdh booking hari Minggu, bengkelnya tutup dan ga ada konfrimasi apa-apa. Kalau dealer ga siap dengan aplikasi, better nggak usah sarankan customer pakai app, buang2 waktu customer namanya.",negatif,aplikasi useless cs saran booking aplikasi jadwal penuh sedia minggu sdh booking minggu bengkel tutup tidak konfrimasi dealer tidak aplikasi better tidak saran customer pakai aplikasi buang customer nama
+"Mantap, rekomendasi service dan riwayat pekerjaan lengkap... (kalo service resmi). Kalo nga resmi juga kelihatan... berarti ke service tidak resmi.",positif,mantap rekomendasi service riwayat kerja lengkap kalo service resmi kalo nga resmi service tidak resmi
+Selalu gagal menambah kendaraan. Periksa kembali nomor mesin/rangka. Nampaknya serial database kendaraan belum diupdate dari pihak Honda HPM.,negatif,gagal tambah kendara periksa nomor mesin rangka nampaknya serial database kendara belum diupdate honda hpm
 "Default kolom agamanya ""Katolik"" bikin sentimen ini team IT nya.. Bagus kosongkan saja, apa urusannya service mobil sama agama..",negatif,default kolom agama katolik bikin sentimen team it nya bagus kosong urus service mobil agama
-Tdk berhasil memulihan username krn lupa password. Sejak install pertama kali juga gagal akses,negatif,hasil pulih username lupa password install kali gagal akses
-Tidak bisa registrasi. Poor development,negatif,registrasi poor development
-"Booking service menggunakan aplikasi ini karena ada voucher. Sudah klaim dan booking via app nya, tapi saat klaim voucher tidak bisa. Ditunjukkan saat service jg katanya error gak muncul voucher nya. Jadi merasa ditipu untuk service di honda nya, mengecewakan.",negatif,booking service aplikasi voucher klaim booking via aplikasi nya klaim voucher service error muncul voucher nya tipu service honda nya kecewa
+Tdk berhasil memulihan username krn lupa password. Sejak install pertama kali juga gagal akses,negatif,tidak hasil pulih username lupa password install kali gagal akses
+Tidak bisa registrasi. Poor development,negatif,tidak registrasi poor development
+"Booking service menggunakan aplikasi ini karena ada voucher. Sudah klaim dan booking via app nya, tapi saat klaim voucher tidak bisa. Ditunjukkan saat service jg katanya error gak muncul voucher nya. Jadi merasa ditipu untuk service di honda nya, mengecewakan.",negatif,booking service aplikasi voucher klaim booking via aplikasi nya klaim voucher tidak service error tidak muncul voucher nya tipu service honda nya kecewa
 "Poor develeloped apps, unable to book for service so whats the point for this apps",negatif,poor develeloped apps unable to book for service so whats the point for this apps
 "Nice, many improve idea next version",positif,nice many improve idea next version
 Muncul error saat registrasi,negatif,muncul error registrasi
-"Nambah kendaraan gak bisa !!! Suruh cek no mesin dan rangka, padahal udah bener !!! Apa gara2 mobil CBU ??? Gak guna sama sekali ini apps. !",negatif,nambah kendara suruh cek no mesin rangka bener gara mobil cbu apps
+"Nambah kendaraan gak bisa !!! Suruh cek no mesin dan rangka, padahal udah bener !!! Apa gara2 mobil CBU ??? Gak guna sama sekali ini apps. !",negatif,nambah kendara tidak suruh cek no mesin rangka bener gara mobil cbu tidak apps
 Daftarkan kendaraan diminta cek nomor rangka dan mesin kembali terus. Padahal sudah 3 orang bantu pastikan betul. Tetap aja diminta cek ulang nomor rangka dan mesin. Apa gara mobil saya yg daerah FTZ??,negatif,daftar kendara cek nomor rangka mesin orang bantu pasti cek ulang nomor rangka mesin gara mobil yg daerah ftz
 "baru download, dibuka aja g bisa",negatif,download buka
-app error tdk bisa dibuka ????,negatif,aplikasi error buka
-Habis update terakhir malah tidak bisa dibuka appsnya,positif,habis update buka appsnya
+app error tdk bisa dibuka ????,negatif,aplikasi error tidak buka
+Habis update terakhir malah tidak bisa dibuka appsnya,positif,habis update tidak buka appsnya
 Force close ketika booking,negatif,force close booking
 Helpful app to do booking service at dealer.,positif,helpful aplikasi to do booking service at dealer
-"Tidak bisa booking servis. Sudaj mengisi semua data, klik simpan tapi balik ke menu utama.",negatif,booking servis sudaj isi data klik simpan menu utama
-"Kode aktivasi ngga masuk ke email, walau sdh berkali"" di klik ulang",negatif,kode aktivasi masuk email sdh kali klik ulang
-Minta kode AKTIVASI tdk prnah dikirim. Folder spam & inbox kosong. Gimana mau login. 😪 Semoga honda segera hire ahli IT yg baru.,negatif,kode aktivasi prnah kirim folder spam inbox kosong gimana login moga honda hire ahli it yg
+"Tidak bisa booking servis. Sudaj mengisi semua data, klik simpan tapi balik ke menu utama.",negatif,tidak booking servis sudaj isi data klik simpan menu utama
+"Kode aktivasi ngga masuk ke email, walau sdh berkali"" di klik ulang",negatif,kode aktivasi tidak masuk email sdh kali klik ulang
+Minta kode AKTIVASI tdk prnah dikirim. Folder spam & inbox kosong. Gimana mau login. 😪 Semoga honda segera hire ahli IT yg baru.,negatif,kode aktivasi tidak prnah kirim folder spam inbox kosong gimana login moga honda hire ahli it yg
 Manntappp,positif,manntap
 Akhirnya di konfirmasi,positif,konfirmasi
 Aplikasi kolot,negatif,aplikasi kolot
-Login tidak bisa karena alamat e-mail tidak valid Daftar dg alamat email yg sama tidak bisa karena katanya sudah digunakan Ganti pasword tidak bisa diproses karena tidak ada tombol lanjut setelah menginput alamat email,negatif,login alamat mail valid daftar dg alamat email yg ganti pasword proses tombol menginput alamat email
+Login tidak bisa karena alamat e-mail tidak valid Daftar dg alamat email yg sama tidak bisa karena katanya sudah digunakan Ganti pasword tidak bisa diproses karena tidak ada tombol lanjut setelah menginput alamat email,negatif,login tidak alamat mail tidak valid daftar dg alamat email yg tidak ganti pasword tidak proses tidak tombol menginput alamat email
 "With or without this app, Honda still number one to buy. Because they care.",positif,with or without this aplikasi honda still number one to buy because they care
-"Saya booking service di Honda Tugu Yogya, sudah bbrapa jam gak di konfirm Min. Dah hampir jam nya",positif,booking service honda tugu yogya bbrapa jam konfirm min dah jam nya
+"Saya booking service di Honda Tugu Yogya, sudah bbrapa jam gak di konfirm Min. Dah hampir jam nya",positif,booking service honda tugu yogya bbrapa jam tidak konfirm min dah jam nya
 Kata dealer aplikasi sampah. Voucher tak berguna.,negatif,dealer aplikasi sampah voucher guna
-"Apps sekelas honda, nambahin data mobil aja gak bisa bisa.. uninstall deh. Dear Honda HQ, please review your apps-vendor and team.",negatif,apps kelas honda nambahin data mobil uninstall deh dear honda hq please review your apps vendor and team
-Ga bisa update tambah kendaraan. Udah klik simpan ga bisa. Tampilan voucher kosong sama sekali pdhl saya mau ganti recall fuel pump,negatif,update kendara klik simpan tampil voucher kosong pdhl ganti recall fuel pump
-"Tidak Bisa Menambahkan kendaraan, otomatis tidak bisa booking service.. aplikasi jadi tidak bisa digunakan.. honda kenapa tidak sync data di bengkel dan di apps, tiap ganti bengkel selalu daftar lagi.. kalah sama sebelah",negatif,kendara otomatis booking service aplikasi honda sync data bengkel apps ganti bengkel daftar kalah belah
-"Baru juga install, registrasi..kode aktivasinya ga masuk2. Uninstall ajah",negatif,install registrasi kode aktivasinya masuk uninstall ajah
-Masa Kendaraan CBU tidak ada dalam daftar. Payah,negatif,kendara cbu daftar payah
-"So far ga ada masalah, mungkin bisa ditambah informasi mengenai histori perawatan kendaraan supaya customer bisa recheck apakah kendaraan udah saatnya perawatan",positif,so far tambah informasi histori awat kendara customer recheck kendara awat
-App yang sangat tidak berfungsi dan sangat tidak berguna,negatif,aplikasi fungsi guna
-Baru sekali booking kemudian tidak jadi datang. Setelah itu tidak bisa booking lagi dengan alasan kendaraan ini sudah digunakan untuk booking dengan kode xxx.,negatif,booking booking alas kendara booking kode
+"Apps sekelas honda, nambahin data mobil aja gak bisa bisa.. uninstall deh. Dear Honda HQ, please review your apps-vendor and team.",negatif,apps kelas honda nambahin data mobil tidak uninstall deh dear honda hq please review your apps vendor and team
+Ga bisa update tambah kendaraan. Udah klik simpan ga bisa. Tampilan voucher kosong sama sekali pdhl saya mau ganti recall fuel pump,negatif,tidak update kendara klik simpan tidak tampil voucher kosong pdhl ganti recall fuel pump
+"Tidak Bisa Menambahkan kendaraan, otomatis tidak bisa booking service.. aplikasi jadi tidak bisa digunakan.. honda kenapa tidak sync data di bengkel dan di apps, tiap ganti bengkel selalu daftar lagi.. kalah sama sebelah",negatif,tidak kendara otomatis tidak booking service aplikasi tidak honda tidak sync data bengkel apps ganti bengkel daftar kalah belah
+"Baru juga install, registrasi..kode aktivasinya ga masuk2. Uninstall ajah",negatif,install registrasi kode aktivasinya tidak masuk uninstall ajah
+Masa Kendaraan CBU tidak ada dalam daftar. Payah,negatif,kendara cbu tidak daftar payah
+"So far ga ada masalah, mungkin bisa ditambah informasi mengenai histori perawatan kendaraan supaya customer bisa recheck apakah kendaraan udah saatnya perawatan",positif,so far tidak tambah informasi histori awat kendara customer recheck kendara awat
+App yang sangat tidak berfungsi dan sangat tidak berguna,negatif,aplikasi tidak fungsi tidak guna
+Baru sekali booking kemudian tidak jadi datang. Setelah itu tidak bisa booking lagi dengan alasan kendaraan ini sudah digunakan untuk booking dengan kode xxx.,negatif,booking tidak tidak booking alas kendara booking kode
 Bangke lah aplikasi kalian. Kalian batalkan konfirmasi booking service saya saat tengah malam. Aplikasi tak guna. Menuh-menuhin handphone aja,negatif,bangke aplikasi batal konfirmasi booking service malam aplikasi menuh menuhin handphone
-"Tidak bisa complain Pada apliskasi, saya booking dan voucher pergantian fuel pump yg tidak di pakai saat service tetap hilang terpakai",negatif,complain apliskasi booking voucher ganti fuel pump yg pakai service hilang pakai
-"Kenapa cari lokasi dealer harus pakai map? Ini world map pula, siapa yg mau servis di Africa? Kenapa nggak pakai drop down list? Nggak user friendly.",negatif,cari lokasi dealer pakai map world map yg servis africa pakai drop down list user friendly
+"Tidak bisa complain Pada apliskasi, saya booking dan voucher pergantian fuel pump yg tidak di pakai saat service tetap hilang terpakai",negatif,tidak complain apliskasi booking voucher ganti fuel pump yg tidak pakai service hilang pakai
+"Kenapa cari lokasi dealer harus pakai map? Ini world map pula, siapa yg mau servis di Africa? Kenapa nggak pakai drop down list? Nggak user friendly.",negatif,cari lokasi dealer pakai map world map yg servis africa tidak pakai drop down list tidak user friendly
 Not helping customer,negatif,not helping customer
-Request lupa password tidak bisa. Sudah masukan email yang terdaftar dan benar. Email untuk reset passwordnya tidak pernah sampai,negatif,request lupa password masuk email daftar email reset passwordnya
+Request lupa password tidak bisa. Sudah masukan email yang terdaftar dan benar. Email untuk reset passwordnya tidak pernah sampai,negatif,request lupa password tidak masuk email daftar email reset passwordnya tidak
 "Wasting my time playing around with this app. Submitted booking service appointment, waiting for confirmation forever. Wont use this anymore.",negatif,wasting my time playing around with this aplikasi submitted booking service appointment waiting for confirmation forever wont use this anymore
-sama sekali tidak bisa membantu pengecekan riwayat perawatan,negatif,bantu kece riwayat awat
+sama sekali tidak bisa membantu pengecekan riwayat perawatan,negatif,tidak bantu kece riwayat awat
 "Unable to see service record history in Honda e-Care app, need to benchmark Hyundai, I can see my Hyundai car service history, I think Honda is too secretive 😅",negatif,unable to see service record history in honda care aplikasi need to benchmark hyundai can see my hyundai car service history think honda is too secretive
-"Tidak bisa nambah kendaraan, pas awal registrasi juga tidak dimintain isi nomor rangka dan mesin, mau booking ga bisa karna lom isi nomor tsb",negatif,nambah kendara pas registrasi dimintain isi nomor rangka mesin booking lom isi nomor tsb
-Tidak bisa booking Kendaraan sudah terdaftar tapi tidak bisa pilih. Sudah 6bulan masi ngaco. Feb 2021 App bodong Booking tetap manual.,negatif,booking kendara daftar pilih mas ngaco feb aplikasi bodong booking manual
+"Tidak bisa nambah kendaraan, pas awal registrasi juga tidak dimintain isi nomor rangka dan mesin, mau booking ga bisa karna lom isi nomor tsb",negatif,tidak nambah kendara pas registrasi tidak dimintain isi nomor rangka mesin booking tidak lom isi nomor tsb
+Tidak bisa booking Kendaraan sudah terdaftar tapi tidak bisa pilih. Sudah 6bulan masi ngaco. Feb 2021 App bodong Booking tetap manual.,negatif,tidak booking kendara daftar tidak pilih mas ngaco feb aplikasi bodong booking manual
 "Useless apps, i need service histories of my car, I don't need to see my car number detail on that app.",negatif,useless apps need service histories of my car don need to see my car number detail on that aplikasi
-"Aplikasi sampah, register aja gak bisa hahaha",negatif,aplikasi sampah register hahaha
-"Sudah mendingan dibanding versi sebelumnya, namun belum dipakai untuk booking",positif,mending banding versi pakai booking
+"Aplikasi sampah, register aja gak bisa hahaha",negatif,aplikasi sampah register tidak hahaha
+"Sudah mendingan dibanding versi sebelumnya, namun belum dipakai untuk booking",positif,mending banding versi belum pakai booking
 "Aplikasi setengah jadi, bugs...",negatif,aplikasi bugs
-Gak ada record service nya ya ? Seperti merk tetangga ada menu record service or penggantian part yg telah dilakukan,negatif,record service nya ya merk tetangga menu record service or ganti part yg
+Gak ada record service nya ya ? Seperti merk tetangga ada menu record service or penggantian part yg telah dilakukan,negatif,tidak record service nya ya merk tetangga menu record service or ganti part yg
 "daftar mobil sendiri berulang kali kaga berhasil, sampai hapal nomor rangka dan nomor mesin luar kepala. Aplikasi lambat , SQA harus bener2 proven sebelum release ke public. sangat mengecewakan",negatif,daftar mobil ulang kali kaga hasil hapal nomor rangka nomor mesin kepala aplikasi lambat sqa bener proven release public kecewa
-"Booking service lewat aplikasi jadwalnya tidak sesuai dengan jadwal dealer, di aplikasi jadwal tersedia tetapi belum tentu di delaer tersedia, proses konfirmasinya belum otomatis, booking online disini sifatnya hanya memberikan pesan ke dealer untuk jadwal booking, untuk kepastian jadwalnya dealer yang tentukan, bukan aplikasi ini, jadi menurut saya buang waktu untuk melakukan booking service lewat aplikasi.",negatif,booking service aplikasi jadwal sesuai jadwal dealer aplikasi jadwal sedia delaer sedia proses konfirmasi otomatis booking online sifat pesan dealer jadwal booking pasti jadwal dealer tentu aplikasi buang booking service aplikasi
-Saya sdh booking dan dtg servis sesuai dg booking. Bbrp hari kemudian muncul notifikasi bookingan anda dibatalkan. Berarti ga sinkron donk aplikasi dan dealernya. Aplikasi ga guna percuma ada di playstore,negatif,sdh booking dtg servis sesuai dg booking bbrp muncul notifikasi bookingan batal sinkron donk aplikasi dealernya aplikasi playstore
+"Booking service lewat aplikasi jadwalnya tidak sesuai dengan jadwal dealer, di aplikasi jadwal tersedia tetapi belum tentu di delaer tersedia, proses konfirmasinya belum otomatis, booking online disini sifatnya hanya memberikan pesan ke dealer untuk jadwal booking, untuk kepastian jadwalnya dealer yang tentukan, bukan aplikasi ini, jadi menurut saya buang waktu untuk melakukan booking service lewat aplikasi.",negatif,booking service aplikasi jadwal tidak sesuai jadwal dealer aplikasi jadwal sedia belum delaer sedia proses konfirmasi belum otomatis booking online sifat pesan dealer jadwal booking pasti jadwal dealer tentu bukan aplikasi buang booking service aplikasi
+Saya sdh booking dan dtg servis sesuai dg booking. Bbrp hari kemudian muncul notifikasi bookingan anda dibatalkan. Berarti ga sinkron donk aplikasi dan dealernya. Aplikasi ga guna percuma ada di playstore,negatif,sdh booking dtg servis sesuai dg booking bbrp muncul notifikasi bookingan batal tidak sinkron donk aplikasi dealernya aplikasi tidak playstore
 Usefull...and helpfull..,positif,usefull and helpfull
 Booking service confirmation respond too slow..,negatif,booking service confirmation respond too slow
 Easy to used👍,positif,easy to used
-Agak gk berguna appnya. Mau add mobil buat booking service aja gk bisa,negatif,guna appnya add mobil booking service
+Agak gk berguna appnya. Mau add mobil buat booking service aja gk bisa,negatif,tidak guna appnya add mobil booking service tidak
 "This application is so much bugs, couldnt use this app",negatif,this application is so much bugs couldnt use this aplikasi
-"Baru mau bikin akun. Udah nge crash, buka lagi, crash lagi. Udah pernah di beta test atau belum sih?",negatif,bikin akun nge crash buka crash beta test sih
+"Baru mau bikin akun. Udah nge crash, buka lagi, crash lagi. Udah pernah di beta test atau belum sih?",negatif,bikin akun nge crash buka crash beta test belum sih
 the app is keep stoping and close,negatif,the aplikasi is keep stoping and close
 Kenapa di bagian kewarganegaraan harus ada Pilihan Warga Negara Keturunan ya? Aplikasi sampah!!!,negatif,kewarganegaraan pilih warga negara turun ya aplikasi sampah
 Booking jadi gampang ya,positif,booking gampang ya
 "Sangat memudahkan untuk booking online untuk service, dan konfirmasi dealer sangat cepat",positif,mudah booking online service konfirmasi dealer cepat
-Pilihan paket service ga sesuai saat ke dealer. Harganya lebih mahal.. ternyata cm bahasa marketing mulai dari.... selisih harganya jauh bgt..,negatif,pilih paket service sesuai dealer harga mahal cm bahasa marketing selisih harga banget
+Pilihan paket service ga sesuai saat ke dealer. Harganya lebih mahal.. ternyata cm bahasa marketing mulai dari.... selisih harganya jauh bgt..,negatif,pilih paket service tidak sesuai dealer harga mahal cm bahasa marketing selisih harga banget
 User friendly and great app,positif,user friendly and great aplikasi
 Mantep nih booking jd gampang dan ada pilihan waktunya 👍,positif,mantep nih booking jd gampang pilih
 Good Apps,positif,good apps
-Update profil tidak bisa save,negatif,update profil save
+Update profil tidak bisa save,negatif,update profil tidak save
 I'm booking in Padang by pass. Not give good service. He suggested to booking by phone. Delete application or give more training to them,negatif,booking in padang by pass not give good service he suggested to booking by phone delete application or give more training to them
 "I booked service on 18/08/20 at 07:30, but until 09:00 the bookint status still ""Tunggu konfirmasi"".Then, I called the workshop 3 times but no one answered. At around 10:15, I called the workshop again, and the officer who received my call said there's no booking on behalf of me. So, I have to make a new booking vis her for the service on the other day. Very disappointed. If you can't give the service via your app, please take the app down from tge Google Store.",negatif,booked service on at but until the bookint status still tunggu konfirmasi then called the workshop times but no one answered at around called the workshop again and the officer who received my call said there no booking on behalf of me so have to make new booking vis her for the service on the other day very disappointed if you can give the service via your aplikasi please take the aplikasi down from tge google store
 Setiap mau booking service harus masukan nomor rangka dan nomor mesin mobil yang sama,negatif,booking service masuk nomor rangka nomor mesin mobil
 Server nya lemot.,negatif,server nya lot
-"Seharusnya setiap field (picklist atau bukan) defaultnya blank dulu, bukan otomatis ngisi. Hal ini kalau user tdk melakukan update jd data yg salah (data sampah)",negatif,field picklist defaultnya blank otomatis ngisi user update jd data yg salah data sampah
-Minta customer install. Tapi tidak bisa dipakai.,negatif,customer install pakai
+"Seharusnya setiap field (picklist atau bukan) defaultnya blank dulu, bukan otomatis ngisi. Hal ini kalau user tdk melakukan update jd data yg salah (data sampah)",negatif,field picklist bukan defaultnya blank bukan otomatis ngisi user tidak update jd data yg salah data sampah
+Minta customer install. Tapi tidak bisa dipakai.,negatif,customer install tidak pakai
 Parah sekali,negatif,parah
-Aplikasinya belum siap ya. Booking service smua ga bisa. Uninstall saja deh.,negatif,aplikasi ya booking service smua uninstall deh
+Aplikasinya belum siap ya. Booking service smua ga bisa. Uninstall saja deh.,negatif,aplikasi belum ya booking service smua tidak uninstall deh
 Buat booking dan mantau lebih enak. membantu,positif,booking mantau enak bantu
-App tidak bisa diaktivasi,negatif,aplikasi diaktivasi
-Saya tidak bisa registrasi karena tidal terdaftar? Mhn arahannya,negatif,registrasi tidal daftar mhn arah
-Mau booking service semua tidak tersedia,negatif,booking service sedia
-Aplikasi ini terlalu banyak meminta izin permission sementara itu aplikasi ini tidak mendeklarasikan syarat dan ketentuan dan kebijakan privasi. Padahal waktu register diminta mencontreng persetujuan syarat dan ketentuan dan kebijakan privasi. Uninstal !!!!!!!!,negatif,aplikasi izin permission aplikasi deklarasi syarat tentu bijak privasi register mencontreng tuju syarat tentu bijak privasi uninstal
+App tidak bisa diaktivasi,negatif,aplikasi tidak diaktivasi
+Saya tidak bisa registrasi karena tidal terdaftar? Mhn arahannya,negatif,tidak registrasi tidal daftar mhn arah
+Mau booking service semua tidak tersedia,negatif,booking service tidak sedia
+Aplikasi ini terlalu banyak meminta izin permission sementara itu aplikasi ini tidak mendeklarasikan syarat dan ketentuan dan kebijakan privasi. Padahal waktu register diminta mencontreng persetujuan syarat dan ketentuan dan kebijakan privasi. Uninstal !!!!!!!!,negatif,aplikasi izin permission aplikasi tidak deklarasi syarat tentu bijak privasi register mencontreng tuju syarat tentu bijak privasi uninstal
 Sekelas Honda aplikasi mobile sangat jelek dibandingkan kompetitor. Mungkin yg bikin anak magang di HPM,negatif,kelas honda aplikasi mobile jelek banding kompetitor yg bikin anak magang hpm
 "Perlu banyak perbaikan, integrasi dengan semua bengkel honda. Masak iya, sudah klik disini, masih harus telpon juga.",negatif,baik integrasi bengkel honda masak iya klik telpon
 Lambat,positif,lambat
-"Kejadian hari ini tgl 29 feb 2020 di Honda Soekarno Hatta Pekanbaru, sudah 1 minggu sebelum nya di booking, eh pas hari H nya di bilang staff adm service tidak terdaftar 🤐 ..... not recomended to install",negatif,jadi tgl feb honda soekarno hatta pekanbaru minggu nya booking eh pas nya bilang staff adm service daftar not recomended to install
+"Kejadian hari ini tgl 29 feb 2020 di Honda Soekarno Hatta Pekanbaru, sudah 1 minggu sebelum nya di booking, eh pas hari H nya di bilang staff adm service tidak terdaftar 🤐 ..... not recomended to install",negatif,jadi tgl feb honda soekarno hatta pekanbaru minggu nya booking eh pas nya bilang staff adm service tidak daftar not recomended to install
 I do not want this apps to get many access to my cellphone.,negatif,do not want this apps to get many access to my cellphone
 "I wish when else gave negative feedback, they will improve the app, unfortunately not yet... book service via app, waiting for confirmation until the next day, then I called, informed it was full...and when called to call centre, they said better via telp or WA...",negatif,wish when else gave negative feedback they will improve the aplikasi unfortunately not yet book service via aplikasi waiting for confirmation until the next day then called informed it was full and when called to call centre they said better via telp or wa
 Error,negatif,error
-"Mo registrasi aja gagal,, mobil tidak terdaftar,, gmn mo pake... Hadeeehhh",negatif,mo registrasi gagal mobil daftar gmn mo pake hadeh
+"Mo registrasi aja gagal,, mobil tidak terdaftar,, gmn mo pake... Hadeeehhh",negatif,mo registrasi gagal mobil tidak daftar gmn mo pake hadeh
 Isi data kenapa berbau rasis yah? WNI WNI KETURUNAN (CHINESE) WNI KETURUNAN (LAINNYA) WNI KETURUNAN (INDIA) WNA,negatif,isi data bau ras yah wni wni turun chinese wni turun wni turun india wna
 Selalu gagal untuk registrasi,negatif,gagal registrasi
 "6 bulan kemudian kejadian yg sama berulang. Sudah booking melalui app, mendapat pemberitahuan per telpon jadwal waktu service di reassign ke jam lebih lambat.... What a waste.....",negatif,jadi yg ulang booking aplikasi pemberitahuan telpon jadwal service reassign jam lambat what waste
-"Tidak dapat registrasi, kendaraan tidak terdaftar",negatif,registrasi kendara daftar
-Tidak bisa registrasi. Muncul notif : cURL error 7: failed to connect to....... Tolong diperbaiki sistem applikasi nya,negatif,registrasi muncul notif curl error failed to connect to tolong baik sistem applikasi nya
+"Tidak dapat registrasi, kendaraan tidak terdaftar",negatif,tidak registrasi kendara tidak daftar
+Tidak bisa registrasi. Muncul notif : cURL error 7: failed to connect to....... Tolong diperbaiki sistem applikasi nya,negatif,tidak registrasi muncul notif curl error failed to connect to tolong baik sistem applikasi nya
 "Membuatku Terharu...ketika mencoba apps ini. Sangat diluar ekspetasi, baru mau register selalu gagal padahal data udah valid.",negatif,buat haru coba apps luar ekspetasi register gagal data valid
-"Kemarin ganti oli request engine flush, SA nya ga tau engine flush apa, malah dikasi engine cleaner. Mohon customer dimengerti. SA nya ditraining kalau ga tau engine flush pas ganti oli",negatif,kemarin ganti oli request engine flush sa nya tau engine flush kasi engine cleaner mohon customer erti sa nya ditraining tau engine flush pas ganti oli
-"BUTUT! aplikasi tdk bisa booking pdhl sdh pilih bbbrp bengkel n waktu yg kosong. Akhirnya pake sistem jadul, telpon lsg bengkel.",negatif,butut aplikasi booking pdhl sdh pilih brp bengkel yg kosong pake sistem jadul telpon lsg bengkel
+"Kemarin ganti oli request engine flush, SA nya ga tau engine flush apa, malah dikasi engine cleaner. Mohon customer dimengerti. SA nya ditraining kalau ga tau engine flush pas ganti oli",negatif,kemarin ganti oli request engine flush sa nya tidak tau engine flush kasi engine cleaner mohon customer erti sa nya ditraining tidak tau engine flush pas ganti oli
+"BUTUT! aplikasi tdk bisa booking pdhl sdh pilih bbbrp bengkel n waktu yg kosong. Akhirnya pake sistem jadul, telpon lsg bengkel.",negatif,butut aplikasi tidak booking pdhl sdh pilih brp bengkel yg kosong pake sistem jadul telpon lsg bengkel
 "Susah sekali untuk booking melalui aplikasi ini. Sebaiknya belajar dari aplikasi auto 2000 toyota atau aplikasi honda fatmawati grup, aplikasi mereka jauh lebih oke.",negatif,susah booking aplikasi ajar aplikasi auto toyota aplikasi honda fatmawati grup aplikasi oke
-Aplikasi ini kenapa membutuhkan read storage ya? Tidak ada hubungannya dengan booking dan lain lain,negatif,aplikasi butuh read storage ya hubung booking
+Aplikasi ini kenapa membutuhkan read storage ya? Tidak ada hubungannya dengan booking dan lain lain,negatif,aplikasi butuh read storage ya tidak hubung booking
 "Mau install tapi ragu musti grant gps, write storage ,read storage , cell phone 😞 tak install aja deh. Manual by phone aja",negatif,install ragu musti grant gps write storage read storage cell phone install deh manual by phone
 Good aplikasi,positif,good aplikasi
 Lebih bagus lagi jika dilengkapi dengan history servis.,positif,bagus lengkap history servis
-"Pada saat registrasi d apps, muncul pesan kendaraan tidak ditemukan atau belum terdaftar. Mhn saran nya?",negatif,registrasi apps muncul pesan kendara temu daftar mhn saran nya
-"gak bisa registrasi, katanya kendaraan tidak dikenal atau belum terdaftar, aplikasi yang aneh....",negatif,registrasi kendara kenal daftar aplikasi aneh
-"saya registrasi aja belum bisa, masa keterangannya kendaraan anda belum terdaftar.",negatif,registrasi terang kendara daftar
-"Saya coba booking via phone Honda Pradana Sawangan 12-Agu-2019 jam 10.00 masih bisa, tapi via aplikasi tidak ada slot utk servis di jam tsb. Mohon dikonfigurasi ulang ya. Kalau bisa online dan semua jm slot servis terinfo, kalau berfungsi kan aplikasi ini bisa luar biasa manfaatnya. Saya uninstall deh.",negatif,coba booking via phone honda pradana sawangan agu jam via aplikasi slot utk servis jam tsb mohon konfigurasi ulang ya online jm slot servis info fungsi aplikasi manfaat uninstall deh
+"Pada saat registrasi d apps, muncul pesan kendaraan tidak ditemukan atau belum terdaftar. Mhn saran nya?",negatif,registrasi apps muncul pesan kendara tidak temu belum daftar mhn saran nya
+"gak bisa registrasi, katanya kendaraan tidak dikenal atau belum terdaftar, aplikasi yang aneh....",negatif,tidak registrasi kendara tidak kenal belum daftar aplikasi aneh
+"saya registrasi aja belum bisa, masa keterangannya kendaraan anda belum terdaftar.",negatif,registrasi belum terang kendara belum daftar
+"Saya coba booking via phone Honda Pradana Sawangan 12-Agu-2019 jam 10.00 masih bisa, tapi via aplikasi tidak ada slot utk servis di jam tsb. Mohon dikonfigurasi ulang ya. Kalau bisa online dan semua jm slot servis terinfo, kalau berfungsi kan aplikasi ini bisa luar biasa manfaatnya. Saya uninstall deh.",negatif,coba booking via phone honda pradana sawangan agu jam via aplikasi tidak slot utk servis jam tsb mohon konfigurasi ulang ya online jm slot servis info fungsi aplikasi manfaat uninstall deh
 registrasi ribet,negatif,registrasi ribet
-"booking service susah sekali dan di telp pada gak diangkat. Honda kalo belum siap untuk online service, mendingan dipending aja dulu e-care nya dari pada bikin kecewa customer. update : Di honda trio motor banjarbaru.",negatif,booking service susah telp angkat honda kalo online service mending pending care nya bikin kecewa customer update honda trio motor banjarbaru
-"lupa password minfa ganti tp tetap ga bisa masuk,paraaahhhh",negatif,lupa password minfa ganti masuk parah
-"dihapus saja aplikasi nya,percuma hanya buang buang waktu,daripada memberikan harapan sia sia buat costumer .nomor telepon tidak ada yang pernah diangkat.mobil honda saya mogok di jalan malah tidak memberikan solusi,lebih baik langsung cari bengkel pinggir jalan.",negatif,hapus aplikasi nya buang buang harap sia sia costumer nomor telepon angkat mobil honda mogok jalan solusi langsung cari bengkel pinggir jalan
-baru register aja gagal. Mobil tidak terdaftar katanya. sampah....,negatif,register gagal mobil daftar sampah
+"booking service susah sekali dan di telp pada gak diangkat. Honda kalo belum siap untuk online service, mendingan dipending aja dulu e-care nya dari pada bikin kecewa customer. update : Di honda trio motor banjarbaru.",negatif,booking service susah telp tidak angkat honda kalo belum online service mending pending care nya bikin kecewa customer update honda trio motor banjarbaru
+"lupa password minfa ganti tp tetap ga bisa masuk,paraaahhhh",negatif,lupa password minfa ganti tidak masuk parah
+"dihapus saja aplikasi nya,percuma hanya buang buang waktu,daripada memberikan harapan sia sia buat costumer .nomor telepon tidak ada yang pernah diangkat.mobil honda saya mogok di jalan malah tidak memberikan solusi,lebih baik langsung cari bengkel pinggir jalan.",negatif,hapus aplikasi nya buang buang harap sia sia costumer nomor telepon tidak angkat mobil honda mogok jalan tidak solusi langsung cari bengkel pinggir jalan
+baru register aja gagal. Mobil tidak terdaftar katanya. sampah....,negatif,register gagal mobil tidak daftar sampah
 good appl. first using for booking service and get quick respon from call center for confirmation...,positif,good appl first using for booking service and get quick respon from call center for confirmation
 very good app .sangat membantu bgt! tingkatkan lagi,positif,very good aplikasi bantu banget tingkat
 jgn lupa share like and subscribe,positif,jgn lupa share like and subscribe
@@ -1025,13 +1026,13 @@ booking service jadi lebih mudah,positif,booking service mudah
 Good apps Friendly user,positif,good apps friendly user
 Honda is the best,positif,honda is the best
 layanan yang bagus,positif,layan bagus
-"Tidak bisa add dealer, bagaimana bisa booking?",negatif,add dealer booking
+"Tidak bisa add dealer, bagaimana bisa booking?",negatif,tidak add dealer booking
 booking jadi gampang bgt..,positif,booking gampang banget
 application that will make booking service easier and helpful.,positif,application that will make booking service easier and helpful
-mau registrasi tp gagal terus... katanya nomor mesin tidak terdaftar..capek deh,negatif,registrasi gagal nomor mesin daftar capek deh
+mau registrasi tp gagal terus... katanya nomor mesin tidak terdaftar..capek deh,negatif,registrasi gagal nomor mesin tidak daftar capek deh
 uninstalled. kebanyakan error nya daripada bener nya. exception error terus. don't bother to install guys.,negatif,uninstalled banyak error nya bener nya exception error don bother to install guys
 sekelas honda bikin apps gini? kalah ama anak2 smk... parah,negatif,kelas honda bikin apps gin kalah ama anak smk parah
-Kok kendaraan tdk terdaftar trus ya,negatif,kendara daftar trus ya
-Aktifasi email aja gak pernah sampai emailnya,negatif,aktifasi email email
-Berberap hal yg harus diupdate 1. Honda cakra pangukir salemba tidak masuk ,negatif,rap yg diupdate honda cakra pangukir salemba masuk
+Kok kendaraan tdk terdaftar trus ya,negatif,kendara tidak daftar trus ya
+Aktifasi email aja gak pernah sampai emailnya,negatif,aktifasi email tidak email
+Berberap hal yg harus diupdate 1. Honda cakra pangukir salemba tidak masuk ,negatif,rap yg diupdate honda cakra pangukir salemba tidak masuk
 Good app provided by HPM,positif,good aplikasi provided by hpm
