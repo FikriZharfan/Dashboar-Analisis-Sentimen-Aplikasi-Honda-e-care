@@ -793,7 +793,7 @@ def load_dataset() -> pd.DataFrame:
 
 
 @st.cache_resource
-def load_models(_mtime: float = 0.0):
+def load_models(_artifact_signature: Tuple[float, ...] = (0.0,)):
     return (
         joblib.load(os.path.join(MODELS_DIR, "nb_model.pkl")),
         joblib.load(os.path.join(MODELS_DIR, "svm_model.pkl")),
@@ -1213,13 +1213,25 @@ def page_evaluation(metrics_df: pd.DataFrame, cv_df: pd.DataFrame, metadata: Dic
 def load_all_data():
     """Memuat dataset & model dengan progress bar."""
     data_mtime = os.path.getmtime(DATA_PATH) if os.path.exists(DATA_PATH) else 0.0
+    model_files = [
+        "nb_model.pkl",
+        "svm_model.pkl",
+        "tfidf.pkl",
+        "label_encoder.pkl",
+        "preprocessor_config.json",
+    ]
+    artifact_signature = tuple(
+        os.path.getmtime(os.path.join(MODELS_DIR, filename))
+        if os.path.exists(os.path.join(MODELS_DIR, filename))
+        else 0.0
+        for filename in model_files
+    )
     bar = st.progress(0, text="Inisialisasi dashboard…")
     bar.progress(10, text="Memuat dataset…")
     raw_df = load_dataset()
     df = load_dataset_with_cleaned_text(data_mtime)
     bar.progress(55, text="Memuat model ML…")
-    model_mtime = os.path.getmtime(os.path.join(MODELS_DIR, "nb_model.pkl")) if os.path.exists(os.path.join(MODELS_DIR, "nb_model.pkl")) else 0.0
-    models = load_models(model_mtime)
+    models = load_models(artifact_signature)
     bar.progress(85, text="Menyiapkan evaluasi…")
     metrics_path = os.path.join(MODELS_DIR, "evaluation_metrics.csv")
     cv_path = os.path.join(MODELS_DIR, "cv_results.csv")
