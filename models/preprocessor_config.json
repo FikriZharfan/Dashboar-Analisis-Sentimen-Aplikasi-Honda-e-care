@@ -26,6 +26,36 @@
     "sm": "sama",
     "mantul": "mantap"
   },
+  "protected_stopwords": [
+    "belum",
+    "bukan",
+    "jangan",
+    "kurang",
+    "tidak"
+  ],
+  "negation_words": [
+    "belum",
+    "bukan",
+    "tidak"
+  ],
+  "negated_negative_terms": [
+    "bug",
+    "crash",
+    "error",
+    "eror",
+    "forceclose",
+    "hang",
+    "lag",
+    "lambat",
+    "lemot",
+    "macet",
+    "ngelag",
+    "ngefreeze",
+    "susah"
+  ],
+  "negation_replacement_tokens": [
+    "lancar"
+  ],
   "stopwords": [
     "ada",
     "adalah",
@@ -93,7 +123,6 @@
     "bekerja",
     "belakang",
     "belakangan",
-    "belum",
     "belumlah",
     "benar",
     "benarkah",
@@ -152,7 +181,6 @@
     "bolehkah",
     "bolehlah",
     "buat",
-    "bukan",
     "bukankah",
     "bukanlah",
     "bukannya",
@@ -301,7 +329,6 @@
     "jadi",
     "jadilah",
     "jadinya",
-    "jangan",
     "jangankan",
     "janganlah",
     "jauh",
@@ -371,7 +398,6 @@
     "kita",
     "kitalah",
     "kok",
-    "kurang",
     "lagi",
     "lagian",
     "lah",
@@ -751,7 +777,6 @@
     "tiap",
     "tiba",
     "tiba-tiba",
-    "tidak",
     "tidakkah",
     "tidaklah",
     "tiga",

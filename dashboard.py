@@ -8,6 +8,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 from typing import Dict, List, Optional, Tuple
 
 import joblib
@@ -729,13 +730,27 @@ def load_preprocessor_config() -> Dict:
             "nggak": "tidak", "tdk": "tidak", "bgt": "banget",
             "apk": "aplikasi", "app": "aplikasi",
         },
+        "protected_stopwords": ["tidak", "bukan", "jangan", "belum", "kurang"],
+        "negation_words": ["tidak", "bukan", "belum"],
+        "negated_negative_terms": [
+            "bug", "crash", "error", "eror", "forceclose", "hang",
+            "lag", "lambat", "lemot", "macet", "ngelag", "ngefreeze", "susah",
+        ],
+        "negation_replacement_tokens": ["lancar"],
         "stopwords": stopwords.words("indonesian"),
     }
 
 
 CONFIG = load_preprocessor_config()
 NORMALIZATION_DICT = CONFIG["normalization_dict"]
-INDO_STOPWORDS = set(CONFIG["stopwords"])
+PROTECTED_STOPWORDS = set(CONFIG.get("protected_stopwords", ["tidak", "bukan", "jangan", "belum", "kurang"]))
+INDO_STOPWORDS = set(CONFIG["stopwords"]) - PROTECTED_STOPWORDS
+NEGATION_WORDS = set(CONFIG.get("negation_words", ["tidak", "bukan", "belum"]))
+NEGATED_NEGATIVE_TERMS = set(CONFIG.get("negated_negative_terms", [
+    "bug", "crash", "error", "eror", "forceclose", "hang",
+    "lag", "lambat", "lemot", "macet", "ngelag", "ngefreeze", "susah",
+]))
+NEGATION_REPLACEMENT_TOKENS = CONFIG.get("negation_replacement_tokens", ["lancar"])
 
 
 def read_dataset(path: str) -> pd.DataFrame:
@@ -793,6 +808,7 @@ def remove_repeated_characters(text: str) -> str:
 
 def clean_text(text: str) -> str:
     text = str(text).lower()
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     text = re.sub(r"http\S+|www\S+", " ", text)
     text = re.sub(r"<.*?>", " ", text)
     text = re.sub(r"@\w+", " ", text)
@@ -809,9 +825,25 @@ def preprocess_text(text: str) -> str:
     text = clean_text(text)
     tokens = word_tokenize(text)
     tokens = [NORMALIZATION_DICT.get(t, t) for t in tokens]
+    tokens = apply_negation_rules(tokens)
     tokens = [t for t in tokens if t not in INDO_STOPWORDS and len(t) > 1]
     tokens = [STEMMER.stem(t) for t in tokens]
     return " ".join(tokens)
+
+
+def apply_negation_rules(tokens: List[str]) -> List[str]:
+    result: List[str] = []
+    idx = 0
+    while idx < len(tokens):
+        current = tokens[idx]
+        next_token = tokens[idx + 1] if idx + 1 < len(tokens) else ""
+        if current in NEGATION_WORDS and next_token in NEGATED_NEGATIVE_TERMS:
+            result.extend(NEGATION_REPLACEMENT_TOKENS)
+            idx += 2
+            continue
+        result.append(current)
+        idx += 1
+    return result
 
 
 def _finalize_labeled_df(df: pd.DataFrame) -> pd.DataFrame:

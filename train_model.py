@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import unicodedata
 import warnings
 from collections import Counter
 from typing import Dict, List
@@ -134,7 +135,8 @@ def ensure_nltk_resources() -> None:
 
 ensure_nltk_resources()
 
-INDO_STOPWORDS = set(stopwords.words("indonesian"))
+PROTECTED_STOPWORDS = {"tidak", "bukan", "jangan", "belum", "kurang"}
+INDO_STOPWORDS = set(stopwords.words("indonesian")) - PROTECTED_STOPWORDS
 STEMMER = StemmerFactory().create_stemmer()
 
 NORMALIZATION_DICT = {
@@ -165,6 +167,24 @@ NORMALIZATION_DICT = {
     "mantul": "mantap",
 }
 
+NEGATION_WORDS = {"tidak", "bukan", "belum"}
+NEGATED_NEGATIVE_TERMS = {
+    "bug",
+    "crash",
+    "error",
+    "eror",
+    "forceclose",
+    "hang",
+    "lag",
+    "lambat",
+    "lemot",
+    "macet",
+    "ngelag",
+    "ngefreeze",
+    "susah",
+}
+NEGATION_REPLACEMENT_TOKENS = ["lancar"]
+
 
 # =====================================================
 # FUNGSI PREPROCESSING
@@ -177,6 +197,7 @@ def remove_repeated_characters(text: str) -> str:
 def clean_text(text: str) -> str:
     """Membersihkan teks dari noise."""
     text = text.lower()
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     text = re.sub(r"http\S+|www\S+", " ", text)
     text = re.sub(r"<.*?>", " ", text)
     text = re.sub(r"@\w+", " ", text)
@@ -195,12 +216,29 @@ def normalize_tokens(tokens: List[str]) -> List[str]:
     return [NORMALIZATION_DICT.get(token, token) for token in tokens]
 
 
+def apply_negation_rules(tokens: List[str]) -> List[str]:
+    """Mengubah pola seperti 'tidak ngelag' menjadi sinyal positif."""
+    result: List[str] = []
+    idx = 0
+    while idx < len(tokens):
+        current = tokens[idx]
+        next_token = tokens[idx + 1] if idx + 1 < len(tokens) else ""
+        if current in NEGATION_WORDS and next_token in NEGATED_NEGATIVE_TERMS:
+            result.extend(NEGATION_REPLACEMENT_TOKENS)
+            idx += 2
+            continue
+        result.append(current)
+        idx += 1
+    return result
+
+
 def preprocess_text(text: str) -> str:
     """Pipeline preprocessing lengkap."""
     text = str(text)
     text = clean_text(text)
     tokens = word_tokenize(text)
     tokens = normalize_tokens(tokens)
+    tokens = apply_negation_rules(tokens)
     tokens = [token for token in tokens if token not in INDO_STOPWORDS and len(token) > 1]
     tokens = [STEMMER.stem(token) for token in tokens]
     return " ".join(tokens)
@@ -696,6 +734,10 @@ def main() -> None:
     # Menyimpan artefak tambahan untuk dashboard
     preprocessor_bundle = {
         "normalization_dict": NORMALIZATION_DICT,
+        "protected_stopwords": sorted(list(PROTECTED_STOPWORDS)),
+        "negation_words": sorted(list(NEGATION_WORDS)),
+        "negated_negative_terms": sorted(list(NEGATED_NEGATIVE_TERMS)),
+        "negation_replacement_tokens": NEGATION_REPLACEMENT_TOKENS,
         "stopwords": sorted(list(INDO_STOPWORDS)),
     }
     with open(os.path.join(MODELS_DIR, "preprocessor_config.json"), "w", encoding="utf-8") as f:
