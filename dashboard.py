@@ -846,6 +846,31 @@ def apply_negation_rules(tokens: List[str]) -> List[str]:
     return result
 
 
+def has_positive_negation(text: str) -> bool:
+    cleaned = clean_text(text)
+    if not cleaned:
+        return False
+
+    tokens = [NORMALIZATION_DICT.get(token, token) for token in word_tokenize(cleaned)]
+    if len(tokens) < 2:
+        return False
+
+    for index, token in enumerate(tokens):
+        if token not in NEGATION_WORDS:
+            continue
+
+        for offset in range(1, min(4, len(tokens) - index)):
+            if tokens[index + offset] in NEGATED_NEGATIVE_TERMS:
+                return True
+
+    return False
+
+
+def predict_sentiment(text: str, cleaned: str, model, tfidf, label_encoder) -> str:
+    vec = tfidf.transform([cleaned])
+    return str(label_encoder.inverse_transform(model.predict(vec))[0])
+
+
 def _finalize_labeled_df(df: pd.DataFrame) -> pd.DataFrame:
     return df.dropna(subset=["content", "label"]).reset_index(drop=True)
 
@@ -1095,8 +1120,7 @@ def page_predict_text(nb_model, svm_model, tfidf, label_encoder) -> None:
             with st.spinner("Memproses teks & memprediksi…"):
                 time.sleep(0.35)
                 cleaned = preprocess_text(user_input)
-                vec = tfidf.transform([cleaned])
-                pred_label = label_encoder.inverse_transform(model.predict(vec))[0]
+                pred_label = predict_sentiment(user_input, cleaned, model, tfidf, label_encoder)
 
             render_prediction_result(cleaned, str(pred_label), model_name)
 
@@ -1107,8 +1131,10 @@ def page_predict_text(nb_model, svm_model, tfidf, label_encoder) -> None:
     ]
     ex_df = pd.DataFrame({"content": examples})
     ex_df["cleaned_text"] = ex_df["content"].apply(preprocess_text)
-    ex_vec = tfidf.transform(ex_df["cleaned_text"])
-    ex_df["prediction"] = label_encoder.inverse_transform(model.predict(ex_vec))
+    ex_df["prediction"] = ex_df.apply(
+        lambda row: predict_sentiment(str(row["content"]), str(row["cleaned_text"]), model, tfidf, label_encoder),
+        axis=1,
+    )
     styled_dataframe(ex_df)
 
 
