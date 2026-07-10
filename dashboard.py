@@ -617,10 +617,15 @@ def render_insight_card(
     )
 
 
-def render_prediction_result(cleaned: str, pred_label: str, model_name: str) -> None:
-    """Menampilkan preprocessing + prediksi dengan kontras tinggi (bukan st.markdown default)."""
+def render_prediction_result(cleaned: str, pred_label: str, model_name: str, note: str = "") -> None:
+    """Menampilkan preprocessing + prediksi dengan kontras tinggi (bukan st.markdown default).
+
+    `pred_label` harus berupa label kanonis (`positif` atau `negatif`) — warna kartu ditentukan
+    dari nilai ini. Parameter `note` dipakai untuk menambahkan keterangan (mis. "(negasi terdeteksi)").
+    """
     safe_text = html_module.escape(cleaned)
     safe_model = html_module.escape(model_name)
+    safe_note = f" {html_module.escape(note)}" if note else ""
     val_cls = "honda-prediction-value--pos" if pred_label == "positif" else "honda-prediction-value--neg"
     st.markdown(
         f"""
@@ -631,7 +636,7 @@ def render_prediction_result(cleaned: str, pred_label: str, model_name: str) -> 
             </div>
             <div class="honda-prediction-row honda-prediction-row--result">
                 <span class="honda-prediction-field-label">Hasil prediksi</span>
-                <span class="honda-prediction-value {val_cls}">{pred_label.upper()} · {safe_model}</span>
+                <span class="honda-prediction-value {val_cls}">{pred_label.upper()}{safe_note} · {safe_model}</span>
             </div>
         </div>
         """,
@@ -1120,9 +1125,15 @@ def page_predict_text(nb_model, svm_model, tfidf, label_encoder) -> None:
             with st.spinner("Memproses teks & memprediksi…"):
                 time.sleep(0.35)
                 cleaned = preprocess_text(user_input)
-                pred_label = predict_sentiment(user_input, cleaned, model, tfidf, label_encoder)
+                pred_label_canonical = predict_sentiment(user_input, cleaned, model, tfidf, label_encoder)
 
-            render_prediction_result(cleaned, str(pred_label), model_name)
+                # Jika pola "tidak <term_negatif>" terdeteksi, ini sebenarnya menyiratkan sentimen positif.
+                note = ""
+                if has_positive_negation(user_input) and str(pred_label_canonical) == "negatif":
+                    pred_label_canonical = "positif"
+                    note = "(negasi terdeteksi)"
+
+            render_prediction_result(cleaned, str(pred_label_canonical), model_name, note)
 
     section_title("Contoh Prediksi Otomatis")
     examples = [
@@ -1175,6 +1186,15 @@ def page_predict_csv(nb_model, svm_model, tfidf, label_encoder) -> None:
         pred_vec = tfidf.transform(pred_df["cleaned_text"])
         progress.progress(80, text="Memprediksi sentimen…")
         pred_df["predicted_label"] = label_encoder.inverse_transform(model.predict(pred_vec))
+
+        # Koreksi sederhana: jika pola "tidak <term_negatif>" terdeteksi, anggap positif.
+        try:
+            neg_mask = pred_df["content"].astype(str).apply(has_positive_negation) & (pred_df["predicted_label"] == "negatif")
+            if neg_mask.any():
+                pred_df.loc[neg_mask, "predicted_label"] = "positif (negasi terdeteksi)"
+        except Exception:
+            # jangan gagalkan seluruh proses hanya karena fungsi koreksi
+            pass
         progress.progress(100, text="Selesai!")
         time.sleep(0.25)
         progress.empty()
