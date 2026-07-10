@@ -183,7 +183,10 @@ NEGATED_NEGATIVE_TERMS = {
     "ngefreeze",
     "susah",
 }
-NEGATION_REPLACEMENT_TOKENS = ["lancar"]
+# Negation replacement tokens removed to keep original negation patterns
+# during preprocessing used in the research. Do not replace "tidak ngelag"
+# with a positive token; instead training/prediction logic relies on
+# detecting negation patterns.
 
 
 # =====================================================
@@ -217,19 +220,13 @@ def normalize_tokens(tokens: List[str]) -> List[str]:
 
 
 def apply_negation_rules(tokens: List[str]) -> List[str]:
-    """Mengubah pola seperti 'tidak ngelag' menjadi sinyal positif."""
-    result: List[str] = []
-    idx = 0
-    while idx < len(tokens):
-        current = tokens[idx]
-        next_token = tokens[idx + 1] if idx + 1 < len(tokens) else ""
-        if current in NEGATION_WORDS and next_token in NEGATED_NEGATIVE_TERMS:
-            result.extend(NEGATION_REPLACEMENT_TOKENS)
-            idx += 2
-            continue
-        result.append(current)
-        idx += 1
-    return result
+    """No-op negation handling: preserve original token sequence.
+
+    Negation replacement (e.g. mapping "tidak ngelag" -> "lancar")
+    was removed so that negation patterns remain explicit for
+    `has_positive_negation()` detection used in prediction.
+    """
+    return tokens
 
 
 def preprocess_text(text: str) -> str:
@@ -737,7 +734,6 @@ def main() -> None:
         "protected_stopwords": sorted(list(PROTECTED_STOPWORDS)),
         "negation_words": sorted(list(NEGATION_WORDS)),
         "negated_negative_terms": sorted(list(NEGATED_NEGATIVE_TERMS)),
-        "negation_replacement_tokens": NEGATION_REPLACEMENT_TOKENS,
         "stopwords": sorted(list(INDO_STOPWORDS)),
     }
     with open(os.path.join(MODELS_DIR, "preprocessor_config.json"), "w", encoding="utf-8") as f:
